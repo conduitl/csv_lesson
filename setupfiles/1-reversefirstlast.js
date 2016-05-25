@@ -1,7 +1,8 @@
 var fs = require('fs');
 
-fs.readFile('multilineJS-output.csv', 'utf8', (err, data) => {
+fs.readFile('legislators.csv', 'utf8', (err, data) => {
   data = data.split('\r\n'); // split into rows
+	data.shift(); // remove header row
   data = data.map( (element) => {
     return element.split(',');
   });
@@ -17,7 +18,7 @@ function createJson(filename, two_dimensional_array) {
     array_of_objects.push({
       firstname: element[0],
       lastname: element[1],
-      state: element[2]
+      state: element[5]
     });
   
   });

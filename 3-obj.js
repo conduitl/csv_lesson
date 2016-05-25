@@ -2,7 +2,7 @@ var fs = require('fs');
 
 var divider_lastname = /\s(?=\w+$)/g;
 
-fs.readFile('multilineJS-output.csv', 'utf8', parseFile );
+fs.readFile('output/1-multilineJS-output.csv', 'utf8', parseFile );
 // (1)
 function parseFile(err, data) {
 
@@ -13,7 +13,7 @@ function parseFile(err, data) {
     return element.split(',');
   });
 
-  prepareFile('objJS-output', 'json', data);
+  prepareFile('output/3-objJS-output', 'json', data);
 }
 
 // (2)

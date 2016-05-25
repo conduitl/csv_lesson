@@ -1,6 +1,6 @@
 var fs = require('fs'); 
 
-fs.readFile('reversemulti-output.csv', 'utf8', parseFile );
+fs.readFile('input/legislators-subset.csv', 'utf8', parseFile );
 // (1)
 function parseFile(err, data) {
 
@@ -16,7 +16,7 @@ function parseFile(err, data) {
 		return element.split('\n');
 	});
 
-	prepareFile('multilineJS-output', 'csv', data);
+	prepareFile('output/1-multilineJS-output', 'csv', data);
 }
 
 // (2)
