@@ -1,0 +1,6237 @@
+{
+  "Alabama": {
+    "governor": "Robert Bentley",
+    "abbr": "AL",
+    "capital": "Montgomery",
+    "legislators": [
+      {
+        "lastname": "Sessions",
+        "firstname": "Jefferson",
+        "birthday": "12/24/1946",
+        "type": "sen",
+        "state": "AL",
+        "party": "Republican",
+        "website": "http://www.sessions.senate.gov",
+        "phone": "202-224-4124",
+        "contact_form": "http://www.sessions.senate.gov/public/index.cfm/contact-jeff"
+      },
+      {
+        "lastname": "Aderholt",
+        "firstname": "Robert",
+        "birthday": "7/22/1965",
+        "type": "rep",
+        "state": "AL",
+        "party": "Republican",
+        "website": "https://aderholt.house.gov",
+        "phone": "202-225-4876",
+        "contact_form": "http://aderholt.house.gov/email-me2/"
+      },
+      {
+        "lastname": "Brooks",
+        "firstname": "Mo",
+        "birthday": "4/29/1954",
+        "type": "rep",
+        "state": "AL",
+        "party": "Republican",
+        "website": "http://brooks.house.gov",
+        "phone": "202-225-4801",
+        "contact_form": "https://brooks.house.gov/email-me"
+      },
+      {
+        "lastname": "Roby",
+        "firstname": "Martha",
+        "birthday": "7/27/1976",
+        "type": "rep",
+        "state": "AL",
+        "party": "Republican",
+        "website": "http://roby.house.gov",
+        "phone": "202-225-2901",
+        "contact_form": "https://roby.house.gov/contact-me"
+      },
+      {
+        "lastname": "Rogers",
+        "firstname": "Mike",
+        "birthday": "7/16/1958",
+        "type": "rep",
+        "state": "AL",
+        "party": "Republican",
+        "website": "http://mikerogers.house.gov",
+        "phone": "202-225-3261",
+        "contact_form": "http://mikerogers.house.gov/contact-mike/email-me"
+      },
+      {
+        "lastname": "Sewell",
+        "firstname": "Terri",
+        "birthday": "1/1/1965",
+        "type": "rep",
+        "state": "AL",
+        "party": "Democrat",
+        "website": "https://sewell.house.gov",
+        "phone": "202-225-2665",
+        "contact_form": "https://sewell.house.gov/email-me"
+      },
+      {
+        "lastname": "Shelby",
+        "firstname": "Richard",
+        "birthday": "5/6/1934",
+        "type": "sen",
+        "state": "AL",
+        "party": "Republican",
+        "website": "http://www.shelby.senate.gov",
+        "phone": "202-224-5744",
+        "contact_form": "http://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby"
+      },
+      {
+        "lastname": "Byrne",
+        "firstname": "Bradley",
+        "birthday": "2/16/1955",
+        "type": "rep",
+        "state": "AL",
+        "party": "Republican",
+        "website": "https://byrne.house.gov",
+        "phone": "202-225-4931",
+        "contact_form": "https://byrne.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Palmer",
+        "firstname": "Gary",
+        "birthday": "5/14/1954",
+        "type": "rep",
+        "state": "AL",
+        "party": "Republican",
+        "website": "https://palmer.house.gov",
+        "phone": "202-225-4921",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Alaska": {
+    "governor": "Bill Walker",
+    "abbr": "AK",
+    "capital": "Juneau",
+    "legislators": [
+      {
+        "lastname": "Murkowski",
+        "firstname": "Lisa",
+        "birthday": "5/22/1957",
+        "type": "sen",
+        "state": "AK",
+        "party": "Republican",
+        "website": "https://www.murkowski.senate.gov",
+        "phone": "202-224-6665",
+        "contact_form": "http://www.murkowski.senate.gov/public/index.cfm?p=EMailLisa"
+      },
+      {
+        "lastname": "Young",
+        "firstname": "Don",
+        "birthday": "6/9/1933",
+        "type": "rep",
+        "state": "AK",
+        "party": "Republican",
+        "website": "http://donyoung.house.gov",
+        "phone": "202-225-5765",
+        "contact_form": "https://donyoung.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Sullivan",
+        "firstname": "Dan",
+        "birthday": "11/13/1964",
+        "type": "sen",
+        "state": "AK",
+        "party": "Republican",
+        "website": "http://www.sullivan.senate.gov",
+        "phone": "202-224-3004",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Arizona": {
+    "governor": "Doug Ducey",
+    "abbr": "AZ",
+    "capital": "Phoenix",
+    "legislators": [
+      {
+        "lastname": "Flake",
+        "firstname": "Jeff",
+        "birthday": "12/31/1962",
+        "type": "sen",
+        "state": "AZ",
+        "party": "Republican",
+        "website": "http://www.flake.senate.gov",
+        "phone": "202-224-4521",
+        "contact_form": "http://www.flake.senate.gov/contact.cfm"
+      },
+      {
+        "lastname": "Franks",
+        "firstname": "Trent",
+        "birthday": "6/19/1957",
+        "type": "rep",
+        "state": "AZ",
+        "party": "Republican",
+        "website": "http://franks.house.gov",
+        "phone": "202-225-4576",
+        "contact_form": "https://franks.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Gosar",
+        "firstname": "Paul",
+        "birthday": "11/22/1958",
+        "type": "rep",
+        "state": "AZ",
+        "party": "Republican",
+        "website": "http://gosar.house.gov",
+        "phone": "202-225-2315",
+        "contact_form": "https://gosar.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Grijalva",
+        "firstname": "Raúl",
+        "birthday": "2/19/1948",
+        "type": "rep",
+        "state": "AZ",
+        "party": "Democrat",
+        "website": "http://grijalva.house.gov",
+        "phone": "202-225-2435",
+        "contact_form": "https://grijalvaforms.house.gov/email-raul"
+      },
+      {
+        "lastname": "McCain",
+        "firstname": "John",
+        "birthday": "8/29/1936",
+        "type": "sen",
+        "state": "AZ",
+        "party": "Republican",
+        "website": "http://www.mccain.senate.gov",
+        "phone": "202-224-2235",
+        "contact_form": "http://www.mccain.senate.gov/public/index.cfm/contact-form"
+      },
+      {
+        "lastname": "Schweikert",
+        "firstname": "David",
+        "birthday": "3/3/1962",
+        "type": "rep",
+        "state": "AZ",
+        "party": "Republican",
+        "website": "http://schweikert.house.gov",
+        "phone": "202-225-2190",
+        "contact_form": "https://schweikert.house.gov/contact-form"
+      },
+      {
+        "lastname": "Salmon",
+        "firstname": "Matt",
+        "birthday": "1/21/1958",
+        "type": "rep",
+        "state": "AZ",
+        "party": "Republican",
+        "website": "http://salmon.house.gov",
+        "phone": "202-225-2635",
+        "contact_form": "https://salmon.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Kirkpatrick",
+        "firstname": "Ann",
+        "birthday": "3/24/1950",
+        "type": "rep",
+        "state": "AZ",
+        "party": "Democrat",
+        "website": "http://kirkpatrick.house.gov",
+        "phone": "202-225-3361",
+        "contact_form": "https://kirkpatrick.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Sinema",
+        "firstname": "Kyrsten",
+        "birthday": "7/12/1976",
+        "type": "rep",
+        "state": "AZ",
+        "party": "Democrat",
+        "website": "https://sinema.house.gov",
+        "phone": "202-225-9888",
+        "contact_form": "https://sinemaforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "McSally",
+        "firstname": "Martha",
+        "birthday": "3/22/1966",
+        "type": "rep",
+        "state": "AZ",
+        "party": "Republican",
+        "website": "https://mcsally.house.gov",
+        "phone": "202-225-2542",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Gallego",
+        "firstname": "Ruben",
+        "birthday": "11/20/1979",
+        "type": "rep",
+        "state": "AZ",
+        "party": "Democrat",
+        "website": "https://rubengallego.house.gov",
+        "phone": "202-225-4065",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Arkansas": {
+    "governor": "William Hutchinson",
+    "abbr": "AR",
+    "capital": "Little Rock",
+    "legislators": [
+      {
+        "lastname": "Boozman",
+        "firstname": "John",
+        "birthday": "12/10/1950",
+        "type": "sen",
+        "state": "AR",
+        "party": "Republican",
+        "website": "http://www.boozman.senate.gov",
+        "phone": "202-224-4843",
+        "contact_form": "http://www.boozman.senate.gov/public/index.cfm/e-mail-me"
+      },
+      {
+        "lastname": "Crawford",
+        "firstname": "Eric",
+        "birthday": "1/22/1966",
+        "type": "rep",
+        "state": "AR",
+        "party": "Republican",
+        "website": "http://crawford.house.gov",
+        "phone": "202-225-4076",
+        "contact_form": "http://crawford.house.gov/contact/"
+      },
+      {
+        "lastname": "Womack",
+        "firstname": "Steve",
+        "birthday": "2/18/1957",
+        "type": "rep",
+        "state": "AR",
+        "party": "Republican",
+        "website": "http://womack.house.gov",
+        "phone": "202-225-4301",
+        "contact_form": "https://womack.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Cotton",
+        "firstname": "Tom",
+        "birthday": "5/13/1977",
+        "type": "sen",
+        "state": "AR",
+        "party": "Republican",
+        "website": "https://www.cotton.senate.gov",
+        "phone": "202-224-2353",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Hill",
+        "firstname": "French",
+        "birthday": "12/5/1956",
+        "type": "rep",
+        "state": "AR",
+        "party": "Republican",
+        "website": "https://hill.house.gov",
+        "phone": "202-225-2506",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Westerman",
+        "firstname": "Bruce",
+        "birthday": "11/18/1967",
+        "type": "rep",
+        "state": "AR",
+        "party": "Republican",
+        "website": "https://westerman.house.gov",
+        "phone": "202-225-3772",
+        "contact_form": ""
+      }
+    ]
+  },
+  "California": {
+    "governor": "Jerry Brown",
+    "abbr": "CA",
+    "capital": "Sacramento",
+    "legislators": [
+      {
+        "lastname": "Feinstein",
+        "firstname": "Dianne",
+        "birthday": "6/22/1933",
+        "type": "sen",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://www.feinstein.senate.gov",
+        "phone": "202-224-3841",
+        "contact_form": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me"
+      },
+      {
+        "lastname": "Bass",
+        "firstname": "Karen",
+        "birthday": "10/3/1953",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://bass.house.gov",
+        "phone": "202-225-7084",
+        "contact_form": "https://bass.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Becerra",
+        "firstname": "Xavier",
+        "birthday": "1/26/1958",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://becerra.house.gov",
+        "phone": "202-225-6235",
+        "contact_form": "http://becerraforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Boxer",
+        "firstname": "Barbara",
+        "birthday": "11/11/1940",
+        "type": "sen",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://www.boxer.senate.gov",
+        "phone": "202-224-3553",
+        "contact_form": "https://www.boxer.senate.gov/contact/shareyourviews.html"
+      },
+      {
+        "lastname": "Calvert",
+        "firstname": "Ken",
+        "birthday": "6/8/1953",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://calvert.house.gov",
+        "phone": "202-225-1986",
+        "contact_form": "https://calvert.house.gov/contactform/"
+      },
+      {
+        "lastname": "Capps",
+        "firstname": "Lois",
+        "birthday": "1/10/1938",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://capps.house.gov",
+        "phone": "202-225-3601",
+        "contact_form": "https://capps.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Chu",
+        "firstname": "Judy",
+        "birthday": "7/7/1953",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://chu.house.gov",
+        "phone": "202-225-5464",
+        "contact_form": "http://chu.house.gov/connect-with-me/email-judy"
+      },
+      {
+        "lastname": "Costa",
+        "firstname": "Jim",
+        "birthday": "4/13/1952",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://costa.house.gov",
+        "phone": "202-225-3341",
+        "contact_form": "http://www.house.gov/formcosta/issue.htm"
+      },
+      {
+        "lastname": "Davis",
+        "firstname": "Susan",
+        "birthday": "4/13/1944",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://susandavis.house.gov",
+        "phone": "202-225-2040",
+        "contact_form": "https://susandavisforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Denham",
+        "firstname": "Jeff",
+        "birthday": "7/29/1967",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://denham.house.gov",
+        "phone": "202-225-4540",
+        "contact_form": "https://denham.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Eshoo",
+        "firstname": "Anna",
+        "birthday": "12/13/1942",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://eshoo.house.gov",
+        "phone": "202-225-8104",
+        "contact_form": "https://eshoo.house.gov/email-me/"
+      },
+      {
+        "lastname": "Farr",
+        "firstname": "Sam",
+        "birthday": "7/4/1941",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://farr.house.gov",
+        "phone": "202-225-2861",
+        "contact_form": "https://forms.house.gov/farr/webforms/issue_subscribe.html"
+      },
+      {
+        "lastname": "Garamendi",
+        "firstname": "John",
+        "birthday": "1/24/1945",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://garamendi.house.gov",
+        "phone": "202-225-1880",
+        "contact_form": "https://garamendi.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Honda",
+        "firstname": "Michael",
+        "birthday": "6/27/1941",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://honda.house.gov",
+        "phone": "202-225-2631",
+        "contact_form": "http://honda.house.gov/contact"
+      },
+      {
+        "lastname": "Hunter",
+        "firstname": "Duncan",
+        "birthday": "12/7/1976",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://hunter.house.gov",
+        "phone": "202-225-5672",
+        "contact_form": "https://hunter.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Issa",
+        "firstname": "Darrell",
+        "birthday": "11/1/1953",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://issa.house.gov",
+        "phone": "202-225-3906",
+        "contact_form": "http://issa.house.gov/contact/contact-me"
+      },
+      {
+        "lastname": "Lee",
+        "firstname": "Barbara",
+        "birthday": "7/16/1946",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://lee.house.gov",
+        "phone": "202-225-2661",
+        "contact_form": "http://lee.house.gov/contact-the-office/email-me"
+      },
+      {
+        "lastname": "Lofgren",
+        "firstname": "Zoe",
+        "birthday": "12/21/1947",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://lofgren.house.gov",
+        "phone": "202-225-3072",
+        "contact_form": "http://lofgren.house.gov/contact/"
+      },
+      {
+        "lastname": "Matsui",
+        "firstname": "Doris",
+        "birthday": "9/25/1944",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://matsui.house.gov",
+        "phone": "202-225-7163",
+        "contact_form": "https://matsui.house.gov/email-representative-matsui"
+      },
+      {
+        "lastname": "McCarthy",
+        "firstname": "Kevin",
+        "birthday": "1/26/1965",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://kevinmccarthy.house.gov",
+        "phone": "202-225-2915",
+        "contact_form": "https://kevinmccarthy.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "McClintock",
+        "firstname": "Tom",
+        "birthday": "7/10/1956",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://mcclintock.house.gov",
+        "phone": "202-225-2511",
+        "contact_form": "https://mcclintockforms.house.gov/forms/contact-form.shtml"
+      },
+      {
+        "lastname": "McNerney",
+        "firstname": "Jerry",
+        "birthday": "6/18/1951",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://mcnerney.house.gov",
+        "phone": "202-225-1947",
+        "contact_form": "https://mcnerney.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Napolitano",
+        "firstname": "Grace",
+        "birthday": "12/4/1936",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://napolitano.house.gov",
+        "phone": "202-225-5256",
+        "contact_form": "https://napolitano.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Nunes",
+        "firstname": "Devin",
+        "birthday": "10/1/1973",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://nunes.house.gov",
+        "phone": "202-225-2523",
+        "contact_form": "https://nunes.house.gov/contactform/default.aspx"
+      },
+      {
+        "lastname": "Pelosi",
+        "firstname": "Nancy",
+        "birthday": "3/26/1940",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://pelosi.house.gov",
+        "phone": "202-225-4965",
+        "contact_form": "http://pelosi.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Rohrabacher",
+        "firstname": "Dana",
+        "birthday": "6/21/1947",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://rohrabacher.house.gov",
+        "phone": "202-225-2415",
+        "contact_form": "https://rohrabacher.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Roybal-Allard",
+        "firstname": "Lucille",
+        "birthday": "6/12/1941",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://roybal-allard.house.gov",
+        "phone": "202-225-1766",
+        "contact_form": "http://roybal-allard.house.gov/contact/"
+      },
+      {
+        "lastname": "Royce",
+        "firstname": "Edward",
+        "birthday": "10/12/1951",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://royce.house.gov",
+        "phone": "202-225-4111",
+        "contact_form": "https://royce.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Sanchez",
+        "firstname": "Loretta",
+        "birthday": "1/7/1960",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://lorettasanchez.house.gov",
+        "phone": "202-225-2965",
+        "contact_form": "https://lorettasanchez.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Schiff",
+        "firstname": "Adam",
+        "birthday": "6/22/1960",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://schiff.house.gov",
+        "phone": "202-225-4176",
+        "contact_form": "https://schiff.house.gov/contact"
+      },
+      {
+        "lastname": "Sherman",
+        "firstname": "Brad",
+        "birthday": "10/24/1954",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://sherman.house.gov",
+        "phone": "202-225-5911",
+        "contact_form": "http://sherman.house.gov/contact/contact-congressman-sherman-form"
+      },
+      {
+        "lastname": "Speier",
+        "firstname": "Jackie",
+        "birthday": "5/14/1950",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://speier.house.gov",
+        "phone": "202-225-3531",
+        "contact_form": "https://forms.house.gov/speier/webforms/email_jackie.shtml"
+      },
+      {
+        "lastname": "Sánchez",
+        "firstname": "Linda",
+        "birthday": "1/28/1969",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://lindasanchez.house.gov",
+        "phone": "202-225-6676",
+        "contact_form": "https://forms.house.gov/lindasanchez/webforms/issue_subscribe.htm"
+      },
+      {
+        "lastname": "Thompson",
+        "firstname": "Mike",
+        "birthday": "1/24/1951",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://mikethompson.house.gov",
+        "phone": "202-225-3311",
+        "contact_form": "https://mikethompson.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Waters",
+        "firstname": "Maxine",
+        "birthday": "8/15/1938",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://waters.house.gov",
+        "phone": "202-225-2201",
+        "contact_form": "https://waters.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Hahn",
+        "firstname": "Janice",
+        "birthday": "3/30/1952",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://hahn.house.gov",
+        "phone": "202-225-8220",
+        "contact_form": "https://hahn.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "LaMalfa",
+        "firstname": "Doug",
+        "birthday": "7/2/1960",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://lamalfa.house.gov",
+        "phone": "202-225-3076",
+        "contact_form": "https://lamalfa.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Huffman",
+        "firstname": "Jared",
+        "birthday": "2/18/1964",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://huffman.house.gov",
+        "phone": "202-225-5161",
+        "contact_form": "https://huffman.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Bera",
+        "firstname": "Ami",
+        "birthday": "3/2/1965",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://bera.house.gov",
+        "phone": "202-225-5716",
+        "contact_form": "https://beraforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Cook",
+        "firstname": "Paul",
+        "birthday": "3/3/1943",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://cook.house.gov",
+        "phone": "202-225-5861",
+        "contact_form": "https://cook.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Swalwell",
+        "firstname": "Eric",
+        "birthday": "11/16/1980",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://swalwell.house.gov",
+        "phone": "202-225-5065",
+        "contact_form": "http://swalwell.house.gov/contact-me/email-eric/"
+      },
+      {
+        "lastname": "Valadao",
+        "firstname": "David",
+        "birthday": "4/14/1977",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "http://valadao.house.gov",
+        "phone": "202-225-4695",
+        "contact_form": "http://valadao.house.gov/contact/"
+      },
+      {
+        "lastname": "Brownley",
+        "firstname": "Julia",
+        "birthday": "8/28/1952",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://juliabrownley.house.gov",
+        "phone": "202-225-5811",
+        "contact_form": "https://juliabrownley.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Cárdenas",
+        "firstname": "Tony",
+        "birthday": "3/31/1963",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://cardenas.house.gov",
+        "phone": "202-225-6131",
+        "contact_form": "https://cardenas.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Ruiz",
+        "firstname": "Raul",
+        "birthday": "8/25/1972",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://ruiz.house.gov",
+        "phone": "202-225-5330",
+        "contact_form": "https://ruiz.house.gov/email-me"
+      },
+      {
+        "lastname": "Takano",
+        "firstname": "Mark",
+        "birthday": "12/10/1960",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://takano.house.gov",
+        "phone": "202-225-2305",
+        "contact_form": "https://takano.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Lowenthal",
+        "firstname": "Alan",
+        "birthday": "3/8/1941",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://lowenthal.house.gov",
+        "phone": "202-225-7924",
+        "contact_form": "http://lowenthal.house.gov/contact/howtocontactme.htm"
+      },
+      {
+        "lastname": "Vargas",
+        "firstname": "Juan",
+        "birthday": "3/7/1961",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://vargas.house.gov",
+        "phone": "202-225-8045",
+        "contact_form": "https://vargas.house.gov/contact"
+      },
+      {
+        "lastname": "Peters",
+        "firstname": "Scott",
+        "birthday": "6/17/1958",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "http://scottpeters.house.gov",
+        "phone": "202-225-0508",
+        "contact_form": "https://scottpeters.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "DeSaulnier",
+        "firstname": "Mark",
+        "birthday": "3/31/1952",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://desaulnier.house.gov",
+        "phone": "202-225-2095",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Knight",
+        "firstname": "Steve",
+        "birthday": "12/17/1966",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "https://knight.house.gov",
+        "phone": "202-225-1956",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Aguilar",
+        "firstname": "Pete",
+        "birthday": "6/19/1979",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://aguilar.house.gov",
+        "phone": "202-225-3201",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Lieu",
+        "firstname": "Ted",
+        "birthday": "3/29/1969",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://lieu.house.gov",
+        "phone": "202-225-3976",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Torres",
+        "firstname": "Norma",
+        "birthday": "4/4/1965",
+        "type": "rep",
+        "state": "CA",
+        "party": "Democrat",
+        "website": "https://torres.house.gov",
+        "phone": "202-225-6161",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Walters",
+        "firstname": "Mimi",
+        "birthday": "5/14/1962",
+        "type": "rep",
+        "state": "CA",
+        "party": "Republican",
+        "website": "https://walters.house.gov",
+        "phone": "202-225-5611",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Colorado": {
+    "governor": "John Hickenlooper",
+    "abbr": "CO",
+    "capital": "Denver",
+    "legislators": [
+      {
+        "lastname": "Bennet",
+        "firstname": "Michael",
+        "birthday": "11/28/1964",
+        "type": "sen",
+        "state": "CO",
+        "party": "Democrat",
+        "website": "https://www.bennet.senate.gov",
+        "phone": "202-224-5852",
+        "contact_form": "http://www.bennet.senate.gov/contact/email"
+      },
+      {
+        "lastname": "Coffman",
+        "firstname": "Mike",
+        "birthday": "3/19/1955",
+        "type": "rep",
+        "state": "CO",
+        "party": "Republican",
+        "website": "http://coffman.house.gov",
+        "phone": "202-225-7882",
+        "contact_form": "https://coffman.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "DeGette",
+        "firstname": "Diana",
+        "birthday": "7/29/1957",
+        "type": "rep",
+        "state": "CO",
+        "party": "Democrat",
+        "website": "http://degette.house.gov",
+        "phone": "202-225-4431",
+        "contact_form": "https://degette.house.gov/contact/send-me-an-email/email-me"
+      },
+      {
+        "lastname": "Gardner",
+        "firstname": "Cory",
+        "birthday": "8/22/1974",
+        "type": "sen",
+        "state": "CO",
+        "party": "Republican",
+        "website": "http://www.gardner.senate.gov",
+        "phone": "202-224-5941",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Lamborn",
+        "firstname": "Doug",
+        "birthday": "5/24/1954",
+        "type": "rep",
+        "state": "CO",
+        "party": "Republican",
+        "website": "http://lamborn.house.gov",
+        "phone": "202-225-4422",
+        "contact_form": "https://lambornforms.house.gov/contact-form"
+      },
+      {
+        "lastname": "Perlmutter",
+        "firstname": "Ed",
+        "birthday": "5/1/1953",
+        "type": "rep",
+        "state": "CO",
+        "party": "Democrat",
+        "website": "http://perlmutter.house.gov",
+        "phone": "202-225-2645",
+        "contact_form": "https://forms.house.gov/perlmutter/webforms/contact.shtml"
+      },
+      {
+        "lastname": "Polis",
+        "firstname": "Jared",
+        "birthday": "5/12/1975",
+        "type": "rep",
+        "state": "CO",
+        "party": "Democrat",
+        "website": "http://polis.house.gov",
+        "phone": "202-225-2161",
+        "contact_form": "https://polis.house.gov/forms/writeyourrep/default.aspx"
+      },
+      {
+        "lastname": "Tipton",
+        "firstname": "Scott",
+        "birthday": "11/9/1956",
+        "type": "rep",
+        "state": "CO",
+        "party": "Republican",
+        "website": "http://tipton.house.gov",
+        "phone": "202-225-4761",
+        "contact_form": "https://tipton.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Buck",
+        "firstname": "Ken",
+        "birthday": "2/16/1959",
+        "type": "rep",
+        "state": "CO",
+        "party": "Republican",
+        "website": "https://buck.house.gov",
+        "phone": "202-225-4676",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Connecticut": {
+    "governor": "Dan Malloy",
+    "abbr": "CT",
+    "capital": "Hartford",
+    "legislators": [
+      {
+        "lastname": "Blumenthal",
+        "firstname": "Richard",
+        "birthday": "2/13/1946",
+        "type": "sen",
+        "state": "CT",
+        "party": "Democrat",
+        "website": "http://www.blumenthal.senate.gov",
+        "phone": "202-224-2823",
+        "contact_form": "https://www.blumenthal.senate.gov/contact/"
+      },
+      {
+        "lastname": "Courtney",
+        "firstname": "Joe",
+        "birthday": "4/6/1953",
+        "type": "rep",
+        "state": "CT",
+        "party": "Democrat",
+        "website": "http://courtney.house.gov",
+        "phone": "202-225-2076",
+        "contact_form": "https://courtney.house.gov/email-joe1"
+      },
+      {
+        "lastname": "DeLauro",
+        "firstname": "Rosa",
+        "birthday": "3/2/1943",
+        "type": "rep",
+        "state": "CT",
+        "party": "Democrat",
+        "website": "http://delauro.house.gov",
+        "phone": "202-225-3661",
+        "contact_form": "https://forms.house.gov/delauro/webforms/contact_form_email.shtml"
+      },
+      {
+        "lastname": "Himes",
+        "firstname": "James",
+        "birthday": "7/5/1966",
+        "type": "rep",
+        "state": "CT",
+        "party": "Democrat",
+        "website": "http://himes.house.gov",
+        "phone": "202-225-5541",
+        "contact_form": "https://himes.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Larson",
+        "firstname": "John",
+        "birthday": "7/22/1948",
+        "type": "rep",
+        "state": "CT",
+        "party": "Democrat",
+        "website": "http://larson.house.gov",
+        "phone": "202-225-2265",
+        "contact_form": "https://forms.house.gov/larson/contact_new.html"
+      },
+      {
+        "lastname": "Murphy",
+        "firstname": "Christopher",
+        "birthday": "8/3/1973",
+        "type": "sen",
+        "state": "CT",
+        "party": "Democrat",
+        "website": "http://www.murphy.senate.gov",
+        "phone": "202-224-4041",
+        "contact_form": "http://www.murphy.senate.gov/contact"
+      },
+      {
+        "lastname": "Esty",
+        "firstname": "Elizabeth",
+        "birthday": "8/25/1959",
+        "type": "rep",
+        "state": "CT",
+        "party": "Democrat",
+        "website": "http://esty.house.gov",
+        "phone": "202-225-4476",
+        "contact_form": "http://esty.house.gov/contact"
+      }
+    ]
+  },
+  "Delaware": {
+    "governor": "Jack Markell",
+    "abbr": "DE",
+    "capital": "Dover",
+    "legislators": [
+      {
+        "lastname": "Carper",
+        "firstname": "Thomas",
+        "birthday": "1/23/1947",
+        "type": "sen",
+        "state": "DE",
+        "party": "Democrat",
+        "website": "http://www.carper.senate.gov",
+        "phone": "202-224-2441",
+        "contact_form": "http://www.carper.senate.gov/public/index.cfm/email-senator-carper"
+      },
+      {
+        "lastname": "Coons",
+        "firstname": "Chris",
+        "birthday": "9/9/1963",
+        "type": "sen",
+        "state": "DE",
+        "party": "Democrat",
+        "website": "https://www.coons.senate.gov",
+        "phone": "202-224-5042",
+        "contact_form": "http://www.coons.senate.gov/contact/"
+      },
+      {
+        "lastname": "Carney",
+        "firstname": "John",
+        "birthday": "5/20/1956",
+        "type": "rep",
+        "state": "DE",
+        "party": "Democrat",
+        "website": "http://johncarney.house.gov",
+        "phone": "202-225-4165",
+        "contact_form": "https://forms.house.gov/carney/webforms/email-me.shtml"
+      }
+    ]
+  },
+  "Florida": {
+    "governor": "Rick Scott",
+    "abbr": "FL",
+    "capital": "Tallahassee",
+    "legislators": [
+      {
+        "lastname": "Nelson",
+        "firstname": "Bill",
+        "birthday": "9/29/1942",
+        "type": "sen",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "https://www.billnelson.senate.gov",
+        "phone": "202-224-5274",
+        "contact_form": "http://www.billnelson.senate.gov/contact-bill"
+      },
+      {
+        "lastname": "Bilirakis",
+        "firstname": "Gus",
+        "birthday": "2/8/1963",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "https://bilirakis.house.gov",
+        "phone": "202-225-5755",
+        "contact_form": "https://bilirakis.house.gov/email-congressman-bilirakis/"
+      },
+      {
+        "lastname": "Brown",
+        "firstname": "Corrine",
+        "birthday": "11/11/1946",
+        "type": "rep",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "https://corrinebrown.house.gov",
+        "phone": "202-225-0123",
+        "contact_form": "https://forms.house.gov/corrinebrown/webforms/contact-me.shtml"
+      },
+      {
+        "lastname": "Buchanan",
+        "firstname": "Vern",
+        "birthday": "5/8/1951",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "https://buchanan.house.gov",
+        "phone": "202-225-5015",
+        "contact_form": "https://buchanan.house.gov/email-me"
+      },
+      {
+        "lastname": "Castor",
+        "firstname": "Kathy",
+        "birthday": "8/20/1966",
+        "type": "rep",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "http://castor.house.gov",
+        "phone": "202-225-3376",
+        "contact_form": "https://castor.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Crenshaw",
+        "firstname": "Ander",
+        "birthday": "9/1/1944",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "https://crenshaw.house.gov",
+        "phone": "202-225-2501",
+        "contact_form": "https://forms.house.gov/write/crenshaw/email-me.shtml"
+      },
+      {
+        "lastname": "Deutch",
+        "firstname": "Theodore",
+        "birthday": "5/7/1966",
+        "type": "rep",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "http://teddeutch.house.gov",
+        "phone": "202-225-3001",
+        "contact_form": "https://teddeutch.house.gov/forms/writeyourrep/default.aspx"
+      },
+      {
+        "lastname": "Diaz-Balart",
+        "firstname": "Mario",
+        "birthday": "9/25/1961",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://mariodiazbalart.house.gov",
+        "phone": "202-225-4211",
+        "contact_form": "http://mariodiazbalart.house.gov/contact-mario/write-rep-diaz-balart"
+      },
+      {
+        "lastname": "Hastings",
+        "firstname": "Alcee",
+        "birthday": "9/5/1936",
+        "type": "rep",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "http://alceehastings.house.gov",
+        "phone": "202-225-1313",
+        "contact_form": "https://alceehastings.house.gov/forms/writeyourrep/?zip5=33407&zip4=3224"
+      },
+      {
+        "lastname": "Mica",
+        "firstname": "John",
+        "birthday": "1/27/1943",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://mica.house.gov",
+        "phone": "202-225-4035",
+        "contact_form": "https://mica.house.gov/contact-form"
+      },
+      {
+        "lastname": "Miller",
+        "firstname": "Jeff",
+        "birthday": "6/27/1959",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://jeffmiller.house.gov",
+        "phone": "202-225-4136",
+        "contact_form": "https://jeffmiller.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Nugent",
+        "firstname": "Richard",
+        "birthday": "5/26/1951",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "https://nugent.house.gov",
+        "phone": "202-225-1002",
+        "contact_form": "https://nugent.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Posey",
+        "firstname": "Bill",
+        "birthday": "12/18/1947",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://posey.house.gov",
+        "phone": "202-225-3671",
+        "contact_form": "https://posey.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Rooney",
+        "firstname": "Thomas",
+        "birthday": "11/21/1970",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "https://rooney.house.gov",
+        "phone": "202-225-5792",
+        "contact_form": "https://rooney.house.gov/email-me"
+      },
+      {
+        "lastname": "Ros-Lehtinen",
+        "firstname": "Ileana",
+        "birthday": "7/15/1952",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://ros-lehtinen.house.gov",
+        "phone": "202-225-3931",
+        "contact_form": "https://ros-lehtinen.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Ross",
+        "firstname": "Dennis",
+        "birthday": "10/18/1959",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://dennisross.house.gov",
+        "phone": "202-225-1252",
+        "contact_form": "https://dennisross.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Rubio",
+        "firstname": "Marco",
+        "birthday": "5/28/1971",
+        "type": "sen",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://www.rubio.senate.gov",
+        "phone": "202-224-3041",
+        "contact_form": "http://www.rubio.senate.gov/public/index.cfm/contact"
+      },
+      {
+        "lastname": "Wasserman Schultz",
+        "firstname": "Debbie",
+        "birthday": "9/27/1966",
+        "type": "rep",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "http://wassermanschultz.house.gov",
+        "phone": "202-225-7931",
+        "contact_form": "http://wassermanschultz.house.gov/contact/email-me.shtml"
+      },
+      {
+        "lastname": "Webster",
+        "firstname": "Daniel",
+        "birthday": "4/27/1949",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://webster.house.gov",
+        "phone": "202-225-2176",
+        "contact_form": "https://webster.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Wilson",
+        "firstname": "Frederica",
+        "birthday": "11/5/1942",
+        "type": "rep",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "http://wilson.house.gov",
+        "phone": "202-225-4506",
+        "contact_form": "https://wilsonforms.house.gov/contact-form"
+      },
+      {
+        "lastname": "Grayson",
+        "firstname": "Alan",
+        "birthday": "3/13/1958",
+        "type": "rep",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "http://grayson.house.gov",
+        "phone": "202-225-9889",
+        "contact_form": "https://grayson.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Yoho",
+        "firstname": "Ted",
+        "birthday": "4/13/1955",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://yoho.house.gov",
+        "phone": "202-225-5744",
+        "contact_form": "https://yoho.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "DeSantis",
+        "firstname": "Ron",
+        "birthday": "9/14/1978",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://desantis.house.gov",
+        "phone": "202-225-2706",
+        "contact_form": "https://desantis.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Murphy",
+        "firstname": "Patrick",
+        "birthday": "3/30/1983",
+        "type": "rep",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "http://patrickmurphy.house.gov",
+        "phone": "202-225-3026",
+        "contact_form": "http://patrickmurphy.house.gov/contact/"
+      },
+      {
+        "lastname": "Frankel",
+        "firstname": "Lois",
+        "birthday": "5/16/1948",
+        "type": "rep",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "http://frankel.house.gov",
+        "phone": "202-225-9890",
+        "contact_form": "https://frankel.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Jolly",
+        "firstname": "David",
+        "birthday": "10/31/1972",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://jolly.house.gov",
+        "phone": "202-225-5961",
+        "contact_form": "https://jolly.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Clawson",
+        "firstname": "Curtis",
+        "birthday": "9/28/1959",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://clawson.house.gov",
+        "phone": "202-225-2536",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Graham",
+        "firstname": "Gwen",
+        "birthday": "1/31/1963",
+        "type": "rep",
+        "state": "FL",
+        "party": "Democrat",
+        "website": "https://graham.house.gov",
+        "phone": "202-225-5235",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Curbelo",
+        "firstname": "Carlos",
+        "birthday": "3/1/1980",
+        "type": "rep",
+        "state": "FL",
+        "party": "Republican",
+        "website": "http://curbelo.house.gov",
+        "phone": "202-225-2778",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Georgia": {
+    "governor": "John Deal",
+    "abbr": "GA",
+    "capital": "Atlanta",
+    "legislators": [
+      {
+        "lastname": "Bishop",
+        "firstname": "Sanford",
+        "birthday": "2/4/1947",
+        "type": "rep",
+        "state": "GA",
+        "party": "Democrat",
+        "website": "http://bishop.house.gov",
+        "phone": "202-225-3631",
+        "contact_form": "http://bishop.house.gov/contact"
+      },
+      {
+        "lastname": "Graves",
+        "firstname": "Tom",
+        "birthday": "2/3/1970",
+        "type": "rep",
+        "state": "GA",
+        "party": "Republican",
+        "website": "http://tomgraves.house.gov",
+        "phone": "202-225-5211",
+        "contact_form": "http://tomgraves.house.gov/contact/"
+      },
+      {
+        "lastname": "Isakson",
+        "firstname": "John",
+        "birthday": "12/28/1944",
+        "type": "sen",
+        "state": "GA",
+        "party": "Republican",
+        "website": "http://www.isakson.senate.gov",
+        "phone": "202-224-3643",
+        "contact_form": "http://www.isakson.senate.gov/public/index.cfm/email-me"
+      },
+      {
+        "lastname": "Johnson",
+        "firstname": "Henry",
+        "birthday": "10/2/1954",
+        "type": "rep",
+        "state": "GA",
+        "party": "Democrat",
+        "website": "http://hankjohnson.house.gov",
+        "phone": "202-225-1605",
+        "contact_form": "https://hankjohnson.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Lewis",
+        "firstname": "John",
+        "birthday": "2/21/1940",
+        "type": "rep",
+        "state": "GA",
+        "party": "Democrat",
+        "website": "http://johnlewis.house.gov",
+        "phone": "202-225-3801",
+        "contact_form": "https://johnlewis.house.gov/contact-me/email-me-zip"
+      },
+      {
+        "lastname": "Price",
+        "firstname": "Tom",
+        "birthday": "10/8/1954",
+        "type": "rep",
+        "state": "GA",
+        "party": "Republican",
+        "website": "https://tomprice.house.gov",
+        "phone": "202-225-4501",
+        "contact_form": "https://tomprice.house.gov/contact-me"
+      },
+      {
+        "lastname": "Scott",
+        "firstname": "Austin",
+        "birthday": "12/10/1969",
+        "type": "rep",
+        "state": "GA",
+        "party": "Republican",
+        "website": "http://austinscott.house.gov",
+        "phone": "202-225-6531",
+        "contact_form": "https://austinscott.house.gov/email-me/"
+      },
+      {
+        "lastname": "Scott",
+        "firstname": "David",
+        "birthday": "6/27/1945",
+        "type": "rep",
+        "state": "GA",
+        "party": "Democrat",
+        "website": "http://davidscott.house.gov",
+        "phone": "202-225-2939",
+        "contact_form": "https://davidscott.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Westmoreland",
+        "firstname": "Lynn",
+        "birthday": "4/2/1950",
+        "type": "rep",
+        "state": "GA",
+        "party": "Republican",
+        "website": "http://westmoreland.house.gov",
+        "phone": "202-225-5901",
+        "contact_form": "https://westmoreland.house.gov/email-me"
+      },
+      {
+        "lastname": "Woodall",
+        "firstname": "Rob",
+        "birthday": "2/11/1970",
+        "type": "rep",
+        "state": "GA",
+        "party": "Republican",
+        "website": "http://woodall.house.gov",
+        "phone": "202-225-4272",
+        "contact_form": "https://woodall.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Collins",
+        "firstname": "Doug",
+        "birthday": "8/16/1966",
+        "type": "rep",
+        "state": "GA",
+        "party": "Republican",
+        "website": "http://dougcollins.house.gov",
+        "phone": "202-225-9893",
+        "contact_form": "https://dougcollins.house.gov/email-me"
+      },
+      {
+        "lastname": "Carter",
+        "firstname": "Buddy",
+        "birthday": "9/6/1957",
+        "type": "rep",
+        "state": "GA",
+        "party": "Republican",
+        "website": "http://buddycarter.house.gov",
+        "phone": "202-225-5831",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Hice",
+        "firstname": "Jody",
+        "birthday": "4/22/1960",
+        "type": "rep",
+        "state": "GA",
+        "party": "Republican",
+        "website": "https://hice.house.gov",
+        "phone": "202-225-4101",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Loudermilk",
+        "firstname": "Barry",
+        "birthday": "12/22/1963",
+        "type": "rep",
+        "state": "GA",
+        "party": "Republican",
+        "website": "http://loudermilk.house.gov",
+        "phone": "202-225-2931",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Allen",
+        "firstname": "Rick",
+        "birthday": "11/7/1951",
+        "type": "rep",
+        "state": "GA",
+        "party": "Republican",
+        "website": "http://allen.house.gov",
+        "phone": "202-225-2823",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Perdue",
+        "firstname": "David",
+        "birthday": "12/10/1949",
+        "type": "sen",
+        "state": "GA",
+        "party": "Republican",
+        "website": "http://www.perdue.senate.gov",
+        "phone": "202-224-3521",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Hawaii": {
+    "governor": "David Ige",
+    "abbr": "HI",
+    "capital": "Honolulu",
+    "legislators": [
+      {
+        "lastname": "Hirono",
+        "firstname": "Mazie",
+        "birthday": "11/3/1947",
+        "type": "sen",
+        "state": "HI",
+        "party": "Democrat",
+        "website": "https://www.hirono.senate.gov",
+        "phone": "202-224-6361",
+        "contact_form": "http://www.hirono.senate.gov/contact/email"
+      },
+      {
+        "lastname": "Schatz",
+        "firstname": "Brian",
+        "birthday": "10/20/1972",
+        "type": "sen",
+        "state": "HI",
+        "party": "Democrat",
+        "website": "http://www.schatz.senate.gov",
+        "phone": "202-224-3934",
+        "contact_form": "http://www.schatz.senate.gov/contact"
+      },
+      {
+        "lastname": "Gabbard",
+        "firstname": "Tulsi",
+        "birthday": "4/12/1981",
+        "type": "rep",
+        "state": "HI",
+        "party": "Democrat",
+        "website": "http://gabbard.house.gov",
+        "phone": "202-225-4906",
+        "contact_form": "https://forms.house.gov/formsgabbard/webforms/email-me.shtml"
+      },
+      {
+        "lastname": "Takai",
+        "firstname": "Mark",
+        "birthday": "7/1/1967",
+        "type": "rep",
+        "state": "HI",
+        "party": "Democrat",
+        "website": "https://takai.house.gov",
+        "phone": "202-225-2726",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Idaho": {
+    "governor": "Butch Otter",
+    "abbr": "ID",
+    "capital": "Boise",
+    "legislators": [
+      {
+        "lastname": "Risch",
+        "firstname": "James",
+        "birthday": "5/3/1943",
+        "type": "sen",
+        "state": "ID",
+        "party": "Republican",
+        "website": "http://www.risch.senate.gov",
+        "phone": "202-224-2752",
+        "contact_form": "http://www.risch.senate.gov/public/index.cfm?p=Email"
+      },
+      {
+        "lastname": "Crapo",
+        "firstname": "Michael",
+        "birthday": "5/20/1951",
+        "type": "sen",
+        "state": "ID",
+        "party": "Republican",
+        "website": "http://www.crapo.senate.gov",
+        "phone": "202-224-6142",
+        "contact_form": "http://www.crapo.senate.gov/contact/email.cfm"
+      },
+      {
+        "lastname": "Labrador",
+        "firstname": "Raúl",
+        "birthday": "12/8/1967",
+        "type": "rep",
+        "state": "ID",
+        "party": "Republican",
+        "website": "http://labrador.house.gov",
+        "phone": "202-225-6611",
+        "contact_form": "https://labradorforms.house.gov/email-me"
+      },
+      {
+        "lastname": "Simpson",
+        "firstname": "Michael",
+        "birthday": "9/8/1950",
+        "type": "rep",
+        "state": "ID",
+        "party": "Republican",
+        "website": "http://simpson.house.gov",
+        "phone": "202-225-5531",
+        "contact_form": "http://simpson.house.gov/contact/"
+      }
+    ]
+  },
+  "Illinois": {
+    "governor": "Bruce Rauner",
+    "abbr": "IL",
+    "capital": "Springfield",
+    "legislators": [
+      {
+        "lastname": "Durbin",
+        "firstname": "Richard",
+        "birthday": "11/21/1944",
+        "type": "sen",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://www.durbin.senate.gov",
+        "phone": "202-224-2152",
+        "contact_form": "http://www.durbin.senate.gov/public/index.cfm/contact"
+      },
+      {
+        "lastname": "Davis",
+        "firstname": "Danny",
+        "birthday": "9/6/1941",
+        "type": "rep",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://davis.house.gov",
+        "phone": "202-225-5006",
+        "contact_form": "https://davis.house.gov/email-me"
+      },
+      {
+        "lastname": "Gutiérrez",
+        "firstname": "Luis",
+        "birthday": "12/10/1953",
+        "type": "rep",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://gutierrez.house.gov",
+        "phone": "202-225-8203",
+        "contact_form": "http://gutierrezforms.house.gov/contact/"
+      },
+      {
+        "lastname": "Hultgren",
+        "firstname": "Randy",
+        "birthday": "3/1/1966",
+        "type": "rep",
+        "state": "IL",
+        "party": "Republican",
+        "website": "http://hultgren.house.gov",
+        "phone": "202-225-2976",
+        "contact_form": "https://hultgren.house.gov/contact/email-randy"
+      },
+      {
+        "lastname": "Kinzinger",
+        "firstname": "Adam",
+        "birthday": "2/27/1978",
+        "type": "rep",
+        "state": "IL",
+        "party": "Republican",
+        "website": "http://kinzinger.house.gov",
+        "phone": "202-225-3635",
+        "contact_form": "https://kinzinger.house.gov/email-adam"
+      },
+      {
+        "lastname": "Kirk",
+        "firstname": "Mark",
+        "birthday": "9/15/1959",
+        "type": "sen",
+        "state": "IL",
+        "party": "Republican",
+        "website": "https://www.kirk.senate.gov",
+        "phone": "202-224-2854",
+        "contact_form": "http://www.kirk.senate.gov/?p=comment_on_legislation"
+      },
+      {
+        "lastname": "Lipinski",
+        "firstname": "Daniel",
+        "birthday": "7/15/1966",
+        "type": "rep",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://lipinski.house.gov",
+        "phone": "202-225-5701",
+        "contact_form": "https://lipinskiforms.house.gov/contact-form"
+      },
+      {
+        "lastname": "Quigley",
+        "firstname": "Mike",
+        "birthday": "10/17/1958",
+        "type": "rep",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://quigley.house.gov",
+        "phone": "202-225-4061",
+        "contact_form": "https://quigleyforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Roskam",
+        "firstname": "Peter",
+        "birthday": "9/13/1961",
+        "type": "rep",
+        "state": "IL",
+        "party": "Republican",
+        "website": "http://roskam.house.gov",
+        "phone": "202-225-4561",
+        "contact_form": "https://roskam.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Rush",
+        "firstname": "Bobby",
+        "birthday": "11/23/1946",
+        "type": "rep",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://rush.house.gov",
+        "phone": "202-225-4372",
+        "contact_form": "https://rush.house.gov/contact-me/legislative-issues"
+      },
+      {
+        "lastname": "Schakowsky",
+        "firstname": "Janice",
+        "birthday": "5/26/1944",
+        "type": "rep",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://schakowsky.house.gov",
+        "phone": "202-225-2111",
+        "contact_form": "https://schakowsky.house.gov/write-to-congresswoman-jan-schakowsky"
+      },
+      {
+        "lastname": "Shimkus",
+        "firstname": "John",
+        "birthday": "2/21/1958",
+        "type": "rep",
+        "state": "IL",
+        "party": "Republican",
+        "website": "http://shimkus.house.gov",
+        "phone": "202-225-5271",
+        "contact_form": "https://shimkus.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Foster",
+        "firstname": "Bill",
+        "birthday": "10/7/1955",
+        "type": "rep",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://foster.house.gov",
+        "phone": "202-225-3515",
+        "contact_form": "https://foster.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Duckworth",
+        "firstname": "Tammy",
+        "birthday": "3/12/1968",
+        "type": "rep",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://duckworth.house.gov",
+        "phone": "202-225-3711",
+        "contact_form": "https://duckworth.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Davis",
+        "firstname": "Rodney",
+        "birthday": "1/5/1970",
+        "type": "rep",
+        "state": "IL",
+        "party": "Republican",
+        "website": "http://rodneydavis.house.gov",
+        "phone": "202-225-2371",
+        "contact_form": "https://rodneydavisforms.house.gov/contact/"
+      },
+      {
+        "lastname": "Bustos",
+        "firstname": "Cheri",
+        "birthday": "10/17/1961",
+        "type": "rep",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://bustos.house.gov",
+        "phone": "202-225-5905",
+        "contact_form": "http://bustos.house.gov/contact"
+      },
+      {
+        "lastname": "Kelly",
+        "firstname": "Robin",
+        "birthday": "4/30/1956",
+        "type": "rep",
+        "state": "IL",
+        "party": "Democrat",
+        "website": "http://robinkelly.house.gov",
+        "phone": "202-225-0773",
+        "contact_form": "https://robinkelly.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Dold",
+        "firstname": "Bob",
+        "birthday": "6/23/1969",
+        "type": "rep",
+        "state": "IL",
+        "party": "Republican",
+        "website": "https://dold.house.gov",
+        "phone": "202-225-4835",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Bost",
+        "firstname": "Mike",
+        "birthday": "12/30/1960",
+        "type": "rep",
+        "state": "IL",
+        "party": "Republican",
+        "website": "https://bost.house.gov",
+        "phone": "202-225-5661",
+        "contact_form": ""
+      },
+      {
+        "lastname": "LaHood",
+        "firstname": "Darin",
+        "birthday": "7/5/1968",
+        "type": "rep",
+        "state": "IL",
+        "party": "Republican",
+        "website": "https://lahood.house.gov/",
+        "phone": "202-225-6201",
+        "contact_form": "https://lahood.house.gov/contact/email"
+      }
+    ]
+  },
+  "Indiana": {
+    "governor": "Mike Pence",
+    "abbr": "IN",
+    "capital": "Indianapolis",
+    "legislators": [
+      {
+        "lastname": "Bucshon",
+        "firstname": "Larry",
+        "birthday": "5/31/1962",
+        "type": "rep",
+        "state": "IN",
+        "party": "Republican",
+        "website": "http://bucshon.house.gov",
+        "phone": "202-225-4636",
+        "contact_form": "https://bucshon.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Carson",
+        "firstname": "André",
+        "birthday": "10/16/1974",
+        "type": "rep",
+        "state": "IN",
+        "party": "Democrat",
+        "website": "http://carson.house.gov",
+        "phone": "202-225-4011",
+        "contact_form": "https://carson.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Coats",
+        "firstname": "Daniel",
+        "birthday": "5/16/1943",
+        "type": "sen",
+        "state": "IN",
+        "party": "Republican",
+        "website": "http://www.coats.senate.gov",
+        "phone": "202-224-5623",
+        "contact_form": "http://www.coats.senate.gov/contact/"
+      },
+      {
+        "lastname": "Donnelly",
+        "firstname": "Joe",
+        "birthday": "9/28/1955",
+        "type": "sen",
+        "state": "IN",
+        "party": "Democrat",
+        "website": "http://www.donnelly.senate.gov",
+        "phone": "202-224-4814",
+        "contact_form": "http://www.donnelly.senate.gov/contact/email-joe"
+      },
+      {
+        "lastname": "Rokita",
+        "firstname": "Todd",
+        "birthday": "2/9/1970",
+        "type": "rep",
+        "state": "IN",
+        "party": "Republican",
+        "website": "http://rokita.house.gov",
+        "phone": "202-225-5037",
+        "contact_form": "https://rokita.house.gov/contact-me"
+      },
+      {
+        "lastname": "Stutzman",
+        "firstname": "Marlin",
+        "birthday": "8/31/1976",
+        "type": "rep",
+        "state": "IN",
+        "party": "Republican",
+        "website": "http://stutzman.house.gov",
+        "phone": "202-225-4436",
+        "contact_form": "http://stutzman.house.gov/contacts/new"
+      },
+      {
+        "lastname": "Visclosky",
+        "firstname": "Peter",
+        "birthday": "8/13/1949",
+        "type": "rep",
+        "state": "IN",
+        "party": "Democrat",
+        "website": "http://visclosky.house.gov",
+        "phone": "202-225-2461",
+        "contact_form": "https://visclosky.house.gov/contact-pete/email-pete"
+      },
+      {
+        "lastname": "Young",
+        "firstname": "Todd",
+        "birthday": "8/24/1972",
+        "type": "rep",
+        "state": "IN",
+        "party": "Republican",
+        "website": "http://toddyoung.house.gov",
+        "phone": "202-225-5315",
+        "contact_form": "https://toddyoungforms.house.gov/give-me-your-opinion"
+      },
+      {
+        "lastname": "Walorski",
+        "firstname": "Jackie",
+        "birthday": "8/17/1963",
+        "type": "rep",
+        "state": "IN",
+        "party": "Republican",
+        "website": "http://walorski.house.gov",
+        "phone": "202-225-3915",
+        "contact_form": "https://walorski.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Brooks",
+        "firstname": "Susan",
+        "birthday": "8/25/1960",
+        "type": "rep",
+        "state": "IN",
+        "party": "Republican",
+        "website": "http://susanwbrooks.house.gov",
+        "phone": "202-225-2276",
+        "contact_form": "https://susanwbrooks.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Messer",
+        "firstname": "Luke",
+        "birthday": "2/27/1969",
+        "type": "rep",
+        "state": "IN",
+        "party": "Republican",
+        "website": "https://messer.house.gov",
+        "phone": "202-225-3021",
+        "contact_form": "https://messer.house.gov/contact/email-me"
+      }
+    ]
+  },
+  "Iowa": {
+    "governor": "Terry Branstad",
+    "abbr": "IA",
+    "capital": "Des Moines",
+    "legislators": [
+      {
+        "lastname": "Grassley",
+        "firstname": "Charles",
+        "birthday": "9/17/1933",
+        "type": "sen",
+        "state": "IA",
+        "party": "Republican",
+        "website": "http://www.grassley.senate.gov",
+        "phone": "202-224-3744",
+        "contact_form": "http://www.grassley.senate.gov/constituents/questions-and-comments"
+      },
+      {
+        "lastname": "King",
+        "firstname": "Steve",
+        "birthday": "5/28/1949",
+        "type": "rep",
+        "state": "IA",
+        "party": "Republican",
+        "website": "https://steveking.house.gov",
+        "phone": "202-225-4426",
+        "contact_form": "https://forms.house.gov/king/webforms/issue_subscribe.html"
+      },
+      {
+        "lastname": "Loebsack",
+        "firstname": "David",
+        "birthday": "12/23/1952",
+        "type": "rep",
+        "state": "IA",
+        "party": "Democrat",
+        "website": "http://loebsack.house.gov",
+        "phone": "202-225-6576",
+        "contact_form": "https://loebsack.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Blum",
+        "firstname": "Rod",
+        "birthday": "4/26/1955",
+        "type": "rep",
+        "state": "IA",
+        "party": "Republican",
+        "website": "https://blum.house.gov",
+        "phone": "202-225-2911",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Young",
+        "firstname": "David",
+        "birthday": "5/11/1968",
+        "type": "rep",
+        "state": "IA",
+        "party": "Republican",
+        "website": "https://davidyoung.house.gov",
+        "phone": "202-225-5476",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Ernst",
+        "firstname": "Joni",
+        "birthday": "7/1/1970",
+        "type": "sen",
+        "state": "IA",
+        "party": "Republican",
+        "website": "http://www.ernst.senate.gov",
+        "phone": "202-224-3254",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Kansas": {
+    "governor": "Sam Brownback",
+    "abbr": "KS",
+    "capital": "Topeka",
+    "legislators": [
+      {
+        "lastname": "Roberts",
+        "firstname": "Pat",
+        "birthday": "4/20/1936",
+        "type": "sen",
+        "state": "KS",
+        "party": "Republican",
+        "website": "http://www.roberts.senate.gov",
+        "phone": "202-224-4774",
+        "contact_form": "http://www.roberts.senate.gov/public/index.cfm?p=EmailPat"
+      },
+      {
+        "lastname": "Huelskamp",
+        "firstname": "Tim",
+        "birthday": "11/11/1968",
+        "type": "rep",
+        "state": "KS",
+        "party": "Republican",
+        "website": "http://huelskamp.house.gov",
+        "phone": "202-225-2715",
+        "contact_form": "https://huelskamp.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Jenkins",
+        "firstname": "Lynn",
+        "birthday": "6/10/1963",
+        "type": "rep",
+        "state": "KS",
+        "party": "Republican",
+        "website": "http://lynnjenkins.house.gov",
+        "phone": "202-225-6601",
+        "contact_form": "https://lynnjenkins.house.gov/contact-me"
+      },
+      {
+        "lastname": "Moran",
+        "firstname": "Jerry",
+        "birthday": "5/29/1954",
+        "type": "sen",
+        "state": "KS",
+        "party": "Republican",
+        "website": "http://www.moran.senate.gov",
+        "phone": "202-224-6521",
+        "contact_form": "http://www.moran.senate.gov/public/index.cfm/e-mail-jerry"
+      },
+      {
+        "lastname": "Pompeo",
+        "firstname": "Mike",
+        "birthday": "12/30/1963",
+        "type": "rep",
+        "state": "KS",
+        "party": "Republican",
+        "website": "http://pompeo.house.gov",
+        "phone": "202-225-6216",
+        "contact_form": "https://pompeo.house.gov/contact/contactform.htm?zip5=$ADDRESS_ZIP5"
+      },
+      {
+        "lastname": "Yoder",
+        "firstname": "Kevin",
+        "birthday": "1/8/1976",
+        "type": "rep",
+        "state": "KS",
+        "party": "Republican",
+        "website": "http://yoder.house.gov",
+        "phone": "202-225-2865",
+        "contact_form": "https://yoder.house.gov/contact/email-me"
+      }
+    ]
+  },
+  "Kentucky": {
+    "governor": "Steven Beshear",
+    "abbr": "KY",
+    "capital": "Frankfort",
+    "legislators": [
+      {
+        "lastname": "McConnell",
+        "firstname": "Mitch",
+        "birthday": "2/20/1942",
+        "type": "sen",
+        "state": "KY",
+        "party": "Republican",
+        "website": "http://www.mcconnell.senate.gov",
+        "phone": "202-224-2541",
+        "contact_form": "http://www.mcconnell.senate.gov/public/index.cfm?p=ContactForm"
+      },
+      {
+        "lastname": "Guthrie",
+        "firstname": "Brett",
+        "birthday": "2/18/1964",
+        "type": "rep",
+        "state": "KY",
+        "party": "Republican",
+        "website": "http://guthrie.house.gov",
+        "phone": "202-225-3501",
+        "contact_form": "http://brettguthrieforms.house.gov/contact/"
+      },
+      {
+        "lastname": "Paul",
+        "firstname": "Rand",
+        "birthday": "1/7/1963",
+        "type": "sen",
+        "state": "KY",
+        "party": "Republican",
+        "website": "https://www.paul.senate.gov",
+        "phone": "202-224-4343",
+        "contact_form": "http://www.paul.senate.gov/?p=contact"
+      },
+      {
+        "lastname": "Rogers",
+        "firstname": "Harold",
+        "birthday": "12/31/1937",
+        "type": "rep",
+        "state": "KY",
+        "party": "Republican",
+        "website": "http://halrogers.house.gov",
+        "phone": "202-225-4601",
+        "contact_form": "https://halrogers.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Whitfield",
+        "firstname": "Ed",
+        "birthday": "5/25/1943",
+        "type": "rep",
+        "state": "KY",
+        "party": "Republican",
+        "website": "http://whitfield.house.gov",
+        "phone": "202-225-3115",
+        "contact_form": "https://whitfield.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Yarmuth",
+        "firstname": "John",
+        "birthday": "11/4/1947",
+        "type": "rep",
+        "state": "KY",
+        "party": "Democrat",
+        "website": "http://yarmuth.house.gov",
+        "phone": "202-225-5401",
+        "contact_form": "http://yarmuth.house.gov/contact-john2/"
+      },
+      {
+        "lastname": "Massie",
+        "firstname": "Thomas",
+        "birthday": "1/13/1971",
+        "type": "rep",
+        "state": "KY",
+        "party": "Republican",
+        "website": "http://massie.house.gov",
+        "phone": "202-225-3465",
+        "contact_form": "http://massieforms.house.gov/contact/"
+      },
+      {
+        "lastname": "Barr",
+        "firstname": "Garland",
+        "birthday": "7/24/1973",
+        "type": "rep",
+        "state": "KY",
+        "party": "Republican",
+        "website": "https://barr.house.gov",
+        "phone": "202-225-4706",
+        "contact_form": "https://barr.house.gov/contact/email-me"
+      }
+    ]
+  },
+  "Louisiana": {
+    "governor": "Bobby Jindal",
+    "abbr": "LA",
+    "capital": "Baton Rouge",
+    "legislators": [
+      {
+        "lastname": "Boustany",
+        "firstname": "Charles",
+        "birthday": "2/21/1956",
+        "type": "rep",
+        "state": "LA",
+        "party": "Republican",
+        "website": "http://boustany.house.gov",
+        "phone": "202-225-2031",
+        "contact_form": "https://boustanyforms.house.gov/contact-me/"
+      },
+      {
+        "lastname": "Cassidy",
+        "firstname": "Bill",
+        "birthday": "9/28/1957",
+        "type": "sen",
+        "state": "LA",
+        "party": "Republican",
+        "website": "http://www.cassidy.senate.gov",
+        "phone": "202-224-5824",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Fleming",
+        "firstname": "John",
+        "birthday": "7/5/1951",
+        "type": "rep",
+        "state": "LA",
+        "party": "Republican",
+        "website": "http://fleming.house.gov",
+        "phone": "202-225-2777",
+        "contact_form": "https://fleming.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Richmond",
+        "firstname": "Cedric",
+        "birthday": "9/13/1973",
+        "type": "rep",
+        "state": "LA",
+        "party": "Democrat",
+        "website": "http://richmond.house.gov",
+        "phone": "202-225-6636",
+        "contact_form": "https://richmond.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Scalise",
+        "firstname": "Steve",
+        "birthday": "10/6/1965",
+        "type": "rep",
+        "state": "LA",
+        "party": "Republican",
+        "website": "http://scalise.house.gov",
+        "phone": "202-225-3015",
+        "contact_form": "https://scalise.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Vitter",
+        "firstname": "David",
+        "birthday": "5/3/1961",
+        "type": "sen",
+        "state": "LA",
+        "party": "Republican",
+        "website": "http://www.vitter.senate.gov",
+        "phone": "202-224-4623",
+        "contact_form": "http://www.vitter.senate.gov/contact/email-senator-vitter"
+      },
+      {
+        "lastname": "Abraham",
+        "firstname": "Ralph",
+        "birthday": "9/16/1954",
+        "type": "rep",
+        "state": "LA",
+        "party": "Republican",
+        "website": "https://abraham.house.gov",
+        "phone": "202-225-8490",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Graves",
+        "firstname": "Garret",
+        "birthday": "1/31/1972",
+        "type": "rep",
+        "state": "LA",
+        "party": "Republican",
+        "website": "https://garretgraves.house.gov",
+        "phone": "202-225-3901",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Maine": {
+    "governor": "Paul LePage",
+    "abbr": "ME",
+    "capital": "Augusta",
+    "legislators": [
+      {
+        "lastname": "Collins",
+        "firstname": "Susan",
+        "birthday": "12/7/1952",
+        "type": "sen",
+        "state": "ME",
+        "party": "Republican",
+        "website": "https://www.collins.senate.gov",
+        "phone": "202-224-2523",
+        "contact_form": "http://www.collins.senate.gov/public/index.cfm/email"
+      },
+      {
+        "lastname": "Pingree",
+        "firstname": "Chellie",
+        "birthday": "4/2/1955",
+        "type": "rep",
+        "state": "ME",
+        "party": "Democrat",
+        "website": "https://pingree.house.gov",
+        "phone": "202-225-6116",
+        "contact_form": "https://pingree.house.gov/email-me"
+      },
+      {
+        "lastname": "King",
+        "firstname": "Angus",
+        "birthday": "3/31/1944",
+        "type": "sen",
+        "state": "ME",
+        "party": "Independent",
+        "website": "http://www.king.senate.gov",
+        "phone": "202-224-5344",
+        "contact_form": "http://www.king.senate.gov/contact"
+      },
+      {
+        "lastname": "Poliquin",
+        "firstname": "Bruce",
+        "birthday": "11/1/1953",
+        "type": "rep",
+        "state": "ME",
+        "party": "Republican",
+        "website": "https://poliquin.house.gov",
+        "phone": "202-225-6306",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Maryland": {
+    "governor": "Martin Malley",
+    "abbr": "MD",
+    "capital": "Annapolis",
+    "legislators": [
+      {
+        "lastname": "Cardin",
+        "firstname": "Benjamin",
+        "birthday": "10/5/1943",
+        "type": "sen",
+        "state": "MD",
+        "party": "Democrat",
+        "website": "https://www.cardin.senate.gov",
+        "phone": "202-224-4524",
+        "contact_form": "http://www.cardin.senate.gov/contact/"
+      },
+      {
+        "lastname": "Cummings",
+        "firstname": "Elijah",
+        "birthday": "1/18/1951",
+        "type": "rep",
+        "state": "MD",
+        "party": "Democrat",
+        "website": "http://cummings.house.gov",
+        "phone": "202-225-4741",
+        "contact_form": "https://cummings.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Edwards",
+        "firstname": "Donna",
+        "birthday": "6/28/1958",
+        "type": "rep",
+        "state": "MD",
+        "party": "Democrat",
+        "website": "http://donnaedwards.house.gov",
+        "phone": "202-225-8699",
+        "contact_form": "https://forms.house.gov/formdonnaedwards/issue_subscribe.shtml"
+      },
+      {
+        "lastname": "Harris",
+        "firstname": "Andy",
+        "birthday": "1/25/1957",
+        "type": "rep",
+        "state": "MD",
+        "party": "Republican",
+        "website": "http://harris.house.gov",
+        "phone": "202-225-5311",
+        "contact_form": "https://harris.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Hoyer",
+        "firstname": "Steny",
+        "birthday": "6/14/1939",
+        "type": "rep",
+        "state": "MD",
+        "party": "Democrat",
+        "website": "http://hoyer.house.gov",
+        "phone": "202-225-4131",
+        "contact_form": "https://hoyer.house.gov/email-steny"
+      },
+      {
+        "lastname": "Mikulski",
+        "firstname": "Barbara",
+        "birthday": "7/20/1936",
+        "type": "sen",
+        "state": "MD",
+        "party": "Democrat",
+        "website": "http://www.mikulski.senate.gov",
+        "phone": "202-224-4654",
+        "contact_form": "http://www.mikulski.senate.gov/contact/shareyouropinion.cfm"
+      },
+      {
+        "lastname": "Ruppersberger",
+        "firstname": "C.",
+        "birthday": "1/31/1946",
+        "type": "rep",
+        "state": "MD",
+        "party": "Democrat",
+        "website": "http://ruppersberger.house.gov",
+        "phone": "202-225-3061",
+        "contact_form": "http://ruppersberger.house.gov/contact-dutch/email-dutch"
+      },
+      {
+        "lastname": "Sarbanes",
+        "firstname": "John",
+        "birthday": "5/22/1962",
+        "type": "rep",
+        "state": "MD",
+        "party": "Democrat",
+        "website": "https://sarbanes.house.gov",
+        "phone": "202-225-4016",
+        "contact_form": "http://sarbanes.house.gov/federal.asp"
+      },
+      {
+        "lastname": "Van Hollen",
+        "firstname": "Chris",
+        "birthday": "1/10/1959",
+        "type": "rep",
+        "state": "MD",
+        "party": "Democrat",
+        "website": "https://vanhollen.house.gov",
+        "phone": "202-225-5341",
+        "contact_form": "http://vanhollen.house.gov/contact/"
+      },
+      {
+        "lastname": "Delaney",
+        "firstname": "John",
+        "birthday": "4/16/1963",
+        "type": "rep",
+        "state": "MD",
+        "party": "Democrat",
+        "website": "http://delaney.house.gov",
+        "phone": "202-225-2721",
+        "contact_form": "https://delaney.house.gov/contact/email-me"
+      }
+    ]
+  },
+  "Massachusetts": {
+    "governor": "Charlie Baker",
+    "abbr": "MA",
+    "capital": "Boston",
+    "legislators": [
+      {
+        "lastname": "Capuano",
+        "firstname": "Michael",
+        "birthday": "1/9/1952",
+        "type": "rep",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "http://capuano.house.gov",
+        "phone": "202-225-5111",
+        "contact_form": "http://www.house.gov/capuano/contact/email.shtml"
+      },
+      {
+        "lastname": "Keating",
+        "firstname": "William",
+        "birthday": "9/6/1952",
+        "type": "rep",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "http://keating.house.gov",
+        "phone": "202-225-3111",
+        "contact_form": "https://forms.house.gov/keating/webforms/contact.shtml"
+      },
+      {
+        "lastname": "Lynch",
+        "firstname": "Stephen",
+        "birthday": "3/31/1955",
+        "type": "rep",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "http://lynch.house.gov",
+        "phone": "202-225-8273",
+        "contact_form": "https://lynch.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Markey",
+        "firstname": "Edward",
+        "birthday": "7/11/1946",
+        "type": "sen",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "http://www.markey.senate.gov",
+        "phone": "202-224-2742",
+        "contact_form": "http://www.markey.senate.gov/contact"
+      },
+      {
+        "lastname": "McGovern",
+        "firstname": "James",
+        "birthday": "11/20/1959",
+        "type": "rep",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "http://mcgovern.house.gov",
+        "phone": "202-225-6101",
+        "contact_form": "https://mcgovern.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Neal",
+        "firstname": "Richard",
+        "birthday": "2/14/1949",
+        "type": "rep",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "http://neal.house.gov",
+        "phone": "202-225-5601",
+        "contact_form": "https://forms.house.gov/neal/webforms/Contact_Form.shtml"
+      },
+      {
+        "lastname": "Tsongas",
+        "firstname": "Niki",
+        "birthday": "4/26/1946",
+        "type": "rep",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "http://tsongas.house.gov",
+        "phone": "202-225-3411",
+        "contact_form": "https://tsongas.house.gov/e-mail-niki/"
+      },
+      {
+        "lastname": "Warren",
+        "firstname": "Elizabeth",
+        "birthday": "6/22/1949",
+        "type": "sen",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "http://www.warren.senate.gov",
+        "phone": "202-224-4543",
+        "contact_form": "http://www.warren.senate.gov/?p=email_senator#thisForm"
+      },
+      {
+        "lastname": "Kennedy",
+        "firstname": "Joseph",
+        "birthday": "10/4/1980",
+        "type": "rep",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "http://kennedy.house.gov",
+        "phone": "202-225-5931",
+        "contact_form": "https://kennedy.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Clark",
+        "firstname": "Katherine",
+        "birthday": "7/17/1963",
+        "type": "rep",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "https://katherineclark.house.gov",
+        "phone": "202-225-2836",
+        "contact_form": "https://katherineclark.house.gov/index.cfm/email-me"
+      },
+      {
+        "lastname": "Moulton",
+        "firstname": "Seth",
+        "birthday": "10/24/1978",
+        "type": "rep",
+        "state": "MA",
+        "party": "Democrat",
+        "website": "https://moulton.house.gov",
+        "phone": "202-225-8020",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Michigan": {
+    "governor": "Rick Snyder",
+    "abbr": "MI",
+    "capital": "Lansing",
+    "legislators": [
+      {
+        "lastname": "Stabenow",
+        "firstname": "Debbie",
+        "birthday": "4/29/1950",
+        "type": "sen",
+        "state": "MI",
+        "party": "Democrat",
+        "website": "http://www.stabenow.senate.gov",
+        "phone": "202-224-4822",
+        "contact_form": "http://www.stabenow.senate.gov/?p=contact"
+      },
+      {
+        "lastname": "Amash",
+        "firstname": "Justin",
+        "birthday": "4/18/1980",
+        "type": "rep",
+        "state": "MI",
+        "party": "Republican",
+        "website": "http://amash.house.gov",
+        "phone": "202-225-3831",
+        "contact_form": "https://amash.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Benishek",
+        "firstname": "Dan",
+        "birthday": "4/20/1952",
+        "type": "rep",
+        "state": "MI",
+        "party": "Republican",
+        "website": "http://benishek.house.gov",
+        "phone": "202-225-4735",
+        "contact_form": "https://benishek.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Conyers",
+        "firstname": "John",
+        "birthday": "5/16/1929",
+        "type": "rep",
+        "state": "MI",
+        "party": "Democrat",
+        "website": "https://conyers.house.gov",
+        "phone": "202-225-5126",
+        "contact_form": "https://conyers.house.gov/index.cfm/online-contact-form"
+      },
+      {
+        "lastname": "Huizenga",
+        "firstname": "Bill",
+        "birthday": "1/31/1969",
+        "type": "rep",
+        "state": "MI",
+        "party": "Republican",
+        "website": "http://huizenga.house.gov",
+        "phone": "202-225-4401",
+        "contact_form": "http://huizenga.house.gov/contact/"
+      },
+      {
+        "lastname": "Levin",
+        "firstname": "Sander",
+        "birthday": "9/6/1931",
+        "type": "rep",
+        "state": "MI",
+        "party": "Democrat",
+        "website": "http://levin.house.gov",
+        "phone": "202-225-4961",
+        "contact_form": "https://levin.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Miller",
+        "firstname": "Candice",
+        "birthday": "5/7/1954",
+        "type": "rep",
+        "state": "MI",
+        "party": "Republican",
+        "website": "http://candicemiller.house.gov",
+        "phone": "202-225-2106",
+        "contact_form": "http://candicemiller.house.gov/contact"
+      },
+      {
+        "lastname": "Peters",
+        "firstname": "Gary",
+        "birthday": "12/1/1958",
+        "type": "sen",
+        "state": "MI",
+        "party": "Democrat",
+        "website": "http://www.peters.senate.gov",
+        "phone": "202-224-6221",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Upton",
+        "firstname": "Fred",
+        "birthday": "4/23/1953",
+        "type": "rep",
+        "state": "MI",
+        "party": "Republican",
+        "website": "http://upton.house.gov",
+        "phone": "202-225-3761",
+        "contact_form": "http://upton.house.gov/contact/zipauth.htm"
+      },
+      {
+        "lastname": "Walberg",
+        "firstname": "Tim",
+        "birthday": "4/12/1951",
+        "type": "rep",
+        "state": "MI",
+        "party": "Republican",
+        "website": "http://walberg.house.gov",
+        "phone": "202-225-6276",
+        "contact_form": "https://walberg.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Kildee",
+        "firstname": "Daniel",
+        "birthday": "8/11/1958",
+        "type": "rep",
+        "state": "MI",
+        "party": "Democrat",
+        "website": "http://dankildee.house.gov",
+        "phone": "202-225-3611",
+        "contact_form": "https://dankildee.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Moolenaar",
+        "firstname": "John",
+        "birthday": "5/8/1961",
+        "type": "rep",
+        "state": "MI",
+        "party": "Republican",
+        "website": "https://moolenaar.house.gov",
+        "phone": "202-225-3561",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Bishop",
+        "firstname": "Mike",
+        "birthday": "3/18/1967",
+        "type": "rep",
+        "state": "MI",
+        "party": "Republican",
+        "website": "https://mikebishop.house.gov",
+        "phone": "202-225-4872",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Trott",
+        "firstname": "Dave",
+        "birthday": "10/16/1960",
+        "type": "rep",
+        "state": "MI",
+        "party": "Republican",
+        "website": "https://trott.house.gov",
+        "phone": "202-225-8171",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Dingell",
+        "firstname": "Debbie",
+        "birthday": "11/23/1953",
+        "type": "rep",
+        "state": "MI",
+        "party": "Democrat",
+        "website": "https://debbiedingell.house.gov",
+        "phone": "202-225-4071",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Lawrence",
+        "firstname": "Brenda",
+        "birthday": "10/18/1954",
+        "type": "rep",
+        "state": "MI",
+        "party": "Democrat",
+        "website": "https://lawrence.house.gov",
+        "phone": "202-225-5802",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Minnesota": {
+    "governor": "Mark Dayton",
+    "abbr": "MN",
+    "capital": "Saint Paul",
+    "legislators": [
+      {
+        "lastname": "Klobuchar",
+        "firstname": "Amy",
+        "birthday": "5/25/1960",
+        "type": "sen",
+        "state": "MN",
+        "party": "Democrat",
+        "website": "http://www.klobuchar.senate.gov",
+        "phone": "202-224-3244",
+        "contact_form": "http://www.klobuchar.senate.gov/public/email-amy"
+      },
+      {
+        "lastname": "Franken",
+        "firstname": "Alan",
+        "birthday": "5/21/1951",
+        "type": "sen",
+        "state": "MN",
+        "party": "Democrat",
+        "website": "https://www.franken.senate.gov",
+        "phone": "202-224-5641",
+        "contact_form": "http://www.franken.senate.gov/?p=email_al"
+      },
+      {
+        "lastname": "Ellison",
+        "firstname": "Keith",
+        "birthday": "8/4/1963",
+        "type": "rep",
+        "state": "MN",
+        "party": "Democrat",
+        "website": "http://ellison.house.gov",
+        "phone": "202-225-4755",
+        "contact_form": "http://ellison.house.gov/contact"
+      },
+      {
+        "lastname": "Kline",
+        "firstname": "John",
+        "birthday": "9/6/1947",
+        "type": "rep",
+        "state": "MN",
+        "party": "Republican",
+        "website": "http://kline.house.gov",
+        "phone": "202-225-2271",
+        "contact_form": "http://kline.house.gov/contact/"
+      },
+      {
+        "lastname": "McCollum",
+        "firstname": "Betty",
+        "birthday": "7/12/1954",
+        "type": "rep",
+        "state": "MN",
+        "party": "Democrat",
+        "website": "http://mccollum.house.gov",
+        "phone": "202-225-6631",
+        "contact_form": "https://mccollum.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Paulsen",
+        "firstname": "Erik",
+        "birthday": "5/14/1965",
+        "type": "rep",
+        "state": "MN",
+        "party": "Republican",
+        "website": "http://paulsen.house.gov",
+        "phone": "202-225-2871",
+        "contact_form": "https://paulsenforms.house.gov/contact-me"
+      },
+      {
+        "lastname": "Peterson",
+        "firstname": "Collin",
+        "birthday": "6/29/1944",
+        "type": "rep",
+        "state": "MN",
+        "party": "Democrat",
+        "website": "http://collinpeterson.house.gov",
+        "phone": "202-225-2165",
+        "contact_form": "https://collinpeterson.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Walz",
+        "firstname": "Timothy",
+        "birthday": "4/6/1964",
+        "type": "rep",
+        "state": "MN",
+        "party": "Democrat",
+        "website": "http://walz.house.gov",
+        "phone": "202-225-2472",
+        "contact_form": "http://walz.house.gov/contact"
+      },
+      {
+        "lastname": "Nolan",
+        "firstname": "Richard",
+        "birthday": "12/17/1943",
+        "type": "rep",
+        "state": "MN",
+        "party": "Democrat",
+        "website": "http://nolan.house.gov",
+        "phone": "202-225-6211",
+        "contact_form": "https://nolan.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Emmer",
+        "firstname": "Tom",
+        "birthday": "3/3/1961",
+        "type": "rep",
+        "state": "MN",
+        "party": "Republican",
+        "website": "https://emmer.house.gov",
+        "phone": "202-225-2331",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Mississippi": {
+    "governor": "Phil Bryant",
+    "abbr": "MS",
+    "capital": "Jackson",
+    "legislators": [
+      {
+        "lastname": "Wicker",
+        "firstname": "Roger",
+        "birthday": "7/5/1951",
+        "type": "sen",
+        "state": "MS",
+        "party": "Republican",
+        "website": "http://www.wicker.senate.gov",
+        "phone": "202-224-6253",
+        "contact_form": "http://www.wicker.senate.gov/public/index.cfm/contact"
+      },
+      {
+        "lastname": "Cochran",
+        "firstname": "Thad",
+        "birthday": "12/7/1937",
+        "type": "sen",
+        "state": "MS",
+        "party": "Republican",
+        "website": "http://www.cochran.senate.gov",
+        "phone": "202-224-5054",
+        "contact_form": "http://www.cochran.senate.gov/public/index.cfm/email-me"
+      },
+      {
+        "lastname": "Harper",
+        "firstname": "Gregg",
+        "birthday": "6/1/1956",
+        "type": "rep",
+        "state": "MS",
+        "party": "Republican",
+        "website": "http://harper.house.gov",
+        "phone": "202-225-5031",
+        "contact_form": "https://harperforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Palazzo",
+        "firstname": "Steven",
+        "birthday": "2/21/1970",
+        "type": "rep",
+        "state": "MS",
+        "party": "Republican",
+        "website": "http://palazzo.house.gov",
+        "phone": "202-225-5772",
+        "contact_form": "http://palazzo.house.gov/contact/"
+      },
+      {
+        "lastname": "Thompson",
+        "firstname": "Bennie",
+        "birthday": "1/28/1948",
+        "type": "rep",
+        "state": "MS",
+        "party": "Democrat",
+        "website": "http://benniethompson.house.gov",
+        "phone": "202-225-5876",
+        "contact_form": "https://forms.house.gov/benniethompson/contact-form.shtml"
+      },
+      {
+        "lastname": "Kelly",
+        "firstname": "Trent",
+        "birthday": "3/1/1966",
+        "type": "rep",
+        "state": "MS",
+        "party": "Republican",
+        "website": "https://trentkelly.house.gov",
+        "phone": "202-225-4306",
+        "contact_form": "https://trentkelly.house.gov/contact"
+      }
+    ]
+  },
+  "Missouri": {
+    "governor": "Jay Nixon",
+    "abbr": "MO",
+    "capital": "Jefferson City",
+    "legislators": [
+      {
+        "lastname": "McCaskill",
+        "firstname": "Claire",
+        "birthday": "7/24/1953",
+        "type": "sen",
+        "state": "MO",
+        "party": "Democrat",
+        "website": "http://www.mccaskill.senate.gov",
+        "phone": "202-224-6154",
+        "contact_form": "http://www.mccaskill.senate.gov/?p=contact"
+      },
+      {
+        "lastname": "Blunt",
+        "firstname": "Roy",
+        "birthday": "1/10/1950",
+        "type": "sen",
+        "state": "MO",
+        "party": "Republican",
+        "website": "http://www.blunt.senate.gov",
+        "phone": "202-224-5721",
+        "contact_form": "http://www.blunt.senate.gov/public/index.cfm/contact-form?p=contact-roy"
+      },
+      {
+        "lastname": "Clay",
+        "firstname": "Wm.",
+        "birthday": "7/27/1956",
+        "type": "rep",
+        "state": "MO",
+        "party": "Democrat",
+        "website": "http://lacyclay.house.gov",
+        "phone": "202-225-2406",
+        "contact_form": "http://lacyclay.house.gov/contact-form/"
+      },
+      {
+        "lastname": "Cleaver",
+        "firstname": "Emanuel",
+        "birthday": "10/26/1944",
+        "type": "rep",
+        "state": "MO",
+        "party": "Democrat",
+        "website": "http://cleaver.house.gov",
+        "phone": "202-225-4535",
+        "contact_form": "https://cleaver.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Graves",
+        "firstname": "Sam",
+        "birthday": "11/7/1963",
+        "type": "rep",
+        "state": "MO",
+        "party": "Republican",
+        "website": "https://graves.house.gov",
+        "phone": "202-225-7041",
+        "contact_form": "https://gravesforms.house.gov/email-sam"
+      },
+      {
+        "lastname": "Hartzler",
+        "firstname": "Vicky",
+        "birthday": "10/13/1960",
+        "type": "rep",
+        "state": "MO",
+        "party": "Republican",
+        "website": "http://hartzler.house.gov",
+        "phone": "202-225-2876",
+        "contact_form": "https://hartzler.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Long",
+        "firstname": "Billy",
+        "birthday": "8/11/1955",
+        "type": "rep",
+        "state": "MO",
+        "party": "Republican",
+        "website": "http://long.house.gov",
+        "phone": "202-225-6536",
+        "contact_form": "https://longforms.house.gov/email-billy"
+      },
+      {
+        "lastname": "Luetkemeyer",
+        "firstname": "Blaine",
+        "birthday": "5/7/1952",
+        "type": "rep",
+        "state": "MO",
+        "party": "Republican",
+        "website": "http://luetkemeyer.house.gov",
+        "phone": "202-225-2956",
+        "contact_form": "https://luetkemeyer.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Wagner",
+        "firstname": "Ann",
+        "birthday": "9/13/1962",
+        "type": "rep",
+        "state": "MO",
+        "party": "Republican",
+        "website": "http://wagner.house.gov",
+        "phone": "202-225-1621",
+        "contact_form": "https://wagner.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Smith",
+        "firstname": "Jason",
+        "birthday": "6/16/1980",
+        "type": "rep",
+        "state": "MO",
+        "party": "Republican",
+        "website": "http://jasonsmith.house.gov",
+        "phone": "202-225-4404",
+        "contact_form": "https://jasonsmith.house.gov/contact/email-me"
+      }
+    ]
+  },
+  "Montana": {
+    "governor": "Steve Bullock",
+    "abbr": "MT",
+    "capital": "Helena",
+    "legislators": [
+      {
+        "lastname": "Tester",
+        "firstname": "Jon",
+        "birthday": "8/21/1956",
+        "type": "sen",
+        "state": "MT",
+        "party": "Democrat",
+        "website": "http://www.tester.senate.gov",
+        "phone": "202-224-2644",
+        "contact_form": "http://www.tester.senate.gov/?p=email_senator"
+      },
+      {
+        "lastname": "Daines",
+        "firstname": "Steve",
+        "birthday": "8/20/1962",
+        "type": "sen",
+        "state": "MT",
+        "party": "Republican",
+        "website": "https://www.daines.senate.gov",
+        "phone": "202-224-2651",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Zinke",
+        "firstname": "Ryan",
+        "birthday": "11/1/1961",
+        "type": "rep",
+        "state": "MT",
+        "party": "Republican",
+        "website": "https://zinke.house.gov",
+        "phone": "202-225-3211",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Nebraska": {
+    "governor": "Pete Ricketts",
+    "abbr": "NE",
+    "capital": "Lincoln",
+    "legislators": [
+      {
+        "lastname": "Fortenberry",
+        "firstname": "Jeff",
+        "birthday": "12/27/1960",
+        "type": "rep",
+        "state": "NE",
+        "party": "Republican",
+        "website": "https://fortenberry.house.gov",
+        "phone": "202-225-4806",
+        "contact_form": "https://fortenberry.house.gov/contact-me1"
+      },
+      {
+        "lastname": "Smith",
+        "firstname": "Adrian",
+        "birthday": "12/19/1970",
+        "type": "rep",
+        "state": "NE",
+        "party": "Republican",
+        "website": "http://adriansmith.house.gov",
+        "phone": "202-225-6435",
+        "contact_form": "https://adriansmith.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Fischer",
+        "firstname": "Deb",
+        "birthday": "3/1/1951",
+        "type": "sen",
+        "state": "NE",
+        "party": "Republican",
+        "website": "http://www.fischer.senate.gov",
+        "phone": "202-224-6551",
+        "contact_form": "http://www.fischer.senate.gov/public/?p=email-deb"
+      },
+      {
+        "lastname": "Ashford",
+        "firstname": "Brad",
+        "birthday": "11/10/1949",
+        "type": "rep",
+        "state": "NE",
+        "party": "Democrat",
+        "website": "https://ashford.house.gov",
+        "phone": "202-225-4155",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Sasse",
+        "firstname": "Benjamin",
+        "birthday": "2/22/1972",
+        "type": "sen",
+        "state": "NE",
+        "party": "Republican",
+        "website": "http://www.sasse.senate.gov",
+        "phone": "202-224-4224",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Nevada": {
+    "governor": "Brian Sandoval",
+    "abbr": "NV",
+    "capital": "Carson City",
+    "legislators": [
+      {
+        "lastname": "Heck",
+        "firstname": "Joseph",
+        "birthday": "10/30/1961",
+        "type": "rep",
+        "state": "NV",
+        "party": "Republican",
+        "website": "https://heck.house.gov",
+        "phone": "202-225-3252",
+        "contact_form": "https://heck.house.gov/contact-me"
+      },
+      {
+        "lastname": "Reid",
+        "firstname": "Harry",
+        "birthday": "12/2/1939",
+        "type": "sen",
+        "state": "NV",
+        "party": "Democrat",
+        "website": "http://www.reid.senate.gov",
+        "phone": "202-224-3542",
+        "contact_form": "http://www.reid.senate.gov/contact"
+      },
+      {
+        "lastname": "Heller",
+        "firstname": "Dean",
+        "birthday": "5/10/1960",
+        "type": "sen",
+        "state": "NV",
+        "party": "Republican",
+        "website": "http://www.heller.senate.gov",
+        "phone": "202-224-6244",
+        "contact_form": "http://www.heller.senate.gov/public/index.cfm/contact-form"
+      },
+      {
+        "lastname": "Amodei",
+        "firstname": "Mark",
+        "birthday": "6/12/1958",
+        "type": "rep",
+        "state": "NV",
+        "party": "Republican",
+        "website": "http://amodei.house.gov",
+        "phone": "202-225-6155",
+        "contact_form": "https://amodei.house.gov/contact-us"
+      },
+      {
+        "lastname": "Titus",
+        "firstname": "Dina",
+        "birthday": "5/23/1950",
+        "type": "rep",
+        "state": "NV",
+        "party": "Democrat",
+        "website": "https://titus.house.gov",
+        "phone": "202-225-5965",
+        "contact_form": "https://titus.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Hardy",
+        "firstname": "Cresent",
+        "birthday": "6/23/1957",
+        "type": "rep",
+        "state": "NV",
+        "party": "Republican",
+        "website": "https://hardy.house.gov",
+        "phone": "202-225-9894",
+        "contact_form": ""
+      }
+    ]
+  },
+  "New Hampshire": {
+    "governor": "Maggie Hassan",
+    "abbr": "NH",
+    "capital": "Concord",
+    "legislators": [
+      {
+        "lastname": "Shaheen",
+        "firstname": "Jeanne",
+        "birthday": "1/28/1947",
+        "type": "sen",
+        "state": "NH",
+        "party": "Democrat",
+        "website": "http://www.shaheen.senate.gov",
+        "phone": "202-224-2841",
+        "contact_form": "http://www.shaheen.senate.gov/contact/"
+      },
+      {
+        "lastname": "Ayotte",
+        "firstname": "Kelly",
+        "birthday": "6/27/1968",
+        "type": "sen",
+        "state": "NH",
+        "party": "Republican",
+        "website": "http://www.ayotte.senate.gov",
+        "phone": "202-224-3324",
+        "contact_form": "http://www.ayotte.senate.gov/?p=contact"
+      },
+      {
+        "lastname": "Kuster",
+        "firstname": "Ann",
+        "birthday": "9/5/1956",
+        "type": "rep",
+        "state": "NH",
+        "party": "Democrat",
+        "website": "http://kuster.house.gov",
+        "phone": "202-225-5206",
+        "contact_form": "https://kuster.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Guinta",
+        "firstname": "Frank",
+        "birthday": "9/26/1970",
+        "type": "rep",
+        "state": "NH",
+        "party": "Republican",
+        "website": "https://guinta.house.gov",
+        "phone": "202-225-5456",
+        "contact_form": ""
+      }
+    ]
+  },
+  "New Jersey": {
+    "governor": "Chris Christie",
+    "abbr": "NJ",
+    "capital": "Trenton",
+    "legislators": [
+      {
+        "lastname": "Menéndez",
+        "firstname": "Robert",
+        "birthday": "1/1/1954",
+        "type": "sen",
+        "state": "NJ",
+        "party": "Democrat",
+        "website": "http://www.menendez.senate.gov",
+        "phone": "202-224-4744",
+        "contact_form": "http://www.menendez.senate.gov/contact"
+      },
+      {
+        "lastname": "Frelinghuysen",
+        "firstname": "Rodney",
+        "birthday": "4/29/1946",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Republican",
+        "website": "http://frelinghuysen.house.gov",
+        "phone": "202-225-5034",
+        "contact_form": "https://frelinghuysenforms.house.gov/contact-form"
+      },
+      {
+        "lastname": "Garrett",
+        "firstname": "Scott",
+        "birthday": "7/9/1959",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Republican",
+        "website": "http://garrett.house.gov",
+        "phone": "202-225-4465",
+        "contact_form": "https://garrettforms.house.gov/forms/writeyourrep/?zip5=07452&zip4=3321"
+      },
+      {
+        "lastname": "Lance",
+        "firstname": "Leonard",
+        "birthday": "6/25/1952",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Republican",
+        "website": "http://lance.house.gov",
+        "phone": "202-225-5361",
+        "contact_form": "https://lance.house.gov/contact-me1"
+      },
+      {
+        "lastname": "LoBiondo",
+        "firstname": "Frank",
+        "birthday": "5/12/1946",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Republican",
+        "website": "http://lobiondo.house.gov",
+        "phone": "202-225-6572",
+        "contact_form": "https://lobiondo.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Pallone",
+        "firstname": "Frank",
+        "birthday": "10/30/1951",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Democrat",
+        "website": "https://pallone.house.gov",
+        "phone": "202-225-4671",
+        "contact_form": "https://pallone.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Pascrell",
+        "firstname": "Bill",
+        "birthday": "1/25/1937",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Democrat",
+        "website": "http://pascrell.house.gov",
+        "phone": "202-225-5751",
+        "contact_form": "https://pascrell.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Sires",
+        "firstname": "Albio",
+        "birthday": "1/26/1951",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Democrat",
+        "website": "http://sires.house.gov",
+        "phone": "202-225-7919",
+        "contact_form": "https://sires.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Smith",
+        "firstname": "Christopher",
+        "birthday": "3/4/1953",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Republican",
+        "website": "http://chrissmith.house.gov",
+        "phone": "202-225-3765",
+        "contact_form": "https://chrissmith.house.gov/contact/write.htm"
+      },
+      {
+        "lastname": "Payne",
+        "firstname": "Donald",
+        "birthday": "12/17/1958",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Democrat",
+        "website": "http://payne.house.gov",
+        "phone": "202-225-3436",
+        "contact_form": "http://payne.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Booker",
+        "firstname": "Cory",
+        "birthday": "4/27/1969",
+        "type": "sen",
+        "state": "NJ",
+        "party": "Democrat",
+        "website": "http://www.booker.senate.gov",
+        "phone": "202-224-3224",
+        "contact_form": "http://www.booker.senate.gov/?p=contact"
+      },
+      {
+        "lastname": "Norcross",
+        "firstname": "Donald",
+        "birthday": "12/13/1958",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Democrat",
+        "website": "http://norcross.house.gov",
+        "phone": "202-225-6501",
+        "contact_form": "http://norcross.house.gov/contact"
+      },
+      {
+        "lastname": "MacArthur",
+        "firstname": "Tom",
+        "birthday": "10/16/1960",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Republican",
+        "website": "https://macarthur.house.gov",
+        "phone": "202-225-4765",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Watson Coleman",
+        "firstname": "Bonnie",
+        "birthday": "2/6/1945",
+        "type": "rep",
+        "state": "NJ",
+        "party": "Democrat",
+        "website": "https://watsoncoleman.house.gov",
+        "phone": "202-225-5801",
+        "contact_form": ""
+      }
+    ]
+  },
+  "New Mexico": {
+    "governor": "Susana Martinez",
+    "abbr": "NM",
+    "capital": "Santa Fe",
+    "legislators": [
+      {
+        "lastname": "Udall",
+        "firstname": "Tom",
+        "birthday": "5/18/1948",
+        "type": "sen",
+        "state": "NM",
+        "party": "Democrat",
+        "website": "http://www.tomudall.senate.gov",
+        "phone": "202-224-6621",
+        "contact_form": "http://www.tomudall.senate.gov/?p=contact"
+      },
+      {
+        "lastname": "Heinrich",
+        "firstname": "Martin",
+        "birthday": "10/17/1971",
+        "type": "sen",
+        "state": "NM",
+        "party": "Democrat",
+        "website": "http://www.heinrich.senate.gov",
+        "phone": "202-224-5521",
+        "contact_form": "http://www.heinrich.senate.gov/contact/write-martin"
+      },
+      {
+        "lastname": "Luján",
+        "firstname": "Ben",
+        "birthday": "6/7/1972",
+        "type": "rep",
+        "state": "NM",
+        "party": "Democrat",
+        "website": "http://lujan.house.gov",
+        "phone": "202-225-6190",
+        "contact_form": "https://forms.house.gov/lujan/contact-form.shtml"
+      },
+      {
+        "lastname": "Pearce",
+        "firstname": "Stevan",
+        "birthday": "8/24/1947",
+        "type": "rep",
+        "state": "NM",
+        "party": "Republican",
+        "website": "http://pearce.house.gov",
+        "phone": "202-225-2365",
+        "contact_form": "https://pearce.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Lujan Grisham",
+        "firstname": "Michelle",
+        "birthday": "10/24/1959",
+        "type": "rep",
+        "state": "NM",
+        "party": "Democrat",
+        "website": "https://lujangrisham.house.gov",
+        "phone": "202-225-6316",
+        "contact_form": "http://lujangrisham.house.gov/contact/email-me/"
+      }
+    ]
+  },
+  "New York": {
+    "governor": "Andrew Cuomo",
+    "abbr": "NY",
+    "capital": "Albany",
+    "legislators": [
+      {
+        "lastname": "Gillibrand",
+        "firstname": "Kirsten",
+        "birthday": "12/9/1966",
+        "type": "sen",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://www.gillibrand.senate.gov",
+        "phone": "202-224-4451",
+        "contact_form": "http://www.gillibrand.senate.gov/contact/"
+      },
+      {
+        "lastname": "Clarke",
+        "firstname": "Yvette",
+        "birthday": "11/21/1964",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://clarke.house.gov",
+        "phone": "202-225-6231",
+        "contact_form": "https://clarke.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Crowley",
+        "firstname": "Joseph",
+        "birthday": "3/16/1962",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://crowley.house.gov",
+        "phone": "202-225-3965",
+        "contact_form": "https://crowley.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Engel",
+        "firstname": "Eliot",
+        "birthday": "2/18/1947",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://engel.house.gov",
+        "phone": "202-225-2464",
+        "contact_form": "https://engel.house.gov/write-your-rep1"
+      },
+      {
+        "lastname": "Gibson",
+        "firstname": "Christopher",
+        "birthday": "5/13/1964",
+        "type": "rep",
+        "state": "NY",
+        "party": "Republican",
+        "website": "http://gibson.house.gov",
+        "phone": "202-225-5614",
+        "contact_form": "http://gibson.house.gov/contact/"
+      },
+      {
+        "lastname": "Hanna",
+        "firstname": "Richard",
+        "birthday": "1/25/1951",
+        "type": "rep",
+        "state": "NY",
+        "party": "Republican",
+        "website": "http://hanna.house.gov",
+        "phone": "202-225-3665",
+        "contact_form": "https://hanna.house.gov/email-me"
+      },
+      {
+        "lastname": "Higgins",
+        "firstname": "Brian",
+        "birthday": "10/6/1959",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://higgins.house.gov",
+        "phone": "202-225-3306",
+        "contact_form": "http://higgins.house.gov/contact/email-brian"
+      },
+      {
+        "lastname": "Israel",
+        "firstname": "Steve",
+        "birthday": "5/30/1958",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://israel.house.gov",
+        "phone": "202-225-3335",
+        "contact_form": "https://israel.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "King",
+        "firstname": "Peter",
+        "birthday": "4/5/1944",
+        "type": "rep",
+        "state": "NY",
+        "party": "Republican",
+        "website": "http://peteking.house.gov",
+        "phone": "202-225-7896",
+        "contact_form": "https://peteking.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Lowey",
+        "firstname": "Nita",
+        "birthday": "7/5/1937",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://lowey.house.gov",
+        "phone": "202-225-6506",
+        "contact_form": "https://lowey.house.gov/contact-form/"
+      },
+      {
+        "lastname": "Maloney",
+        "firstname": "Carolyn",
+        "birthday": "2/19/1946",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://maloney.house.gov",
+        "phone": "202-225-7944",
+        "contact_form": "https://maloney.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Meeks",
+        "firstname": "Gregory",
+        "birthday": "9/25/1953",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://meeks.house.gov",
+        "phone": "202-225-3461",
+        "contact_form": "https://meeks.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Nadler",
+        "firstname": "Jerrold",
+        "birthday": "6/13/1947",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://nadler.house.gov",
+        "phone": "202-225-5635",
+        "contact_form": "https://jerroldnadler.house.gov/forms/writeyourrep/default.aspx"
+      },
+      {
+        "lastname": "Rangel",
+        "firstname": "Charles",
+        "birthday": "6/11/1930",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://rangel.house.gov",
+        "phone": "202-225-4365",
+        "contact_form": "https://rangel.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Reed",
+        "firstname": "Tom",
+        "birthday": "11/18/1971",
+        "type": "rep",
+        "state": "NY",
+        "party": "Republican",
+        "website": "http://reed.house.gov",
+        "phone": "202-225-3161",
+        "contact_form": "https://reed.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Schumer",
+        "firstname": "Charles",
+        "birthday": "11/23/1950",
+        "type": "sen",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "https://www.schumer.senate.gov",
+        "phone": "202-224-6542",
+        "contact_form": "http://www.schumer.senate.gov/Contact/email-chuck"
+      },
+      {
+        "lastname": "Serrano",
+        "firstname": "José",
+        "birthday": "10/24/1943",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://serrano.house.gov",
+        "phone": "202-225-4361",
+        "contact_form": "https://serrano.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Slaughter",
+        "firstname": "Louise",
+        "birthday": "8/14/1929",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "https://louise.house.gov",
+        "phone": "202-225-3615",
+        "contact_form": "https://louise.house.gov/contact-louise"
+      },
+      {
+        "lastname": "Tonko",
+        "firstname": "Paul",
+        "birthday": "6/18/1949",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://tonko.house.gov",
+        "phone": "202-225-5076",
+        "contact_form": "https://tonko.house.gov/email-form1"
+      },
+      {
+        "lastname": "Velázquez",
+        "firstname": "Nydia",
+        "birthday": "3/28/1953",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://velazquez.house.gov",
+        "phone": "202-225-2361",
+        "contact_form": "http://velazquez.house.gov/IMA/issue_subscribe.shtml"
+      },
+      {
+        "lastname": "Meng",
+        "firstname": "Grace",
+        "birthday": "10/1/1975",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://meng.house.gov",
+        "phone": "202-225-2601",
+        "contact_form": "https://meng.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Jeffries",
+        "firstname": "Hakeem",
+        "birthday": "8/4/1970",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://jeffries.house.gov",
+        "phone": "202-225-5936",
+        "contact_form": "https://jeffriesforms.house.gov/contact/"
+      },
+      {
+        "lastname": "Maloney",
+        "firstname": "Sean",
+        "birthday": "7/30/1966",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://seanmaloney.house.gov",
+        "phone": "202-225-5441",
+        "contact_form": "https://seanmaloney.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Collins",
+        "firstname": "Chris",
+        "birthday": "5/20/1950",
+        "type": "rep",
+        "state": "NY",
+        "party": "Republican",
+        "website": "http://chriscollins.house.gov",
+        "phone": "202-225-5265",
+        "contact_form": "https://chriscollins.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Zeldin",
+        "firstname": "Lee",
+        "birthday": "1/30/1980",
+        "type": "rep",
+        "state": "NY",
+        "party": "Republican",
+        "website": "https://zeldin.house.gov",
+        "phone": "202-225-3826",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Rice",
+        "firstname": "Kathleen",
+        "birthday": "2/15/1965",
+        "type": "rep",
+        "state": "NY",
+        "party": "Democrat",
+        "website": "http://kathleenrice.house.gov",
+        "phone": "202-225-5516",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Stefanik",
+        "firstname": "Elise",
+        "birthday": "7/2/1984",
+        "type": "rep",
+        "state": "NY",
+        "party": "Republican",
+        "website": "https://stefanik.house.gov",
+        "phone": "202-225-4611",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Katko",
+        "firstname": "John",
+        "birthday": "11/9/1962",
+        "type": "rep",
+        "state": "NY",
+        "party": "Republican",
+        "website": "https://katko.house.gov",
+        "phone": "202-225-3701",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Donovan",
+        "firstname": "Daniel",
+        "birthday": "11/6/1956",
+        "type": "rep",
+        "state": "NY",
+        "party": "Republican",
+        "website": "https://donovan.house.gov",
+        "phone": "202-225-3371",
+        "contact_form": ""
+      }
+    ]
+  },
+  "North Carolina": {
+    "governor": "Pat McCrory",
+    "abbr": "NC",
+    "capital": "Raleigh",
+    "legislators": [
+      {
+        "lastname": "Burr",
+        "firstname": "Richard",
+        "birthday": "11/30/1955",
+        "type": "sen",
+        "state": "NC",
+        "party": "Republican",
+        "website": "http://www.burr.senate.gov",
+        "phone": "202-224-3154",
+        "contact_form": "http://www.burr.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm"
+      },
+      {
+        "lastname": "Butterfield",
+        "firstname": "George",
+        "birthday": "4/27/1947",
+        "type": "rep",
+        "state": "NC",
+        "party": "Democrat",
+        "website": "http://butterfield.house.gov",
+        "phone": "202-225-3101",
+        "contact_form": "https://butterfield.house.gov/email-congressman-butterfield"
+      },
+      {
+        "lastname": "Ellmers",
+        "firstname": "Renee",
+        "birthday": "2/9/1964",
+        "type": "rep",
+        "state": "NC",
+        "party": "Republican",
+        "website": "http://ellmers.house.gov",
+        "phone": "202-225-4531",
+        "contact_form": "https://ellmersforms.house.gov/contact-us1"
+      },
+      {
+        "lastname": "Foxx",
+        "firstname": "Virginia",
+        "birthday": "6/29/1943",
+        "type": "rep",
+        "state": "NC",
+        "party": "Republican",
+        "website": "http://foxx.house.gov",
+        "phone": "202-225-2071",
+        "contact_form": "https://foxx.house.gov/forms/writeyourrep/?zip5=&zip4="
+      },
+      {
+        "lastname": "Jones",
+        "firstname": "Walter",
+        "birthday": "2/10/1943",
+        "type": "rep",
+        "state": "NC",
+        "party": "Republican",
+        "website": "http://jones.house.gov",
+        "phone": "202-225-3415",
+        "contact_form": "https://jones.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "McHenry",
+        "firstname": "Patrick",
+        "birthday": "10/22/1975",
+        "type": "rep",
+        "state": "NC",
+        "party": "Republican",
+        "website": "http://mchenry.house.gov",
+        "phone": "202-225-2576",
+        "contact_form": "http://mchenry.house.gov/contact/zipauth.htm"
+      },
+      {
+        "lastname": "Price",
+        "firstname": "David",
+        "birthday": "8/17/1940",
+        "type": "rep",
+        "state": "NC",
+        "party": "Democrat",
+        "website": "http://price.house.gov",
+        "phone": "202-225-1784",
+        "contact_form": "https://price.house.gov/contact"
+      },
+      {
+        "lastname": "Hudson",
+        "firstname": "Richard",
+        "birthday": "11/4/1971",
+        "type": "rep",
+        "state": "NC",
+        "party": "Republican",
+        "website": "http://hudson.house.gov",
+        "phone": "202-225-3715",
+        "contact_form": "https://hudson.house.gov/email-me"
+      },
+      {
+        "lastname": "Pittenger",
+        "firstname": "Robert",
+        "birthday": "8/15/1948",
+        "type": "rep",
+        "state": "NC",
+        "party": "Republican",
+        "website": "http://pittenger.house.gov",
+        "phone": "202-225-1976",
+        "contact_form": "https://pittenger.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Meadows",
+        "firstname": "Mark",
+        "birthday": "7/28/1959",
+        "type": "rep",
+        "state": "NC",
+        "party": "Republican",
+        "website": "https://meadows.house.gov",
+        "phone": "202-225-6401",
+        "contact_form": "https://meadows.house.gov/email-me"
+      },
+      {
+        "lastname": "Holding",
+        "firstname": "George",
+        "birthday": "4/17/1968",
+        "type": "rep",
+        "state": "NC",
+        "party": "Republican",
+        "website": "http://holding.house.gov",
+        "phone": "202-225-3032",
+        "contact_form": "https://holding.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Adams",
+        "firstname": "Alma",
+        "birthday": "5/27/1946",
+        "type": "rep",
+        "state": "NC",
+        "party": "Democrat",
+        "website": "http://adams.house.gov",
+        "phone": "202-225-1510",
+        "contact_form": "http://adams.house.gov/contact"
+      },
+      {
+        "lastname": "Rouzer",
+        "firstname": "David",
+        "birthday": "2/16/1972",
+        "type": "rep",
+        "state": "NC",
+        "party": "Republican",
+        "website": "https://rouzer.house.gov",
+        "phone": "202-225-2731",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Tillis",
+        "firstname": "Thom",
+        "birthday": "8/30/1960",
+        "type": "sen",
+        "state": "NC",
+        "party": "Republican",
+        "website": "http://www.tillis.senate.gov",
+        "phone": "202-224-6342",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Walker",
+        "firstname": "Mark",
+        "birthday": "5/20/1969",
+        "type": "rep",
+        "state": "NC",
+        "party": "Republican",
+        "website": "https://walker.house.gov",
+        "phone": "202-225-3065",
+        "contact_form": ""
+      }
+    ]
+  },
+  "North Dakota": {
+    "governor": "Jack Dalrymple",
+    "abbr": "ND",
+    "capital": "Bismarck",
+    "legislators": [
+      {
+        "lastname": "Hoeven",
+        "firstname": "John",
+        "birthday": "3/13/1957",
+        "type": "sen",
+        "state": "ND",
+        "party": "Republican",
+        "website": "http://www.hoeven.senate.gov",
+        "phone": "202-224-2551",
+        "contact_form": "http://www.hoeven.senate.gov/public/index.cfm/email-the-senator"
+      },
+      {
+        "lastname": "Heitkamp",
+        "firstname": "Heidi",
+        "birthday": "10/30/1955",
+        "type": "sen",
+        "state": "ND",
+        "party": "Democrat",
+        "website": "http://www.heitkamp.senate.gov",
+        "phone": "202-224-2043",
+        "contact_form": "http://www.heitkamp.senate.gov/public/index.cfm/email-heidi"
+      },
+      {
+        "lastname": "Cramer",
+        "firstname": "Kevin",
+        "birthday": "1/21/1961",
+        "type": "rep",
+        "state": "ND",
+        "party": "Republican",
+        "website": "http://cramer.house.gov",
+        "phone": "202-225-2611",
+        "contact_form": "https://cramer.house.gov/contact/email-me"
+      }
+    ]
+  },
+  "Ohio": {
+    "governor": "John Kasich",
+    "abbr": "OH",
+    "capital": "Columbus",
+    "legislators": [
+      {
+        "lastname": "Brown",
+        "firstname": "Sherrod",
+        "birthday": "11/9/1952",
+        "type": "sen",
+        "state": "OH",
+        "party": "Democrat",
+        "website": "http://www.brown.senate.gov",
+        "phone": "202-224-2315",
+        "contact_form": "http://www.brown.senate.gov/contact"
+      },
+      {
+        "lastname": "Chabot",
+        "firstname": "Steve",
+        "birthday": "1/22/1953",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "http://chabot.house.gov",
+        "phone": "202-225-2216",
+        "contact_form": "https://chabot.house.gov/forms/writeyourrep/?zip5=45202&zip4=3003"
+      },
+      {
+        "lastname": "Fudge",
+        "firstname": "Marcia",
+        "birthday": "10/29/1952",
+        "type": "rep",
+        "state": "OH",
+        "party": "Democrat",
+        "website": "http://fudge.house.gov",
+        "phone": "202-225-7032",
+        "contact_form": "https://fudgeforms.house.gov/contact-form"
+      },
+      {
+        "lastname": "Gibbs",
+        "firstname": "Bob",
+        "birthday": "6/14/1954",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "http://gibbs.house.gov",
+        "phone": "202-225-6265",
+        "contact_form": "https://gibbs.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Johnson",
+        "firstname": "Bill",
+        "birthday": "11/10/1954",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "http://billjohnson.house.gov",
+        "phone": "202-225-5705",
+        "contact_form": "http://billjohnson.house.gov/contact/default.aspx"
+      },
+      {
+        "lastname": "Jordan",
+        "firstname": "Jim",
+        "birthday": "2/17/1964",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "http://jordan.house.gov",
+        "phone": "202-225-2676",
+        "contact_form": "http://jordan.house.gov/contact/"
+      },
+      {
+        "lastname": "Kaptur",
+        "firstname": "Marcy",
+        "birthday": "6/17/1946",
+        "type": "rep",
+        "state": "OH",
+        "party": "Democrat",
+        "website": "http://kaptur.house.gov",
+        "phone": "202-225-4146",
+        "contact_form": "https://forms.house.gov/kaptur/webforms/issue_subscribe.shtml"
+      },
+      {
+        "lastname": "Latta",
+        "firstname": "Robert",
+        "birthday": "4/18/1956",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "http://latta.house.gov",
+        "phone": "202-225-6405",
+        "contact_form": "https://latta.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Portman",
+        "firstname": "Robert",
+        "birthday": "12/19/1955",
+        "type": "sen",
+        "state": "OH",
+        "party": "Republican",
+        "website": "http://www.portman.senate.gov",
+        "phone": "202-224-3353",
+        "contact_form": "https://www.portman.senate.gov/public/index.cfm/contact-form"
+      },
+      {
+        "lastname": "Renacci",
+        "firstname": "James",
+        "birthday": "12/3/1958",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "https://renacci.house.gov",
+        "phone": "202-225-3876",
+        "contact_form": "https://renacci.house.gov/index.cfm/contact-form"
+      },
+      {
+        "lastname": "Ryan",
+        "firstname": "Tim",
+        "birthday": "7/16/1973",
+        "type": "rep",
+        "state": "OH",
+        "party": "Democrat",
+        "website": "http://timryan.house.gov",
+        "phone": "202-225-5261",
+        "contact_form": "http://timryanforms.house.gov/contact/"
+      },
+      {
+        "lastname": "Stivers",
+        "firstname": "Steve",
+        "birthday": "3/24/1965",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "http://stivers.house.gov",
+        "phone": "202-225-2015",
+        "contact_form": "https://stivers.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Tiberi",
+        "firstname": "Patrick",
+        "birthday": "10/21/1962",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "http://tiberi.house.gov",
+        "phone": "202-225-5355",
+        "contact_form": "https://tiberi.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Turner",
+        "firstname": "Michael",
+        "birthday": "1/11/1960",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "https://turner.house.gov",
+        "phone": "202-225-6465",
+        "contact_form": "http://turner.house.gov/contact/"
+      },
+      {
+        "lastname": "Wenstrup",
+        "firstname": "Brad",
+        "birthday": "6/17/1958",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "http://wenstrup.house.gov",
+        "phone": "202-225-3164",
+        "contact_form": "http://wenstrup.house.gov/contact/"
+      },
+      {
+        "lastname": "Beatty",
+        "firstname": "Joyce",
+        "birthday": "3/12/1950",
+        "type": "rep",
+        "state": "OH",
+        "party": "Democrat",
+        "website": "http://beatty.house.gov",
+        "phone": "202-225-4324",
+        "contact_form": "https://beattyforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Joyce",
+        "firstname": "David",
+        "birthday": "3/17/1957",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "http://joyce.house.gov",
+        "phone": "202-225-5731",
+        "contact_form": "https://joyce.house.gov/email-me"
+      },
+      {
+        "lastname": "Davidson",
+        "firstname": "Warren",
+        "birthday": "3/1/1970",
+        "type": "rep",
+        "state": "OH",
+        "party": "Republican",
+        "website": "",
+        "phone": "",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Oklahoma": {
+    "governor": "Mary Fallin",
+    "abbr": "OK",
+    "capital": "Oklahoma City",
+    "legislators": [
+      {
+        "lastname": "Inhofe",
+        "firstname": "James",
+        "birthday": "11/17/1934",
+        "type": "sen",
+        "state": "OK",
+        "party": "Republican",
+        "website": "http://www.inhofe.senate.gov",
+        "phone": "202-224-4721",
+        "contact_form": "http://www.inhofe.senate.gov/contact"
+      },
+      {
+        "lastname": "Cole",
+        "firstname": "Tom",
+        "birthday": "4/28/1949",
+        "type": "rep",
+        "state": "OK",
+        "party": "Republican",
+        "website": "http://cole.house.gov",
+        "phone": "202-225-6165",
+        "contact_form": "https://coleforms.house.gov/contact/default.aspx"
+      },
+      {
+        "lastname": "Lankford",
+        "firstname": "James",
+        "birthday": "3/4/1968",
+        "type": "sen",
+        "state": "OK",
+        "party": "Republican",
+        "website": "http://www.lankford.senate.gov",
+        "phone": "202-224-5754",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Lucas",
+        "firstname": "Frank",
+        "birthday": "1/6/1960",
+        "type": "rep",
+        "state": "OK",
+        "party": "Republican",
+        "website": "http://lucas.house.gov",
+        "phone": "202-225-5565",
+        "contact_form": "https://lucas.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Bridenstine",
+        "firstname": "Jim",
+        "birthday": "6/15/1975",
+        "type": "rep",
+        "state": "OK",
+        "party": "Republican",
+        "website": "http://bridenstine.house.gov",
+        "phone": "202-225-2211",
+        "contact_form": "https://bridenstineforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Mullin",
+        "firstname": "Markwayne",
+        "birthday": "7/26/1977",
+        "type": "rep",
+        "state": "OK",
+        "party": "Republican",
+        "website": "http://mullin.house.gov",
+        "phone": "202-225-2701",
+        "contact_form": "https://mullin.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Russell",
+        "firstname": "Steve",
+        "birthday": "5/25/1963",
+        "type": "rep",
+        "state": "OK",
+        "party": "Republican",
+        "website": "https://russell.house.gov",
+        "phone": "202-225-2132",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Oregon": {
+    "governor": "John Kitzhaber",
+    "abbr": "OR",
+    "capital": "Salem",
+    "legislators": [
+      {
+        "lastname": "Merkley",
+        "firstname": "Jeff",
+        "birthday": "10/24/1956",
+        "type": "sen",
+        "state": "OR",
+        "party": "Democrat",
+        "website": "https://www.merkley.senate.gov",
+        "phone": "202-224-3753",
+        "contact_form": "http://www.merkley.senate.gov/contact/"
+      },
+      {
+        "lastname": "Blumenauer",
+        "firstname": "Earl",
+        "birthday": "8/16/1948",
+        "type": "rep",
+        "state": "OR",
+        "party": "Democrat",
+        "website": "http://blumenauer.house.gov",
+        "phone": "202-225-4811",
+        "contact_form": "https://forms.house.gov/blumenauer/webforms/issue_subscribe.html"
+      },
+      {
+        "lastname": "DeFazio",
+        "firstname": "Peter",
+        "birthday": "5/27/1947",
+        "type": "rep",
+        "state": "OR",
+        "party": "Democrat",
+        "website": "http://defazio.house.gov",
+        "phone": "202-225-6416",
+        "contact_form": "https://defazio.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Schrader",
+        "firstname": "Kurt",
+        "birthday": "10/19/1951",
+        "type": "rep",
+        "state": "OR",
+        "party": "Democrat",
+        "website": "http://schrader.house.gov",
+        "phone": "202-225-5711",
+        "contact_form": "https://schrader.house.gov/contact"
+      },
+      {
+        "lastname": "Walden",
+        "firstname": "Greg",
+        "birthday": "1/10/1957",
+        "type": "rep",
+        "state": "OR",
+        "party": "Republican",
+        "website": "http://walden.house.gov",
+        "phone": "202-225-6730",
+        "contact_form": "https://walden.house.gov/e-mail-greg"
+      },
+      {
+        "lastname": "Wyden",
+        "firstname": "Ron",
+        "birthday": "5/3/1949",
+        "type": "sen",
+        "state": "OR",
+        "party": "Democrat",
+        "website": "https://www.wyden.senate.gov",
+        "phone": "202-224-5244",
+        "contact_form": "http://www.wyden.senate.gov/contact"
+      },
+      {
+        "lastname": "Bonamici",
+        "firstname": "Suzanne",
+        "birthday": "10/14/1954",
+        "type": "rep",
+        "state": "OR",
+        "party": "Democrat",
+        "website": "http://bonamici.house.gov",
+        "phone": "202-225-0855",
+        "contact_form": "https://bonamici.house.gov/contact-me/email-me"
+      }
+    ]
+  },
+  "Pennsylvania": {
+    "governor": "Tom Wolf",
+    "abbr": "PA",
+    "capital": "Harrisburg",
+    "legislators": [
+      {
+        "lastname": "Casey",
+        "firstname": "Robert",
+        "birthday": "4/13/1960",
+        "type": "sen",
+        "state": "PA",
+        "party": "Democrat",
+        "website": "https://www.casey.senate.gov",
+        "phone": "202-224-6324",
+        "contact_form": "http://www.casey.senate.gov/contact/"
+      },
+      {
+        "lastname": "Barletta",
+        "firstname": "Lou",
+        "birthday": "1/28/1956",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "http://barletta.house.gov",
+        "phone": "202-225-6511",
+        "contact_form": "https://barletta.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Brady",
+        "firstname": "Robert",
+        "birthday": "4/7/1945",
+        "type": "rep",
+        "state": "PA",
+        "party": "Democrat",
+        "website": "http://brady.house.gov",
+        "phone": "202-225-4731",
+        "contact_form": "https://brady.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Dent",
+        "firstname": "Charles",
+        "birthday": "5/24/1960",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "https://dent.house.gov",
+        "phone": "202-225-6411",
+        "contact_form": "https://dent.house.gov/?p=ContactForm"
+      },
+      {
+        "lastname": "Doyle",
+        "firstname": "Michael",
+        "birthday": "8/5/1953",
+        "type": "rep",
+        "state": "PA",
+        "party": "Democrat",
+        "website": "http://doyle.house.gov",
+        "phone": "202-225-2135",
+        "contact_form": "https://doyle.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Fattah",
+        "firstname": "Chaka",
+        "birthday": "11/21/1956",
+        "type": "rep",
+        "state": "PA",
+        "party": "Democrat",
+        "website": "http://fattah.house.gov",
+        "phone": "202-225-4001",
+        "contact_form": "https://fattahforms.house.gov/contact-rep-fattah"
+      },
+      {
+        "lastname": "Fitzpatrick",
+        "firstname": "Michael",
+        "birthday": "6/28/1963",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "http://fitzpatrick.house.gov",
+        "phone": "202-225-4276",
+        "contact_form": "https://fitzpatrick.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Kelly",
+        "firstname": "Mike",
+        "birthday": "5/10/1948",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "http://kelly.house.gov",
+        "phone": "202-225-5406",
+        "contact_form": "https://kelly.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Marino",
+        "firstname": "Tom",
+        "birthday": "8/15/1952",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "http://marino.house.gov",
+        "phone": "202-225-3731",
+        "contact_form": "https://marino.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Meehan",
+        "firstname": "Patrick",
+        "birthday": "10/20/1955",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "https://meehan.house.gov",
+        "phone": "202-225-2011",
+        "contact_form": "https://meehan.house.gov/email-me"
+      },
+      {
+        "lastname": "Murphy",
+        "firstname": "Tim",
+        "birthday": "9/11/1952",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "http://murphy.house.gov",
+        "phone": "202-225-2301",
+        "contact_form": "https://murphy.house.gov/contact-me"
+      },
+      {
+        "lastname": "Pitts",
+        "firstname": "Joseph",
+        "birthday": "10/10/1939",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "http://pitts.house.gov",
+        "phone": "202-225-2411",
+        "contact_form": "https://pitts.house.gov/contact-me/legislative-contact-form"
+      },
+      {
+        "lastname": "Shuster",
+        "firstname": "Bill",
+        "birthday": "1/10/1961",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "http://shuster.house.gov",
+        "phone": "202-225-2431",
+        "contact_form": "http://shuster.house.gov/contact-form/"
+      },
+      {
+        "lastname": "Thompson",
+        "firstname": "Glenn",
+        "birthday": "7/27/1959",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "http://thompson.house.gov",
+        "phone": "202-225-5121",
+        "contact_form": "https://thompson.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Toomey",
+        "firstname": "Patrick",
+        "birthday": "11/17/1961",
+        "type": "sen",
+        "state": "PA",
+        "party": "Republican",
+        "website": "http://www.toomey.senate.gov",
+        "phone": "202-224-4254",
+        "contact_form": "http://www.toomey.senate.gov/?p=contact"
+      },
+      {
+        "lastname": "Perry",
+        "firstname": "Scott",
+        "birthday": "5/27/1962",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "http://perry.house.gov",
+        "phone": "202-225-5836",
+        "contact_form": "http://perryforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Rothfus",
+        "firstname": "Keith",
+        "birthday": "4/25/1962",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "https://rothfus.house.gov",
+        "phone": "202-225-2065",
+        "contact_form": "https://rothfus.house.gov/email-keith"
+      },
+      {
+        "lastname": "Cartwright",
+        "firstname": "Matthew",
+        "birthday": "5/1/1961",
+        "type": "rep",
+        "state": "PA",
+        "party": "Democrat",
+        "website": "http://cartwright.house.gov",
+        "phone": "202-225-5546",
+        "contact_form": "https://cartwrightforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Costello",
+        "firstname": "Ryan",
+        "birthday": "9/7/1976",
+        "type": "rep",
+        "state": "PA",
+        "party": "Republican",
+        "website": "https://costello.house.gov",
+        "phone": "202-225-4315",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Boyle",
+        "firstname": "Brendan",
+        "birthday": "2/6/1977",
+        "type": "rep",
+        "state": "PA",
+        "party": "Democrat",
+        "website": "https://boyle.house.gov",
+        "phone": "202-225-6111",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Rhode Island": {
+    "governor": "Gina Raimondo",
+    "abbr": "RI",
+    "capital": "Providence",
+    "legislators": [
+      {
+        "lastname": "Whitehouse",
+        "firstname": "Sheldon",
+        "birthday": "10/20/1955",
+        "type": "sen",
+        "state": "RI",
+        "party": "Democrat",
+        "website": "http://www.whitehouse.senate.gov",
+        "phone": "202-224-2921",
+        "contact_form": "http://www.whitehouse.senate.gov/contact"
+      },
+      {
+        "lastname": "Reed",
+        "firstname": "John",
+        "birthday": "11/12/1949",
+        "type": "sen",
+        "state": "RI",
+        "party": "Democrat",
+        "website": "http://www.reed.senate.gov",
+        "phone": "202-224-4642",
+        "contact_form": "http://www.reed.senate.gov/contact/"
+      },
+      {
+        "lastname": "Cicilline",
+        "firstname": "David",
+        "birthday": "7/15/1961",
+        "type": "rep",
+        "state": "RI",
+        "party": "Democrat",
+        "website": "http://cicilline.house.gov",
+        "phone": "202-225-4911",
+        "contact_form": "https://cicilline.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Langevin",
+        "firstname": "James",
+        "birthday": "4/22/1964",
+        "type": "rep",
+        "state": "RI",
+        "party": "Democrat",
+        "website": "http://langevin.house.gov",
+        "phone": "202-225-2735",
+        "contact_form": "https://langevin.house.gov/contact-me/email-me"
+      }
+    ]
+  },
+  "South Carolina": {
+    "governor": "Nimrata Haley",
+    "abbr": "SC",
+    "capital": "Columbia",
+    "legislators": [
+      {
+        "lastname": "Graham",
+        "firstname": "Lindsey",
+        "birthday": "7/9/1955",
+        "type": "sen",
+        "state": "SC",
+        "party": "Republican",
+        "website": "http://www.lgraham.senate.gov",
+        "phone": "202-224-5972",
+        "contact_form": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Contact.EmailSenatorGraham"
+      },
+      {
+        "lastname": "Clyburn",
+        "firstname": "James",
+        "birthday": "7/21/1940",
+        "type": "rep",
+        "state": "SC",
+        "party": "Democrat",
+        "website": "http://clyburn.house.gov",
+        "phone": "202-225-3315",
+        "contact_form": "https://clyburn.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Duncan",
+        "firstname": "Jeff",
+        "birthday": "1/7/1966",
+        "type": "rep",
+        "state": "SC",
+        "party": "Republican",
+        "website": "http://jeffduncan.house.gov",
+        "phone": "202-225-5301",
+        "contact_form": "https://jeffduncan.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Gowdy",
+        "firstname": "Trey",
+        "birthday": "8/22/1964",
+        "type": "rep",
+        "state": "SC",
+        "party": "Republican",
+        "website": "https://gowdy.house.gov",
+        "phone": "202-225-6030",
+        "contact_form": "https://gowdy.house.gov/forms/writeyourrep/default.aspx"
+      },
+      {
+        "lastname": "Mulvaney",
+        "firstname": "Mick",
+        "birthday": "7/21/1967",
+        "type": "rep",
+        "state": "SC",
+        "party": "Republican",
+        "website": "https://mulvaney.house.gov",
+        "phone": "202-225-5501",
+        "contact_form": "https://mulvaney.house.gov/email-mick/"
+      },
+      {
+        "lastname": "Scott",
+        "firstname": "Tim",
+        "birthday": "9/19/1965",
+        "type": "sen",
+        "state": "SC",
+        "party": "Republican",
+        "website": "https://www.scott.senate.gov",
+        "phone": "202-224-6121",
+        "contact_form": "http://www.scott.senate.gov/contact/email-me"
+      },
+      {
+        "lastname": "Wilson",
+        "firstname": "Joe",
+        "birthday": "7/31/1947",
+        "type": "rep",
+        "state": "SC",
+        "party": "Republican",
+        "website": "http://joewilson.house.gov",
+        "phone": "202-225-2452",
+        "contact_form": "https://joewilson.house.gov/forms/writeyourrep/default.aspx"
+      },
+      {
+        "lastname": "Rice",
+        "firstname": "Tom",
+        "birthday": "8/4/1957",
+        "type": "rep",
+        "state": "SC",
+        "party": "Republican",
+        "website": "http://rice.house.gov",
+        "phone": "202-225-9895",
+        "contact_form": "https://tomriceforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Sanford",
+        "firstname": "Marshall",
+        "birthday": "5/28/1960",
+        "type": "rep",
+        "state": "SC",
+        "party": "Republican",
+        "website": "http://sanford.house.gov",
+        "phone": "202-225-3176",
+        "contact_form": "https://sanford.house.gov/contact/email-me"
+      }
+    ]
+  },
+  "South Dakota": {
+    "governor": "Dennis Daugaard",
+    "abbr": "SD",
+    "capital": "Pierre",
+    "legislators": [
+      {
+        "lastname": "Noem",
+        "firstname": "Kristi",
+        "birthday": "11/30/1971",
+        "type": "rep",
+        "state": "SD",
+        "party": "Republican",
+        "website": "https://noem.house.gov",
+        "phone": "202-225-2801",
+        "contact_form": "http://noem.house.gov/index.cfm/email-kristi"
+      },
+      {
+        "lastname": "Thune",
+        "firstname": "John",
+        "birthday": "1/7/1961",
+        "type": "sen",
+        "state": "SD",
+        "party": "Republican",
+        "website": "http://www.thune.senate.gov",
+        "phone": "202-224-2321",
+        "contact_form": "http://www.thune.senate.gov/public/index.cfm/contact"
+      },
+      {
+        "lastname": "Rounds",
+        "firstname": "Mike",
+        "birthday": "10/24/1954",
+        "type": "sen",
+        "state": "SD",
+        "party": "Republican",
+        "website": "http://www.rounds.senate.gov",
+        "phone": "202-224-5842",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Tennessee": {
+    "governor": "Bill Haslam",
+    "abbr": "TN",
+    "capital": "Nashville",
+    "legislators": [
+      {
+        "lastname": "Corker",
+        "firstname": "Bob",
+        "birthday": "8/24/1952",
+        "type": "sen",
+        "state": "TN",
+        "party": "Republican",
+        "website": "http://www.corker.senate.gov",
+        "phone": "202-224-3344",
+        "contact_form": "http://www.corker.senate.gov/public/index.cfm/emailme"
+      },
+      {
+        "lastname": "Alexander",
+        "firstname": "Lamar",
+        "birthday": "7/3/1940",
+        "type": "sen",
+        "state": "TN",
+        "party": "Republican",
+        "website": "http://www.alexander.senate.gov",
+        "phone": "202-224-4944",
+        "contact_form": "http://www.alexander.senate.gov/public/index.cfm?p=Email"
+      },
+      {
+        "lastname": "Black",
+        "firstname": "Diane",
+        "birthday": "1/16/1951",
+        "type": "rep",
+        "state": "TN",
+        "party": "Republican",
+        "website": "http://black.house.gov",
+        "phone": "202-225-4231",
+        "contact_form": "https://black.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Blackburn",
+        "firstname": "Marsha",
+        "birthday": "6/6/1952",
+        "type": "rep",
+        "state": "TN",
+        "party": "Republican",
+        "website": "http://blackburn.house.gov",
+        "phone": "202-225-2811",
+        "contact_form": "https://blackburn.house.gov/contactform/email.htm"
+      },
+      {
+        "lastname": "Cohen",
+        "firstname": "Steve",
+        "birthday": "5/24/1949",
+        "type": "rep",
+        "state": "TN",
+        "party": "Democrat",
+        "website": "http://cohen.house.gov",
+        "phone": "202-225-3265",
+        "contact_form": "https://cohen.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Cooper",
+        "firstname": "Jim",
+        "birthday": "6/19/1954",
+        "type": "rep",
+        "state": "TN",
+        "party": "Democrat",
+        "website": "http://cooper.house.gov",
+        "phone": "202-225-4311",
+        "contact_form": "https://cooper.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "DesJarlais",
+        "firstname": "Scott",
+        "birthday": "2/21/1964",
+        "type": "rep",
+        "state": "TN",
+        "party": "Republican",
+        "website": "https://desjarlais.house.gov",
+        "phone": "202-225-6831",
+        "contact_form": "http://desjarlais.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Duncan",
+        "firstname": "John",
+        "birthday": "7/21/1947",
+        "type": "rep",
+        "state": "TN",
+        "party": "Republican",
+        "website": "http://duncan.house.gov",
+        "phone": "202-225-5435",
+        "contact_form": "https://duncan.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Fincher",
+        "firstname": "Stephen",
+        "birthday": "2/7/1973",
+        "type": "rep",
+        "state": "TN",
+        "party": "Republican",
+        "website": "http://fincher.house.gov",
+        "phone": "202-225-4714",
+        "contact_form": "https://fincher.house.gov/contact/email-me#.U06uR_ldWVo"
+      },
+      {
+        "lastname": "Fleischmann",
+        "firstname": "Charles",
+        "birthday": "10/11/1962",
+        "type": "rep",
+        "state": "TN",
+        "party": "Republican",
+        "website": "http://fleischmann.house.gov",
+        "phone": "202-225-3271",
+        "contact_form": "https://fleischmann.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Roe",
+        "firstname": "David",
+        "birthday": "7/21/1945",
+        "type": "rep",
+        "state": "TN",
+        "party": "Republican",
+        "website": "http://roe.house.gov",
+        "phone": "202-225-6356",
+        "contact_form": "https://roe.house.gov/contact/contactform.htm?zip5=37813&zip4=1659"
+      }
+    ]
+  },
+  "Texas": {
+    "governor": "Greg Abbott",
+    "abbr": "TX",
+    "capital": "Austin",
+    "legislators": [
+      {
+        "lastname": "Cornyn",
+        "firstname": "John",
+        "birthday": "2/2/1952",
+        "type": "sen",
+        "state": "TX",
+        "party": "Republican",
+        "website": "https://www.cornyn.senate.gov",
+        "phone": "202-224-2934",
+        "contact_form": "http://www.cornyn.senate.gov/public/index.cfm?p=ContactForm"
+      },
+      {
+        "lastname": "Barton",
+        "firstname": "Joe",
+        "birthday": "9/15/1949",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://joebarton.house.gov",
+        "phone": "202-225-2002",
+        "contact_form": "https://joebarton.house.gov/contact1/"
+      },
+      {
+        "lastname": "Brady",
+        "firstname": "Kevin",
+        "birthday": "4/11/1955",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://kevinbrady.house.gov",
+        "phone": "202-225-4901",
+        "contact_form": "https://kevinbrady.house.gov/contact-form"
+      },
+      {
+        "lastname": "Burgess",
+        "firstname": "Michael",
+        "birthday": "12/23/1950",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://burgess.house.gov",
+        "phone": "202-225-7772",
+        "contact_form": "http://burgess.house.gov/contact/356345.htm"
+      },
+      {
+        "lastname": "Carter",
+        "firstname": "John",
+        "birthday": "11/6/1941",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://carter.house.gov",
+        "phone": "202-225-3864",
+        "contact_form": "https://carter.house.gov/email-john2"
+      },
+      {
+        "lastname": "Conaway",
+        "firstname": "K.",
+        "birthday": "6/11/1948",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://conaway.house.gov",
+        "phone": "202-225-3605",
+        "contact_form": "https://conaway.house.gov/forms/writeyourrep/default.aspx"
+      },
+      {
+        "lastname": "Cuellar",
+        "firstname": "Henry",
+        "birthday": "9/19/1955",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "http://cuellar.house.gov",
+        "phone": "202-225-1640",
+        "contact_form": "https://cuellar.house.gov/forms/writeyourrep/default.aspx"
+      },
+      {
+        "lastname": "Culberson",
+        "firstname": "John",
+        "birthday": "8/24/1956",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://culberson.house.gov",
+        "phone": "202-225-2571",
+        "contact_form": "https://culbersonforms.house.gov/forms/writeyourrep/default.aspx"
+      },
+      {
+        "lastname": "Doggett",
+        "firstname": "Lloyd",
+        "birthday": "10/6/1946",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "http://doggett.house.gov",
+        "phone": "202-225-4865",
+        "contact_form": "https://forms.house.gov/doggett/webforms/issue_subscribe.htm"
+      },
+      {
+        "lastname": "Farenthold",
+        "firstname": "Blake",
+        "birthday": "12/12/1961",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://farenthold.house.gov",
+        "phone": "202-225-7742",
+        "contact_form": "http://farentholdforms.house.gov/contact/email.htm"
+      },
+      {
+        "lastname": "Flores",
+        "firstname": "Bill",
+        "birthday": "2/25/1954",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://flores.house.gov",
+        "phone": "202-225-6105",
+        "contact_form": "https://billflores.house.gov/contact/"
+      },
+      {
+        "lastname": "Gohmert",
+        "firstname": "Louie",
+        "birthday": "8/18/1953",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://gohmert.house.gov",
+        "phone": "202-225-3035",
+        "contact_form": "http://gohmert.house.gov/contact/"
+      },
+      {
+        "lastname": "Granger",
+        "firstname": "Kay",
+        "birthday": "1/18/1943",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://kaygranger.house.gov",
+        "phone": "202-225-5071",
+        "contact_form": "http://kaygranger.house.gov/contact-kay/email-me"
+      },
+      {
+        "lastname": "Green",
+        "firstname": "Al",
+        "birthday": "9/1/1947",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "http://algreen.house.gov",
+        "phone": "202-225-7508",
+        "contact_form": "https://algreen.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Green",
+        "firstname": "Gene",
+        "birthday": "10/17/1947",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "https://green.house.gov",
+        "phone": "202-225-1688",
+        "contact_form": "https://green.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Hensarling",
+        "firstname": "Jeb",
+        "birthday": "5/29/1957",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://hensarling.house.gov",
+        "phone": "202-225-3484",
+        "contact_form": "https://hensarling.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Hinojosa",
+        "firstname": "Rubén",
+        "birthday": "8/20/1940",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "http://hinojosa.house.gov",
+        "phone": "202-225-2531",
+        "contact_form": "https://hinojosa.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Jackson Lee",
+        "firstname": "Sheila",
+        "birthday": "1/12/1950",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "http://jacksonlee.house.gov",
+        "phone": "202-225-3816",
+        "contact_form": "http://jacksonlee.house.gov/contact/"
+      },
+      {
+        "lastname": "Johnson",
+        "firstname": "Eddie",
+        "birthday": "12/3/1935",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "http://ebjohnson.house.gov",
+        "phone": "202-225-8885",
+        "contact_form": "https://ebjohnson.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Johnson",
+        "firstname": "Sam",
+        "birthday": "10/11/1930",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://samjohnson.house.gov",
+        "phone": "202-225-4201",
+        "contact_form": "http://samjohnson.house.gov/contact/"
+      },
+      {
+        "lastname": "Marchant",
+        "firstname": "Kenny",
+        "birthday": "2/23/1951",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://marchant.house.gov",
+        "phone": "202-225-6605",
+        "contact_form": "https://marchant.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "McCaul",
+        "firstname": "Michael",
+        "birthday": "1/14/1962",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://mccaul.house.gov",
+        "phone": "202-225-2401",
+        "contact_form": "https://mccaul.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Neugebauer",
+        "firstname": "Randy",
+        "birthday": "12/24/1949",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://randy.house.gov",
+        "phone": "202-225-4005",
+        "contact_form": "https://randy.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Olson",
+        "firstname": "Pete",
+        "birthday": "12/9/1962",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://olson.house.gov",
+        "phone": "202-225-5951",
+        "contact_form": "https://forms.house.gov/olson/contact-form.shtml"
+      },
+      {
+        "lastname": "Poe",
+        "firstname": "Ted",
+        "birthday": "9/10/1948",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "https://poe.house.gov",
+        "phone": "202-225-6565",
+        "contact_form": "https://poe.house.gov/index.cfm/contact-form#form_D05B44B5-B782-4DC7-BED6-FF0C90951FFF"
+      },
+      {
+        "lastname": "Sessions",
+        "firstname": "Pete",
+        "birthday": "3/22/1955",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "https://sessions.house.gov",
+        "phone": "202-225-2231",
+        "contact_form": "https://sessions.house.gov/index.cfm/contact-form"
+      },
+      {
+        "lastname": "Smith",
+        "firstname": "Lamar",
+        "birthday": "11/19/1947",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://lamarsmith.house.gov",
+        "phone": "202-225-4236",
+        "contact_form": "http://lamarsmith.house.gov/contact/email-lamar"
+      },
+      {
+        "lastname": "Thornberry",
+        "firstname": "Mac",
+        "birthday": "7/15/1958",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://thornberry.house.gov",
+        "phone": "202-225-3706",
+        "contact_form": "https://thornberry.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Cruz",
+        "firstname": "Ted",
+        "birthday": "12/22/1970",
+        "type": "sen",
+        "state": "TX",
+        "party": "Republican",
+        "website": "https://www.cruz.senate.gov",
+        "phone": "202-224-5922",
+        "contact_form": "http://www.cruz.senate.gov/?p=email_senator"
+      },
+      {
+        "lastname": "Weber",
+        "firstname": "Randy",
+        "birthday": "7/2/1953",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://weber.house.gov",
+        "phone": "202-225-2831",
+        "contact_form": "https://weber.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "O'Rourke",
+        "firstname": "Beto",
+        "birthday": "9/26/1972",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "http://orourke.house.gov",
+        "phone": "202-225-4831",
+        "contact_form": "https://orourkeforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Castro",
+        "firstname": "Joaquin",
+        "birthday": "9/16/1974",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "http://castro.house.gov",
+        "phone": "202-225-3236",
+        "contact_form": "https://castro.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Williams",
+        "firstname": "Roger",
+        "birthday": "9/13/1949",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://williams.house.gov",
+        "phone": "202-225-9896",
+        "contact_form": "https://williams.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Veasey",
+        "firstname": "Marc",
+        "birthday": "1/3/1971",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "http://veasey.house.gov",
+        "phone": "202-225-9897",
+        "contact_form": "https://veaseyforms.house.gov/forms/writeyourrep/"
+      },
+      {
+        "lastname": "Vela",
+        "firstname": "Filemon",
+        "birthday": "2/13/1963",
+        "type": "rep",
+        "state": "TX",
+        "party": "Democrat",
+        "website": "http://vela.house.gov",
+        "phone": "202-225-9901",
+        "contact_form": "https://forms.house.gov/vela/webforms/email-me.shtml"
+      },
+      {
+        "lastname": "Ratcliffe",
+        "firstname": "John",
+        "birthday": "10/20/1965",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "https://ratcliffe.house.gov",
+        "phone": "202-225-6673",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Hurd",
+        "firstname": "Will",
+        "birthday": "8/19/1977",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "https://hurd.house.gov",
+        "phone": "202-225-4511",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Babin",
+        "firstname": "Brian",
+        "birthday": "3/23/1948",
+        "type": "rep",
+        "state": "TX",
+        "party": "Republican",
+        "website": "http://babin.house.gov",
+        "phone": "202-225-1555",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Utah": {
+    "governor": "Gary Herbert",
+    "abbr": "UT",
+    "capital": "Salt Lake City",
+    "legislators": [
+      {
+        "lastname": "Hatch",
+        "firstname": "Orrin",
+        "birthday": "3/22/1934",
+        "type": "sen",
+        "state": "UT",
+        "party": "Republican",
+        "website": "http://www.hatch.senate.gov",
+        "phone": "202-224-5251",
+        "contact_form": "http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin"
+      },
+      {
+        "lastname": "Bishop",
+        "firstname": "Rob",
+        "birthday": "7/13/1951",
+        "type": "rep",
+        "state": "UT",
+        "party": "Republican",
+        "website": "http://robbishop.house.gov",
+        "phone": "202-225-0453",
+        "contact_form": "https://robbishop.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Chaffetz",
+        "firstname": "Jason",
+        "birthday": "3/26/1967",
+        "type": "rep",
+        "state": "UT",
+        "party": "Republican",
+        "website": "http://chaffetz.house.gov",
+        "phone": "202-225-7751",
+        "contact_form": "https://chaffetz.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Lee",
+        "firstname": "Mike",
+        "birthday": "6/4/1971",
+        "type": "sen",
+        "state": "UT",
+        "party": "Republican",
+        "website": "http://www.lee.senate.gov",
+        "phone": "202-224-5444",
+        "contact_form": "http://www.lee.senate.gov/public/index.cfm/contact"
+      },
+      {
+        "lastname": "Stewart",
+        "firstname": "Chris",
+        "birthday": "7/15/1960",
+        "type": "rep",
+        "state": "UT",
+        "party": "Republican",
+        "website": "http://stewart.house.gov",
+        "phone": "202-225-9730",
+        "contact_form": "https://stewart.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Love",
+        "firstname": "Mia",
+        "birthday": "12/6/1975",
+        "type": "rep",
+        "state": "UT",
+        "party": "Republican",
+        "website": "https://love.house.gov",
+        "phone": "202-225-3011",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Vermont": {
+    "governor": "Peter Shumlin",
+    "abbr": "VT",
+    "capital": "Montpelier",
+    "legislators": [
+      {
+        "lastname": "Sanders",
+        "firstname": "Bernard",
+        "birthday": "9/8/1941",
+        "type": "sen",
+        "state": "VT",
+        "party": "Independent",
+        "website": "http://www.sanders.senate.gov",
+        "phone": "202-224-5141",
+        "contact_form": "http://www.sanders.senate.gov/contact/comment"
+      },
+      {
+        "lastname": "Leahy",
+        "firstname": "Patrick",
+        "birthday": "3/31/1940",
+        "type": "sen",
+        "state": "VT",
+        "party": "Democrat",
+        "website": "http://www.leahy.senate.gov",
+        "phone": "202-224-4242",
+        "contact_form": "https://www.leahy.senate.gov/contact/"
+      },
+      {
+        "lastname": "Welch",
+        "firstname": "Peter",
+        "birthday": "5/2/1947",
+        "type": "rep",
+        "state": "VT",
+        "party": "Democrat",
+        "website": "http://welch.house.gov",
+        "phone": "202-225-4115",
+        "contact_form": "https://welch.house.gov/email-me"
+      }
+    ]
+  },
+  "Virginia": {
+    "governor": "Terry McAuliffe",
+    "abbr": "VA",
+    "capital": "Richmond",
+    "legislators": [
+      {
+        "lastname": "Warner",
+        "firstname": "Mark",
+        "birthday": "12/15/1954",
+        "type": "sen",
+        "state": "VA",
+        "party": "Democrat",
+        "website": "http://www.warner.senate.gov",
+        "phone": "202-224-2023",
+        "contact_form": "http://www.warner.senate.gov/public//index.cfm?p=ContactPage#form_f9db6196-2dc7-4cda-8add-f8435a71318a"
+      },
+      {
+        "lastname": "Connolly",
+        "firstname": "Gerald",
+        "birthday": "3/30/1950",
+        "type": "rep",
+        "state": "VA",
+        "party": "Democrat",
+        "website": "http://connolly.house.gov",
+        "phone": "202-225-1492",
+        "contact_form": "https://forms.house.gov/connolly/contact-form.shtml"
+      },
+      {
+        "lastname": "Forbes",
+        "firstname": "J.",
+        "birthday": "2/17/1952",
+        "type": "rep",
+        "state": "VA",
+        "party": "Republican",
+        "website": "http://forbes.house.gov",
+        "phone": "202-225-6365",
+        "contact_form": "https://forbes.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Goodlatte",
+        "firstname": "Bob",
+        "birthday": "9/22/1952",
+        "type": "rep",
+        "state": "VA",
+        "party": "Republican",
+        "website": "http://goodlatte.house.gov",
+        "phone": "202-225-5431",
+        "contact_form": "http://goodlatte.house.gov/contacts/new"
+      },
+      {
+        "lastname": "Griffith",
+        "firstname": "H.",
+        "birthday": "3/15/1958",
+        "type": "rep",
+        "state": "VA",
+        "party": "Republican",
+        "website": "http://morgangriffith.house.gov",
+        "phone": "202-225-3861",
+        "contact_form": "https://morgangriffith.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Hurt",
+        "firstname": "Robert",
+        "birthday": "6/16/1969",
+        "type": "rep",
+        "state": "VA",
+        "party": "Republican",
+        "website": "https://hurt.house.gov",
+        "phone": "202-225-4711",
+        "contact_form": "https://hurt.house.gov/index.cfm/email-me"
+      },
+      {
+        "lastname": "Rigell",
+        "firstname": "Edward",
+        "birthday": "5/28/1960",
+        "type": "rep",
+        "state": "VA",
+        "party": "Republican",
+        "website": "http://rigell.house.gov",
+        "phone": "202-225-4215",
+        "contact_form": "https://rigell.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "Scott",
+        "firstname": "Robert",
+        "birthday": "4/30/1947",
+        "type": "rep",
+        "state": "VA",
+        "party": "Democrat",
+        "website": "http://bobbyscott.house.gov",
+        "phone": "202-225-8351",
+        "contact_form": "https://bobbyscott.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Wittman",
+        "firstname": "Robert",
+        "birthday": "2/3/1959",
+        "type": "rep",
+        "state": "VA",
+        "party": "Republican",
+        "website": "https://wittman.house.gov",
+        "phone": "202-225-4261",
+        "contact_form": "https://wittman.house.gov/contact-form/"
+      },
+      {
+        "lastname": "Kaine",
+        "firstname": "Timothy",
+        "birthday": "2/26/1958",
+        "type": "sen",
+        "state": "VA",
+        "party": "Democrat",
+        "website": "http://www.kaine.senate.gov",
+        "phone": "202-224-4024",
+        "contact_form": "http://www.kaine.senate.gov/contact"
+      },
+      {
+        "lastname": "Brat",
+        "firstname": "David",
+        "birthday": "7/27/1964",
+        "type": "rep",
+        "state": "VA",
+        "party": "Republican",
+        "website": "http://brat.house.gov",
+        "phone": "202-225-2815",
+        "contact_form": "http://brat.house.gov/contact"
+      },
+      {
+        "lastname": "Beyer",
+        "firstname": "Donald",
+        "birthday": "6/20/1950",
+        "type": "rep",
+        "state": "VA",
+        "party": "Democrat",
+        "website": "http://beyer.house.gov",
+        "phone": "202-225-4376",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Comstock",
+        "firstname": "Barbara",
+        "birthday": "6/30/1959",
+        "type": "rep",
+        "state": "VA",
+        "party": "Republican",
+        "website": "https://comstock.house.gov",
+        "phone": "202-225-5136",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Washington": {
+    "governor": "Jay Inslee",
+    "abbr": "WA",
+    "capital": "Olympia",
+    "legislators": [
+      {
+        "lastname": "Cantwell",
+        "firstname": "Maria",
+        "birthday": "10/13/1958",
+        "type": "sen",
+        "state": "WA",
+        "party": "Democrat",
+        "website": "http://www.cantwell.senate.gov",
+        "phone": "202-224-3441",
+        "contact_form": "http://www.cantwell.senate.gov/public/index.cfm/email-maria"
+      },
+      {
+        "lastname": "Herrera Beutler",
+        "firstname": "Jaime",
+        "birthday": "11/3/1978",
+        "type": "rep",
+        "state": "WA",
+        "party": "Republican",
+        "website": "http://herrerabeutler.house.gov",
+        "phone": "202-225-3536",
+        "contact_form": "http://herrerabeutler.house.gov/contact/"
+      },
+      {
+        "lastname": "Larsen",
+        "firstname": "Rick",
+        "birthday": "6/15/1965",
+        "type": "rep",
+        "state": "WA",
+        "party": "Democrat",
+        "website": "http://larsen.house.gov",
+        "phone": "202-225-2605",
+        "contact_form": "http://larsen.house.gov/contact-rick/email-rick"
+      },
+      {
+        "lastname": "McDermott",
+        "firstname": "Jim",
+        "birthday": "12/28/1936",
+        "type": "rep",
+        "state": "WA",
+        "party": "Democrat",
+        "website": "http://mcdermott.house.gov",
+        "phone": "202-225-3106",
+        "contact_form": "https://forms.house.gov/mcdermott/webforms/new/contact.shtml"
+      },
+      {
+        "lastname": "McMorris Rodgers",
+        "firstname": "Cathy",
+        "birthday": "5/22/1969",
+        "type": "rep",
+        "state": "WA",
+        "party": "Republican",
+        "website": "http://mcmorris.house.gov",
+        "phone": "202-225-2006",
+        "contact_form": "https://mcmorrisforms.house.gov/write-to-cathy1"
+      },
+      {
+        "lastname": "Murray",
+        "firstname": "Patty",
+        "birthday": "10/11/1950",
+        "type": "sen",
+        "state": "WA",
+        "party": "Democrat",
+        "website": "http://www.murray.senate.gov",
+        "phone": "202-224-2621",
+        "contact_form": "http://www.murray.senate.gov/public/index.cfm/contactme"
+      },
+      {
+        "lastname": "Reichert",
+        "firstname": "David",
+        "birthday": "8/29/1950",
+        "type": "rep",
+        "state": "WA",
+        "party": "Republican",
+        "website": "http://reichert.house.gov",
+        "phone": "202-225-7761",
+        "contact_form": "https://reichert.house.gov/contact-me"
+      },
+      {
+        "lastname": "Smith",
+        "firstname": "Adam",
+        "birthday": "6/15/1965",
+        "type": "rep",
+        "state": "WA",
+        "party": "Democrat",
+        "website": "https://adamsmith.house.gov",
+        "phone": "202-225-8901",
+        "contact_form": "https://adamsmith.house.gov/contact/contactform.htm"
+      },
+      {
+        "lastname": "DelBene",
+        "firstname": "Suzan",
+        "birthday": "2/17/1962",
+        "type": "rep",
+        "state": "WA",
+        "party": "Democrat",
+        "website": "http://delbene.house.gov",
+        "phone": "202-225-6311",
+        "contact_form": "http://delbene.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Kilmer",
+        "firstname": "Derek",
+        "birthday": "1/1/1974",
+        "type": "rep",
+        "state": "WA",
+        "party": "Democrat",
+        "website": "http://kilmer.house.gov",
+        "phone": "202-225-5916",
+        "contact_form": "https://kilmer.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Heck",
+        "firstname": "Denny",
+        "birthday": "7/29/1952",
+        "type": "rep",
+        "state": "WA",
+        "party": "Democrat",
+        "website": "http://dennyheck.house.gov",
+        "phone": "202-225-9740",
+        "contact_form": "https://dennyheck.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Newhouse",
+        "firstname": "Dan",
+        "birthday": "7/10/1955",
+        "type": "rep",
+        "state": "WA",
+        "party": "Republican",
+        "website": "https://newhouse.house.gov",
+        "phone": "202-225-5816",
+        "contact_form": ""
+      }
+    ]
+  },
+  "West Virginia": {
+    "governor": "Earl Tomblin",
+    "abbr": "WV",
+    "capital": "Charleston",
+    "legislators": [
+      {
+        "lastname": "Manchin",
+        "firstname": "Joe",
+        "birthday": "8/24/1947",
+        "type": "sen",
+        "state": "WV",
+        "party": "Democrat",
+        "website": "http://www.manchin.senate.gov",
+        "phone": "202-224-3954",
+        "contact_form": "http://www.manchin.senate.gov/public/index.cfm/contact-form"
+      },
+      {
+        "lastname": "Capito",
+        "firstname": "Shelley",
+        "birthday": "11/26/1953",
+        "type": "sen",
+        "state": "WV",
+        "party": "Republican",
+        "website": "https://www.capito.senate.gov",
+        "phone": "202-224-6472",
+        "contact_form": ""
+      },
+      {
+        "lastname": "McKinley",
+        "firstname": "David",
+        "birthday": "3/28/1947",
+        "type": "rep",
+        "state": "WV",
+        "party": "Republican",
+        "website": "http://mckinley.house.gov",
+        "phone": "202-225-4172",
+        "contact_form": "https://mckinleyforms.house.gov/email-me"
+      },
+      {
+        "lastname": "Mooney",
+        "firstname": "Alex",
+        "birthday": "6/5/1971",
+        "type": "rep",
+        "state": "WV",
+        "party": "Republican",
+        "website": "https://mooney.house.gov",
+        "phone": "202-225-2711",
+        "contact_form": ""
+      },
+      {
+        "lastname": "Jenkins",
+        "firstname": "Evan",
+        "birthday": "9/12/1960",
+        "type": "rep",
+        "state": "WV",
+        "party": "Republican",
+        "website": "https://evanjenkins.house.gov",
+        "phone": "202-225-3452",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Wisconsin": {
+    "governor": "Scott Walker",
+    "abbr": "WI",
+    "capital": "Madison",
+    "legislators": [
+      {
+        "lastname": "Baldwin",
+        "firstname": "Tammy",
+        "birthday": "2/11/1962",
+        "type": "sen",
+        "state": "WI",
+        "party": "Democrat",
+        "website": "http://www.baldwin.senate.gov",
+        "phone": "202-224-5653",
+        "contact_form": "http://www.baldwin.senate.gov/contact"
+      },
+      {
+        "lastname": "Duffy",
+        "firstname": "Sean",
+        "birthday": "10/3/1971",
+        "type": "rep",
+        "state": "WI",
+        "party": "Republican",
+        "website": "https://duffy.house.gov",
+        "phone": "202-225-3365",
+        "contact_form": "http://duffy.house.gov/contact"
+      },
+      {
+        "lastname": "Johnson",
+        "firstname": "Ron",
+        "birthday": "4/8/1955",
+        "type": "sen",
+        "state": "WI",
+        "party": "Republican",
+        "website": "http://www.ronjohnson.senate.gov",
+        "phone": "202-224-5323",
+        "contact_form": "http://www.ronjohnson.senate.gov/public/index.cfm/contact"
+      },
+      {
+        "lastname": "Kind",
+        "firstname": "Ron",
+        "birthday": "3/16/1963",
+        "type": "rep",
+        "state": "WI",
+        "party": "Democrat",
+        "website": "http://kind.house.gov",
+        "phone": "202-225-5506",
+        "contact_form": "https://kindforms.house.gov/email-ron"
+      },
+      {
+        "lastname": "Moore",
+        "firstname": "Gwen",
+        "birthday": "4/18/1951",
+        "type": "rep",
+        "state": "WI",
+        "party": "Democrat",
+        "website": "http://gwenmoore.house.gov",
+        "phone": "202-225-4572",
+        "contact_form": "https://gwenmoore.house.gov/contact-form"
+      },
+      {
+        "lastname": "Ribble",
+        "firstname": "Reid",
+        "birthday": "4/5/1956",
+        "type": "rep",
+        "state": "WI",
+        "party": "Republican",
+        "website": "http://ribble.house.gov",
+        "phone": "202-225-5665",
+        "contact_form": "https://ribble.house.gov/contact-me/email-me"
+      },
+      {
+        "lastname": "Ryan",
+        "firstname": "Paul",
+        "birthday": "1/29/1970",
+        "type": "rep",
+        "state": "WI",
+        "party": "Republican",
+        "website": "http://paulryan.house.gov",
+        "phone": "202-225-3031",
+        "contact_form": "https://paulryan.house.gov/contact/email.htm#.U032ra1dU_d"
+      },
+      {
+        "lastname": "Sensenbrenner",
+        "firstname": "F.",
+        "birthday": "6/14/1943",
+        "type": "rep",
+        "state": "WI",
+        "party": "Republican",
+        "website": "http://sensenbrenner.house.gov",
+        "phone": "202-225-5101",
+        "contact_form": "http://sensenbrenner.house.gov/contact/email.htm"
+      },
+      {
+        "lastname": "Pocan",
+        "firstname": "Mark",
+        "birthday": "8/14/1964",
+        "type": "rep",
+        "state": "WI",
+        "party": "Democrat",
+        "website": "http://pocan.house.gov",
+        "phone": "202-225-2906",
+        "contact_form": "https://pocan.house.gov/contact/email-me"
+      },
+      {
+        "lastname": "Grothman",
+        "firstname": "Glenn",
+        "birthday": "7/3/1955",
+        "type": "rep",
+        "state": "WI",
+        "party": "Republican",
+        "website": "http://grothman.house.gov",
+        "phone": "202-225-2476",
+        "contact_form": ""
+      }
+    ]
+  },
+  "Wyoming": {
+    "governor": "Matt Mead",
+    "abbr": "WY",
+    "capital": "Cheyenne",
+    "legislators": [
+      {
+        "lastname": "Barrasso",
+        "firstname": "John",
+        "birthday": "7/21/1952",
+        "type": "sen",
+        "state": "WY",
+        "party": "Republican",
+        "website": "http://www.barrasso.senate.gov",
+        "phone": "202-224-6441",
+        "contact_form": "http://www.barrasso.senate.gov/public/index.cfm?FuseAction=ContactUs.ContactForm"
+      },
+      {
+        "lastname": "Enzi",
+        "firstname": "Michael",
+        "birthday": "2/1/1944",
+        "type": "sen",
+        "state": "WY",
+        "party": "Republican",
+        "website": "http://www.enzi.senate.gov",
+        "phone": "202-224-3424",
+        "contact_form": "http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi"
+      },
+      {
+        "lastname": "Lummis",
+        "firstname": "Cynthia",
+        "birthday": "9/10/1954",
+        "type": "rep",
+        "state": "WY",
+        "party": "Republican",
+        "website": "http://lummis.house.gov",
+        "phone": "202-225-2311",
+        "contact_form": "http://lummis.house.gov/contact/"
+      }
+    ]
+  }
+}

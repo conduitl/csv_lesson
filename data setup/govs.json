@@ -1,0 +1,203 @@
+[
+  {
+    "state": "Alabama",
+    "governor": "Robert Bentley"
+  },
+  {
+    "state": "Alaska",
+    "governor": "Bill Walker"
+  },
+  {
+    "state": "Arizona",
+    "governor": "Doug Ducey"
+  },
+  {
+    "state": "Arkansas",
+    "governor": "William Hutchinson"
+  },
+  {
+    "state": "California",
+    "governor": "Jerry Brown"
+  },
+  {
+    "state": "Colorado",
+    "governor": "John Hickenlooper"
+  },
+  {
+    "state": "Connecticut",
+    "governor": "Dan Malloy"
+  },
+  {
+    "state": "Delaware",
+    "governor": "Jack Markell"
+  },
+  {
+    "state": "Florida",
+    "governor": "Rick Scott"
+  },
+  {
+    "state": "Georgia",
+    "governor": "John Deal"
+  },
+  {
+    "state": "Hawaii",
+    "governor": "David Ige"
+  },
+  {
+    "state": "Idaho",
+    "governor": "Butch Otter"
+  },
+  {
+    "state": "Illinois",
+    "governor": "Bruce Rauner"
+  },
+  {
+    "state": "Indiana",
+    "governor": "Mike Pence"
+  },
+  {
+    "state": "Iowa",
+    "governor": "Terry Branstad"
+  },
+  {
+    "state": "Kansas",
+    "governor": "Sam Brownback"
+  },
+  {
+    "state": "Kentucky",
+    "governor": "Steven Beshear"
+  },
+  {
+    "state": "Louisiana",
+    "governor": "Bobby Jindal"
+  },
+  {
+    "state": "Maine",
+    "governor": "Paul LePage"
+  },
+  {
+    "state": "Maryland",
+    "governor": "Martin Malley"
+  },
+  {
+    "state": "Massachusetts",
+    "governor": "Charlie Baker"
+  },
+  {
+    "state": "Michigan",
+    "governor": "Rick Snyder"
+  },
+  {
+    "state": "Minnesota",
+    "governor": "Mark Dayton"
+  },
+  {
+    "state": "Mississippi",
+    "governor": "Phil Bryant"
+  },
+  {
+    "state": "Missouri",
+    "governor": "Jay Nixon"
+  },
+  {
+    "state": "Montana",
+    "governor": "Steve Bullock"
+  },
+  {
+    "state": "Nebraska",
+    "governor": "Pete Ricketts"
+  },
+  {
+    "state": "Nevada",
+    "governor": "Brian Sandoval"
+  },
+  {
+    "state": "New Hampshire",
+    "governor": "Maggie Hassan"
+  },
+  {
+    "state": "New Jersey",
+    "governor": "Chris Christie"
+  },
+  {
+    "state": "New Mexico",
+    "governor": "Susana Martinez"
+  },
+  {
+    "state": "New York",
+    "governor": "Andrew Cuomo"
+  },
+  {
+    "state": "North Carolina",
+    "governor": "Pat McCrory"
+  },
+  {
+    "state": "North Dakota",
+    "governor": "Jack Dalrymple"
+  },
+  {
+    "state": "Ohio",
+    "governor": "John Kasich"
+  },
+  {
+    "state": "Oklahoma",
+    "governor": "Mary Fallin"
+  },
+  {
+    "state": "Oregon",
+    "governor": "John Kitzhaber"
+  },
+  {
+    "state": "Pennsylvania",
+    "governor": "Tom Wolf"
+  },
+  {
+    "state": "Rhode Island",
+    "governor": "Gina Raimondo"
+  },
+  {
+    "state": "South Carolina",
+    "governor": "Nimrata Haley"
+  },
+  {
+    "state": "South Dakota",
+    "governor": "Dennis Daugaard"
+  },
+  {
+    "state": "Tennessee",
+    "governor": "Bill Haslam"
+  },
+  {
+    "state": "Texas",
+    "governor": "Greg Abbott"
+  },
+  {
+    "state": "Utah",
+    "governor": "Gary Herbert"
+  },
+  {
+    "state": "Vermont",
+    "governor": "Peter Shumlin"
+  },
+  {
+    "state": "Virginia",
+    "governor": "Terry McAuliffe"
+  },
+  {
+    "state": "Washington",
+    "governor": "Jay Inslee"
+  },
+  {
+    "state": "West Virginia",
+    "governor": "Earl Tomblin"
+  },
+  {
+    "state": "Wisconsin",
+    "governor": "Scott Walker"
+  },
+  {
+    "state": "Wyoming",
+    "governor": "Matt Mead"
+  },
+  null
+]
