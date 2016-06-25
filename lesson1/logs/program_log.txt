@@ -1,4 +1,4 @@
------Files about to be read-----
+-----Files read-----
 Alabama_RobertBentley.csv
 Alaska_BillWalker.csv
 Arizona_DougDucey.csv
@@ -19,10 +19,14 @@ Kentucky_StevenBeshear.csv
 Louisiana_BobbyJindal.csv
 New-Mexico_SusanaMartinez.csv
 Texas_GregAbbott.csv
+
+
 *****Target file headers*****
 first name,last name,state,type,birthday,phone,email
+
+
 *****File headers found*****
-File headers found
+
 
 MATCH: first name,last name,state,type,birthday,phone,email---from Alabama_RobertBentley.csv
 MATCH: first name,last name,state,type,birthday,phone,email---from Alaska_BillWalker.csv
@@ -44,3 +48,22 @@ MATCH: first name,last name,state,type,birthday,phone,email---from Kentucky_Stev
 MATCH: first name,last name,state,type,birthday,phone,email---from Louisiana_BobbyJindal.csv
 MATCH: first name,last name,state,type,birthday,phone,email---from New-Mexico_SusanaMartinez.csv
 MATCH: first name,last name,state,type,birthday,phone,email---from Texas_GregAbbott.csv
+
+ Deviation Report
+--------------------
+Colorado_JohnHickenlooper.csv
+Normalized headers = name,state,type,birthday,phone,email
+
+Connecticut_DanMalloy.csv
+Normalized headers = firstname,lastname,type,birthday,phone,email
+
+Delaware_JackMarkell.csv
+Normalized headers = lastname,firstname,state,type,birthday,phone,email
+
+Georgia_JohnDeal.csv
+Normalized headers = first,last,state,type,birthday,phone,email
+
+Illinois_BruceRauner.csv
+Normalized headers = firstname,lastname,state,leadtype,birthday,phone,email
+
+
