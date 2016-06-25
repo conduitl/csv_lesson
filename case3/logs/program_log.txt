@@ -1,0 +1,69 @@
+-----Files read-----
+Alabama_RobertBentley.csv
+Alaska_BillWalker.csv
+Arizona_DougDucey.csv
+Arkansas_WilliamHutchinson.csv
+California_JerryBrown.csv
+Colorado_JohnHickenlooper.csv
+Connecticut_DanMalloy.csv
+Delaware_JackMarkell.csv
+Florida_RickScott.csv
+Georgia_JohnDeal.csv
+Hawaii_DavidIge.csv
+Idaho_ButchOtter.csv
+Illinois_BruceRauner.csv
+Indiana_MikePence.csv
+Iowa_TerryBranstad.csv
+Kansas_SamBrownback.csv
+Kentucky_StevenBeshear.csv
+Louisiana_BobbyJindal.csv
+New-Mexico_SusanaMartinez.csv
+Texas_GregAbbott.csv
+
+
+*****Target file headers*****
+first name,last name,state,type,birthday,phone,email
+
+
+*****File headers found*****
+
+
+MATCH: first name,last name,state,type,birthday,phone,email---from Alabama_RobertBentley.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from Alaska_BillWalker.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from Arizona_DougDucey.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from Arkansas_WilliamHutchinson.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from California_JerryBrown.csv
+DEVIATION: name,state,type,birthday,phone,email---from Colorado_JohnHickenlooper.csv
+DEVIATION: first name,last name,type,birthday,phone,email---from Connecticut_DanMalloy.csv
+DEVIATION: last name,first name,state,type,birthday,phone,email---from Delaware_JackMarkell.csv
+MATCH: first name ,last name ,state ,type ,birthday ,phone ,email ---from Florida_RickScott.csv
+DEVIATION: first,last ,state,type,birthday,phone,email---from Georgia_JohnDeal.csv
+MATCH: First Name,Last Name,State,Type,Birthday,Phone ,E-mail ---from Hawaii_DavidIge.csv
+MATCH: FIRSTNAME,LASTNAME,STATE,TYPE,BIRTHDAY,PHONE,EMAIL---from Idaho_ButchOtter.csv
+DEVIATION: first_name,last_name,state,lead type,birthday,phone,email---from Illinois_BruceRauner.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from Indiana_MikePence.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from Iowa_TerryBranstad.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from Kansas_SamBrownback.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from Kentucky_StevenBeshear.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from Louisiana_BobbyJindal.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from New-Mexico_SusanaMartinez.csv
+MATCH: first name,last name,state,type,birthday,phone,email---from Texas_GregAbbott.csv
+
+ Deviation Report
+--------------------
+Colorado_JohnHickenlooper.csv
+Normalized headers = name,state,type,birthday,phone,email
+
+Connecticut_DanMalloy.csv
+Normalized headers = firstname,lastname,type,birthday,phone,email
+
+Delaware_JackMarkell.csv
+Normalized headers = lastname,firstname,state,type,birthday,phone,email
+
+Georgia_JohnDeal.csv
+Normalized headers = first,last,state,type,birthday,phone,email
+
+Illinois_BruceRauner.csv
+Normalized headers = firstname,lastname,state,leadtype,birthday,phone,email
+
+

@@ -1,0 +1,120 @@
+Headers being examined in: Alabama_RobertBentley.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Alaska_BillWalker.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Arizona_DougDucey.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Arkansas_WilliamHutchinson.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: California_JerryBrown.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Colorado_JohnHickenlooper.csv
+name,state,type,birthday,phone,email<--- file headers
+name,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: DEVIATION
+
+Headers being examined in: Connecticut_DanMalloy.csv
+first name,last name,type,birthday,phone,email<--- file headers
+firstname,lastname,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: DEVIATION
+
+Headers being examined in: Delaware_JackMarkell.csv
+last name,first name,state,type,birthday,phone,email<--- file headers
+lastname,firstname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: DEVIATION
+
+Headers being examined in: Florida_RickScott.csv
+first name ,last name ,state ,type ,birthday ,phone ,email <--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Georgia_JohnDeal.csv
+first,last ,state,type,birthday,phone,email<--- file headers
+first,last,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: DEVIATION
+
+Headers being examined in: Hawaii_DavidIge.csv
+First Name,Last Name,State,Type,Birthday,Phone ,E-mail <--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Idaho_ButchOtter.csv
+FIRSTNAME,LASTNAME,STATE,TYPE,BIRTHDAY,PHONE,EMAIL<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Illinois_BruceRauner.csv
+first_name,last_name,state,lead type,birthday,phone,email<--- file headers
+firstname,lastname,state,leadtype,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: DEVIATION
+
+Headers being examined in: Indiana_MikePence.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Iowa_TerryBranstad.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Kansas_SamBrownback.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Kentucky_StevenBeshear.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Louisiana_BobbyJindal.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: New-Mexico_SusanaMartinez.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
+Headers being examined in: Texas_GregAbbott.csv
+first name,last name,state,type,birthday,phone,email<--- file headers
+firstname,lastname,state,type,birthday,phone,email<--- file headers after normalization
+firstname,lastname,state,type,birthday,phone,email<--- target headers
+Verdict: MATCH
+
