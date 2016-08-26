@@ -1,7 +1,7 @@
 # Spreadsheet Automation with Node File System
 #### A guide for those interested in learning a little code to speed up their workflow
 
-* Take me to [Listing 1](#l1)
+* [Listing 1 - Reading a csv](#l1)
 
 We have put together a JavaScript programming lesson that shows you how to automate your spreadsheets.
 
