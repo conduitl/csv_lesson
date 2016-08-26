@@ -1,7 +1,10 @@
 # Spreadsheet Automation with Node File System
 #### A guide for those interested in learning a little code to speed up their workflow
+
+* Take me to [Listing 1](#l1)
+
 We have put together a JavaScript programming lesson that shows you how to automate your spreadsheets.
-Take me to [pookie](#l1)
+
 The lesson focuses on problem solving and solution design, rather than language syntax and code. The lessons demonstrate how to write an application that processes spreadsheets, helping you quickly organize information that could save you hundreds of hours of manual copying and pasting. 
 
 The first case we will solve is as follows. You have a sales team and each one of them covers a state. They each have a list of leads that they send you every week. 
