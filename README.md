@@ -117,6 +117,9 @@ fs.writeFileSync('output/consolidated.csv', consolidatedData);
 
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
+
+Learn more about [Assignment Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators)
+
 <a name="l7"></a>__Listing 7 - Consolidating the entire directory at once__  | [return to top](#)
 ```
 const fs = require('fs');
