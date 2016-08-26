@@ -1,0 +1,62 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'xlsx' ]
+2 info using npm@2.14.7
+3 info using node@v4.2.2
+4 verbose install initial load of C:\Users\h175225\Dropbox\node\Blog\lab\xlsx\package.json
+5 verbose readDependencies loading dependencies from C:\Users\h175225\Dropbox\node\Blog\lab\xlsx\package.json
+6 silly cache add args [ 'xlsx', null ]
+7 verbose cache add spec xlsx
+8 silly cache add parsed spec Result {
+8 silly cache add   raw: 'xlsx',
+8 silly cache add   scope: null,
+8 silly cache add   name: 'xlsx',
+8 silly cache add   rawSpec: '',
+8 silly cache add   spec: '*',
+8 silly cache add   type: 'range' }
+9 silly addNamed xlsx@*
+10 verbose addNamed "*" is a valid semver range for xlsx
+11 silly addNameRange { name: 'xlsx', range: '*', hasData: false }
+12 silly mapToRegistry name xlsx
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/xlsx
+16 verbose addNameRange registry:https://registry.npmjs.org/xlsx not in flight; fetching
+17 verbose request uri https://registry.npmjs.org/xlsx
+18 verbose request no auth needed
+19 info attempt registry request try #1 at 8:03:37 AM
+20 verbose request id 76ef4216789e32f5
+21 http request GET https://registry.npmjs.org/xlsx
+22 info retry will retry, error on last attempt: Error: connect ECONNREFUSED 151.101.12.162:443
+23 info attempt registry request try #2 at 8:03:50 AM
+24 http request GET https://registry.npmjs.org/xlsx
+25 info retry will retry, error on last attempt: Error: connect ECONNREFUSED 151.101.12.162:443
+26 info attempt registry request try #3 at 8:04:51 AM
+27 http request GET https://registry.npmjs.org/xlsx
+28 verbose stack Error: connect ECONNREFUSED 151.101.8.162:443
+28 verbose stack     at Object.exports._errnoException (util.js:874:11)
+28 verbose stack     at exports._exceptionWithHostPort (util.js:897:20)
+28 verbose stack     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1063:14)
+29 verbose cwd C:\Users\h175225\Dropbox\node\Blog\lab\xlsx
+30 error Windows_NT 6.1.7601
+31 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "xlsx"
+32 error node v4.2.2
+33 error npm  v2.14.7
+34 error code ECONNREFUSED
+35 error errno ECONNREFUSED
+36 error syscall connect
+37 error Error: connect ECONNREFUSED 151.101.8.162:443
+37 error     at Object.exports._errnoException (util.js:874:11)
+37 error     at exports._exceptionWithHostPort (util.js:897:20)
+37 error     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1063:14)
+37 error  { [Error: connect ECONNREFUSED 151.101.8.162:443]
+37 error   code: 'ECONNREFUSED',
+37 error   errno: 'ECONNREFUSED',
+37 error   syscall: 'connect',
+37 error   address: '151.101.8.162',
+37 error   port: 443 }
+38 error If you are behind a proxy, please make sure that the
+38 error 'proxy' config is set properly.  See: 'npm help config'
+39 verbose exit [ 1, true ]

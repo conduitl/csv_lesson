@@ -1,3 +1,15 @@
+Files in array: 10
+Alabama_RobertBentley.csv
+Alaska_BillWalker.csv
+Arizona_DougDucey.csv
+Arkansas_WilliamHutchinson.csv
+California_JerryBrown.csv
+Colorado_JohnHickenlooper.csv
+Connecticut_DanMalloy.csv
+Delaware_JackMarkell.csv
+New-Mexico_SusanaMartinez.csv
+Texas_GregAbbott.csv
+---File headers---
 !! - Alabama_ in [0]: first name,last name,state,type,birthday
 ok - Alaska_B in [1]: first name,last name,state,type,birthday,phone,email
 ok - Arizona_ in [2]: first name,last name,state,type,birthday,phone,email
@@ -8,6 +20,7 @@ ok - Californ in [4]: first name,last name,state,type,birthday,phone,email
 !! - Delaware in [7]: last name,first name,state,type,birthday,phone,email
 ok - New-Mexi in [8]: first name,last name,state,type,birthday,phone,email
 ok - Texas_Gr in [9]: first name,last name,state,type,birthday,phone,email
+
 
 *********************************************
 Input file Alabama_RobertBentley.csv remediation report
@@ -52,3 +65,4 @@ Input Headers: [A] last name | [B] first name | [C] state | [D] type | [E] birth
 ---------------------------------------------
 index [A] "last name" is NOT a match of target: first name
 index [B] "first name" is NOT a match of target: last name
+

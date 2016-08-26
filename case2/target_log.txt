@@ -1,0 +1,30 @@
+REPORT
+------------------------------------
+Configuration settings...
+.. Add a file even if it has a format inconsistent with target?
+.. Add a file even if it is missing data? 
+.. Tolerance for missing data
+.. Required columns
+.. Autofix input formatting?
+.. Log autofix activity?
+
+Input files read...
+
+Input files added to output...
+
+Input files needing remediation...
+
+Detailed report for input file remediation...
+
+Input file "Alabama...csv" remediation report
+---------------------------------------------
+Target headers: | [A] first name | [B] last name | [C] state | 
+Input [F] header "undefined" is NOT a match of target: phone
+Input [G] header "undefined" is NOT a match of target: email
+
+Was the file added to output? or...
+Was the file skipped?
+
+Was the file fixed?
+
+
