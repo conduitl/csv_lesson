@@ -32,4 +32,38 @@ I want to be able to accomplish the task a few seconds by typing in a few comman
 
 Input parameters... What am I going to tell my sales team to provide to me each week so that I can get the output I want (the consolidated report with the eight columns of information)?
 
-<a name="l1"></a>__Listing 1 - Reading a csv__   [^ to top](#)
+<a name="l1"></a>__Listing 1 - Reading a csv__  | [return to top](#)
+```
+const fs = require('fs');
+            
+var data = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8');
+console.log(data);
+```
+
+<a name="l2"></a>__Listing 2 - Copying a file__  | [return to top](#)
+```
+const fs = require('fs');
+
+var data = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8');
+fs.writeFileSync('output/copyOfTexasLeads.csv', data);
+console.log('File written to: ' + 'output/copyOfTexasLeads.csv');
+```
+
+<a name="l3"></a>__Listing 3 - Combining two files__  | [return to top](#)
+```
+const fs = require('fs');
+
+var tx = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8');
+var nm = fs.readFileSync('data/NewMexico_SusanaMartinez.csv', 'utf8');
+
+var consolidatedData = tx + nm;
+fs.writeFileSync('output/consolidated.csv', consolidatedData);
+console.log('File written to: ' + 'output/consolidated.csv');
+```
+<a name="l4"></a>__Listing 4 - Reading a directory__  | [return to top](#)
+```
+const fs = require('fs');
+
+var filenames = fs.readdirSync('data');
+console.log(filenames);
+```
