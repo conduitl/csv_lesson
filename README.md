@@ -75,3 +75,8 @@ const fs = require('fs');
 var filenames = fs.readdirSync('data');
 console.log(filenames);
 ```
+<a name="l5"></a>__Listing 5 - Understanding how directory names are stored__  | [return to top](#)
+<a name="l6"></a>__Listing 6 - The addition assignment operator__  | [return to top](#)
+<a name="l7"></a>__Listing 7 - Consolidating the entire directory at once__  | [return to top](#)
+<a name="l8"></a>__Listing 8 - Understanding how the loop works__  | [return to top](#)
+<a name="l9"></a>__Listing 9 - Manipulating the file data__  | [return to top](#)
