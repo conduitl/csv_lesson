@@ -11,6 +11,8 @@
 8. [Understanding how the loop works](#l8)
 9. [Manipulating the file data](#l9)
 
+Working as a management consultant for numerous companies over the past several years, my duties to a large extent involved collecting data, interpreting information, making plans, and preparing findings for presentations and reports. 
+
 We have put together a JavaScript programming lesson that shows you how to automate your spreadsheets.
 
 The lesson focuses on problem solving and solution design, rather than language syntax and code. The lessons demonstrate how to write an application that processes spreadsheets, helping you quickly organize information that could save you hundreds of hours of manual copying and pasting. 
