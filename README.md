@@ -2,6 +2,9 @@
 #### A guide for those interested in learning a little code to speed up their workflow
 
 * [Listing 1 - Reading a csv](#l1)
+* [Listing 2 - Copying a file](#l2)
+* [Listing 3 - Combining two files](#l3)
+* [Listing 4 - Reading a directory](#l4)
 
 We have put together a JavaScript programming lesson that shows you how to automate your spreadsheets.
 
