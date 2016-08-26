@@ -76,7 +76,112 @@ var filenames = fs.readdirSync('data');
 console.log(filenames);
 ```
 <a name="l5"></a>__Listing 5 - Understanding how directory names are stored__  | [return to top](#)
+```
+const fs = require('fs');
+
+var filenames = fs.readdirSync('data');
+console.log(filenames);
+
+console.log( 'Number of files in directory: ' + filenames.length );
+console.log( '  -Index [0] contains ' + filenames[0] );
+console.log( '  -Index [1] contains ' + filenames[1] );
+console.log( '  -Index [2] contains ' + filenames[2] ); 
+
+var ca = fs.readFileSync('data/' + filenames[0], 'utf8');
+var nm = fs.readFileSync('data/' + filenames[1], 'utf8');
+var tx = fs.readFileSync('data/' + filenames[2], 'utf8');
+
+var consolidatedData = ca + nm + tx;
+fs.writeFileSync('output/consolidated.csv', consolidatedData);
+console.log('File written to: ' + 'output/consolidated.csv');
+```
 <a name="l6"></a>__Listing 6 - The addition assignment operator__  | [return to top](#)
+```
+const fs = require('fs');
+
+var filenames = fs.readdirSync('data');
+
+var consolidatedData;
+
+console.log(filenames);
+console.log( 'Number of files in directory: ' + filenames.length );
+console.log( '  -Index [0] contains ' + filenames[0] );
+console.log( '  -Index [1] contains ' + filenames[1] );
+console.log( '  -Index [2] contains ' + filenames[2] ); 
+
+consolidatedData+= fs.readFileSync('data/' + filenames[0], 'utf8');
+consolidatedData+= fs.readFileSync('data/' + filenames[1], 'utf8');
+consolidatedData+= fs.readFileSync('data/' + filenames[2], 'utf8');
+
+fs.writeFileSync('output/consolidated.csv', consolidatedData);
+
+console.log('File written to: ' + 'output/consolidated.csv');
+```
 <a name="l7"></a>__Listing 7 - Consolidating the entire directory at once__  | [return to top](#)
+```
+const fs = require('fs');
+
+var filenames = fs.readdirSync('data');
+
+var consolidatedData = '';
+
+console.log(filenames);
+
+filenames.forEach( file => {
+  consolidatedData+= fs.readFileSync('data/' + file, 'utf8');
+});
+
+fs.writeFileSync('output/consolidated.csv', consolidatedData);
+
+console.log('File written to: ' + 'output/consolidated.csv');
+```
 <a name="l8"></a>__Listing 8 - Understanding how the loop works__  | [return to top](#)
+```
+const fs = require('fs');
+
+var filenames = fs.readdirSync('data');
+
+var consolidatedData = '';
+
+filenames.forEach( (file, index, array) => {
+  if (index === 0) {
+    console.log( 'Files in array: ' + array.length );
+    console.log( array );
+  }
+  console.log( '-Processing index [' + index + '] containing ' + file );
+
+  consolidatedData+= fs.readFileSync('data/' + file, 'utf8');
+});
+
+fs.writeFileSync('output/consolidated.csv', consolidatedData);
+
+console.log('File written to: ' + 'output/consolidated.csv');
+```
 <a name="l9"></a>__Listing 9 - Manipulating the file data__  | [return to top](#)
+```
+const fs = require('fs');
+
+var filenames = fs.readdirSync('data');
+
+var consolidatedData = '';
+
+filenames.forEach( (file, index, array) => {
+	var data = fs.readFileSync('data/' + file, 'utf8');
+	
+  if (index === 0) {
+    console.log( 'Files in array: ' + array.length );
+    console.log( array );
+  } else {
+		data = data.split('\r\n');
+		data.shift();
+		data = data.join('\r\n');
+	}
+  console.log( '-Processed index [' + index + '] containing ' + file );
+
+  consolidatedData+= data;
+});
+
+fs.writeFileSync('output/consolidated.csv', consolidatedData);
+
+console.log('File written to: ' + 'output/consolidated.csv');
+```
