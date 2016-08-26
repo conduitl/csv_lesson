@@ -1,15 +1,15 @@
 # Spreadsheet Automation with Node File System
 #### A guide for those interested in learning a little code to speed up their workflow
 
-[1 - Reading a csv](#l1)
-[2 - Copying a file](#l2)
-[3 - Combining two files](#l3)
-[4 - Reading a directory](#l4)
-[5 - Understanding how directory names are stored](#l5)
-[6 - The addition assignment operator](#l6)
-[7 - Consolidating the entire directory at once](#l7)
-[8 - Understanding how the loop works](#l8)
-[9 - Manipulating the file data](#l9)
+1. [Reading a csv](#l1)
+2. [Copying a file](#l2)
+3. [Combining two files](#l3)
+4. [Reading a directory](#l4)
+5. [Understanding how directory names are stored](#l5)
+6. [The addition assignment operator](#l6)
+7. [Consolidating the entire directory at once](#l7)
+8. [Understanding how the loop works](#l8)
+9. [Manipulating the file data](#l9)
 
 We have put together a JavaScript programming lesson that shows you how to automate your spreadsheets.
 
