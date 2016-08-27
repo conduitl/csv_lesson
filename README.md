@@ -27,7 +27,12 @@ A mid-level technical manager once bragged to me that he'd used Excel to its lim
 
 The first case we will solve is as follows. You have a sales team and each one of them covers a state. They each have a list of leads that they send you every week. 
 
-Case #1
+##Purpose
+This dream of "A couple of commands and all my routine work is done" is not something we can accomplish by ourselves. More sophisticated automation requires software development experts. However, you'll be surprised out how much you can accomplish and just how much of your routine work you can automate with a few tools and a little bit of guidance. 
+
+Also, my goal is to help you become a better customer and consumer of IT services. My intent is to help you become more familiar with software concepts, be better able to articulate your requirements to professional software teams, and be able to evaluate whether or not you are working with the right software team so that you don't get taken. Last but not certainly not least, I'd like to show you some examples of what is possible with a little automation, so that you and the people who are working for you might be able to focus on the more meaningful (and lucrative) work, while automating the rest. 
+
+##Case #1
 
 The challenge is that you want a consolidated list from your sales team. Putting this together every week takes several hours because each member of your team sends their list in a slightly different format and you are copying and pasting from 50 different spreadsheets.
 
