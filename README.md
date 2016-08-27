@@ -11,7 +11,8 @@
 8. [Understanding how the loop works](#l8)
 9. [Manipulating the file data](#l9)
 
-Working as a management consultant for numerous companies over the past several years, my duties to a large extent involved collecting data, interpreting information, making plans, and preparing findings for presentations and reports. 
+##Background
+Working as a management consultant, I spend a lot of my time collecting data, interpreting information, making plans, and preparing findings for presentations and reports. I enjoy digging into my client's challenging problems, talking through them with stakeholders, and presenting solutions. However, for every hour of face time, there are several hours of preparation. I'd roughly categorize this as planning, analysis, and design work.
 
 We have put together a JavaScript programming lesson that shows you how to automate your spreadsheets.
 
