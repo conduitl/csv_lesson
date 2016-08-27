@@ -12,7 +12,7 @@
 9. [Manipulating the file data](#l9)
 
 ##Background
-Working as a management consultant, I spend a lot of my time collecting data, interpreting information, making plans, and preparing findings for presentations and reports. I enjoy digging into my client's challenging problems, talking through them with stakeholders, and presenting solutions. However, for every hour of face time, there are several hours of preparation. I'd roughly categorize this as planning, analysis, and design work.
+Working as a management consultant, I spend a lot of my time collecting data, interpreting information, making plans, and preparing findings for presentations and reports. I enjoy digging into my client's challenging problems, talking through them with stakeholders, and presenting solutions. However, for every hour of face time, there are several hours of preparation, which can be loosely defined as planning, analysis, and design work. This is as it should be, of course, but let's also separate these efforts into two buckets A) active problem solving and B) routine tasks.
 
 We have put together a JavaScript programming lesson that shows you how to automate your spreadsheets.
 
