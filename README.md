@@ -58,6 +58,13 @@ To prepare this exercise, I needed a mock data set. It just so happens that our 
 ###Begin with the end in mind
 Let's define what we want before we dive in. I have a problem solving workflow, but because I want us to have a quick win I won't belabor it yet. I've seen many projects crash and burn because no clear objectives or end game was defined. (Meanwhile, the accountable stakeholders all reported success because there were no objectives to measure against which could entirely prove failure either. You can deliver a project underbudget that produces a product that has absolutely no value, but that's a discussion for another day.)
 
+We want a single csv file that contains all of our sales leads from all 50 states. The columns will be:
+
+first name | last name | state | type | birthday | phone | email
+--- | --- | --- | --- | --- | --- | --- |
+John | Cornyn | TX | Qualified | 2/2/1952 | 202-224-2934 | http://www.cornyn.senate.gov/public/index.cfm?p=ContactForm
+
+
 ####Problem solving workflow
 1. Define what you want
 2. Draft a conceptual solution
