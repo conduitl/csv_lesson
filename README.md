@@ -6,8 +6,11 @@ We're not all going to be coders and nor should we be. But we all consume IT ser
 
 Along the way, you may find that you can save several (or perhaps even hundreds) of hours using the tools and code contained in this guide. 
 
-The lesson focuses on problem solving and solution design, rather than language syntax and code. The lessons demonstrate how to write an application that processes spreadsheets, helping you quickly organize information that could save you hundreds of hours of manual copying and pasting. 
+If you are interesting in becoming a coder or already well on your way, you may use this guide to learn a little bit more about Node.js. I will point you to other coding resources throughout the guide that supplement the topic at hand. I also intend on writing more articles that get into the nitty gritty of some ways to use Node.js. Feedback and contributions to this repository are also most welcome. 
 
+If you want to dive straight into the code examples, use the table of contents below.
+
+##Contents - Code Listings
 1. [Reading a csv](#l1)
 2. [Copying a file](#l2)
 3. [Combining two files](#l3)
