@@ -1,5 +1,8 @@
 # Spreadsheet Automation with Node File System
 #### A guide for those interested in learning a little code to speed up their workflow
+We have put together a JavaScript programming lesson that shows you how to automate your spreadsheets.
+
+The lesson focuses on problem solving and solution design, rather than language syntax and code. The lessons demonstrate how to write an application that processes spreadsheets, helping you quickly organize information that could save you hundreds of hours of manual copying and pasting. 
 
 1. [Reading a csv](#l1)
 2. [Copying a file](#l2)
@@ -20,15 +23,13 @@ However, underpinning my planning, analysis, and design activities are countless
 
 Perhaps, I could just type a few lines into a command terminal and the information I need reorganizes itself. Now, I arrive at the whole point of this GitHub repository. Let's explore how we can make this happen. We'll have to keep reading, designing, and talking to people, but perhaps excessive copying-pasting will be a thing of the past, and we won't have to replace the **Ctrl**, **C**, and **V** keys quite so frequently on our keyboard.
 
-We have put together a JavaScript programming lesson that shows you how to automate your spreadsheets.
-
-The lesson focuses on problem solving and solution design, rather than language syntax and code. The lessons demonstrate how to write an application that processes spreadsheets, helping you quickly organize information that could save you hundreds of hours of manual copying and pasting. 
+A mid-level technical manager once bragged to me that he'd used Excel to its limit, meaning he'd made a table with 65,000 something lines. Let's see if we can hold how we measure our work to a higher standard. 
 
 The first case we will solve is as follows. You have a sales team and each one of them covers a state. They each have a list of leads that they send you every week. 
 
-The challenge is that you want a consolidated list from your sales team. Putting this together every week takes several hours because each member of your team sends their list in a slightly different format and you are copying and pasting from 50 different spreadsheets.
+Case #1
 
-A mid-level technical manager once bragged to me that he'd used Excel to its limit, meaning he'd made a table with 65,000 something lines. Let's see if we can hold how we measure our work to a higher standard. 
+The challenge is that you want a consolidated list from your sales team. Putting this together every week takes several hours because each member of your team sends their list in a slightly different format and you are copying and pasting from 50 different spreadsheets.
 
 ####Problem solving workflow
 1. Define what you want
