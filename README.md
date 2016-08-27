@@ -41,6 +41,12 @@ Also, my goal is to help you become a better customer and consumer of IT service
 
 Last but not certainly not least, I'd like to show you some examples of what is possible with a little automation, so that you and the people who are working for you might be able to focus on the more meaningful (and lucrative) work, while automating the rest. 
 
+##Getting Started
+Before you begin, you will need to install Node.js and a code editor.
+1. To install Node.js go to https://nodejs.org/ 
+   Install either LTS or the current version. I use the current version.
+2. If you don't have a code editor, I recommend installing [Visual Studio Code](https://code.visualstudio.com/).
+
 ##Case #1
 
 The challenge is that you want a consolidated list from your sales team. Putting this together every week takes several hours because each member of your team sends their list in a slightly different format and you are copying and pasting from 50 different spreadsheets.
