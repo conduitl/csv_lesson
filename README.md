@@ -1,7 +1,5 @@
 # Spreadsheet Automation with Node File System
 #### A guide for those interested in learning a little code to speed up their workflow
-We have put together a JavaScript programming lesson that shows you how to automate your spreadsheets.
-
 Chances are that you perform or delegate a lot of tasks that could be automated. I know I do. I'm tired of doing a bunch of boring, tedious work just so I can put together all the information I need to solve whatever big, challenging, interesting problem I've been hired to solve. I spend a lot of time manipulating spreadsheets and so do my colleagues. Let's look at how we can automate some common tasks so we can free up our time for creative problem solving, learning, and other intellectual work that's both rewarding and important to moving ahead in our career. 
 
 We're not all going to be coders and nor should we be. But we all consume IT services and many of us over the course of our careers either have or will requisition an IT project. The intent of this guide is to familiarize you with some software concepts so you can think about how software could automate your workflow and help you and the people who work for you focus on the challenging tasks and decision making that they've been educated, trained and groomed for. 
