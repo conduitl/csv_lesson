@@ -28,6 +28,8 @@ The first case we will solve is as follows. You have a sales team and each one o
 
 The challenge is that you want a consolidated list from your sales team. Putting this together every week takes several hours because each member of your team sends their list in a slightly different format and you are copying and pasting from 50 different spreadsheets.
 
+A mid-level technical manager once bragged to me that he'd used Excel to its limit, meaning he'd made a table with 65,000 something lines. Let's see if we can hold how we measure our work to a higher standard. 
+
 ####Problem solving workflow
 1. Define what you want
 2. Draft a conceptual solution
