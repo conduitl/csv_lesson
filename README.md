@@ -43,8 +43,9 @@ Last but not certainly not least, I'd like to show you some examples of what is 
 
 ##Getting Started
 Before you begin, you will need to install Node.js and a code editor.
-1. To install Node.js go to https://nodejs.org/ 
-   Install either LTS or the current version. I use the current version.
+
+1. To install Node.js go to https://nodejs.org/, and download and install either the LTS or the current version. I use the current version.
+
 2. If you don't have a code editor, I recommend installing [Visual Studio Code](https://code.visualstudio.com/).
 
 ##Case #1
