@@ -74,21 +74,6 @@ I know, I know. We'll handle input variance remediation in Part 2. For now, Joe 
 3. Define constraints
 4. Scope the work
 
-####Define what you want
-First there's the output itself.. Then let's set parameters around how much effort is acceptable to get that output.
-
-It is important to begin with the end in mind. Even the best of us tend to get distracted. Start your project with a clear picture of the end product. You will find this invaluable, especially on complex, large projects. In this scenario, it's really easy to define the end product because we already have it. It's a spreadsheet that contains all the sales leads for our organization maintained by our 50 individual sales team members. It must have the following columns: first name, last name, state, type, birthday, phone, email, and contact owner. 
-
-We also need to define what we want the process to look like. 
-
-We want one spreadsheet that includes all leads submitted by each of the 50 members of our sales team. 
-The table includes eight columns - First Name, Last Name, State, Birthday, Phone Number, Email, Lead Status, and Sales Contact
-
-Process parameters... What amount of effort am I willing to spend in order to get the output I want? 
-I want to be able to accomplish the task a few seconds by typing in a few commands into the command line.
-
-Input parameters... What am I going to tell my sales team to provide to me each week so that I can get the output I want (the consolidated report with the eight columns of information)?
-
 <a name="l1"></a>__Listing 1 - Reading a csv__  | [return to top](#)
 ```
 const fs = require('fs');
