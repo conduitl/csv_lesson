@@ -53,6 +53,8 @@ The first one is simple and should be fairly relatable. We've all probably manag
 
 To prepare this exercise, I needed a mock data set. It just so happens that our "sales folks" will be state governors and our "sales leads" will be state legislators. You can thank me later when you impress everyone at the next cocktail party by being able to name all your state congressmen and women. 
 
+Download the mock data for case 1 by typing in [TODO] into a command terminal. If you're new to the command line see the following steps [TODO]. 
+
 ###Begin with the end in mind
 Let's define what we want before we dive in. I have a problem solving workflow, but because I want us to have a quick win I won't belabor it yet. I've seen many projects crash and burn because no clear objectives or end game was defined. (Meanwhile, the accountable stakeholders all reported success because there were no objectives to measure against that could prove failure.)
 
