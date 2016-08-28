@@ -56,7 +56,7 @@ The first one is simple and should be fairly relatable. We've all probably manag
 To prepare this exercise, I needed a mock data set. It just so happens that our "sales folks" will be state governors and our "sales leads" will be state legislators. You can thank me later when you impress everyone at the next cocktail party by being able to name all your state congressmen and women. 
 
 ###Begin with the end in mind
-Let's define what we want before we dive in. I have a problem solving workflow, but because I want us to have a quick win I won't belabor it yet. I've seen many projects crash and burn because no clear objectives or end game was defined. (Meanwhile, the accountable stakeholders all reported success because there were no objectives to measure against which could entirely prove failure either. You can deliver a project underbudget that produces a product that has absolutely no value, but that's a discussion for another day.)
+Let's define what we want before we dive in. I have a problem solving workflow, but because I want us to have a quick win I won't belabor it yet. I've seen many projects crash and burn because no clear objectives or end game was defined. (Meanwhile, the accountable stakeholders all reported success because there were no objectives to measure against that could prove failure.)
 
 We want a single csv file that contains all of our sales leads from all 50 states. The columns will be:
 
@@ -66,13 +66,7 @@ John | Cornyn | TX | Qualified | 2/2/1952 | 202-224-2934 | http://www.cornyn.sen
 
 For now, let's assume our inputs from sales team will all come to us in exactly this format and the files will be named according to our determined naming convention. We'll write a script that merges all these files into one when Joe types a command into a terminal. 
 
-I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like were telling him that the bad news is we can't give him his paycheck this week, and the good news is that we found some spare change under the sofa which we can give him. However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.  
-
-####Problem solving workflow
-1. Define what you want
-2. Draft a conceptual solution
-3. Define constraints
-4. Scope the work
+I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like we're telling him that the bad news is we can't give him his paycheck this week while the good news is that we found some spare change in the sofa to tide him over. However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.  
 
 <a name="l1"></a>__Listing 1 - Reading a csv__  | [return to top](#)
 ```
@@ -222,3 +216,8 @@ fs.writeFileSync('output/consolidated.csv', consolidatedData);
 
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
+####Problem solving workflow
+1. Define what you want
+2. Draft a conceptual solution
+3. Define constraints
+4. Scope the work
