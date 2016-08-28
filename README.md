@@ -32,8 +32,6 @@ Perhaps, I could just type a few lines into a command terminal and the informati
 
 A mid-level technical manager once bragged to me that he'd used Excel to its limit, meaning he'd made a table with 65,000 something lines. Let's see if we can hold how we measure our work to a higher standard. 
 
-The first case we will solve is as follows. You have a sales team and each one of them covers a state. They each have a list of leads that they send you every week. 
-
 ##Purpose
 This dream of "A couple of commands and all my routine work is done" is not something we can accomplish by ourselves. More sophisticated automation requires software development experts. However, you'll be surprised out how much you can accomplish and just how much of your routine work you can automate with a few tools and a little bit of guidance. 
 
