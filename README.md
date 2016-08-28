@@ -148,6 +148,12 @@ var consolidatedData = tx + nm;
 fs.writeFileSync('output/consolidated.csv', consolidatedData);
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
+As before, type `node` followed by the name JavaScript file you wish to execute in the command terminal to run the program. In our example, it's `node c1s3.js`.
+
+
+
+
+
 <a name="l4"></a>__Listing 4 - Reading a directory__  | [return to top](#)
 ```
 const fs = require('fs');
