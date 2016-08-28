@@ -98,6 +98,8 @@ In Step 2, we call on the readFileSync function that is part of the File System 
 
 In Step 3, we write `console.log(data)` to send the contents of our **data** variable to the terminal window.  
 
+![Listing 1 Results](/case1/doc-img/c1s1.png)
+
 <a name="l2"></a>__Listing 2 - Copying a file__  | [return to top](#)
 ```
 const fs = require('fs');
