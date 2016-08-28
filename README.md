@@ -76,7 +76,7 @@ Node.js allows you to run JavaScript on your machine or on a server. Developers 
 Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform file read and write operations on our machine. 
 
 We'll start small by figuring out how to read one file using Node.js. We're taking the following steps: 
-1. Import Node's File System module.
+1. Import Node's File System module.<br/>
 2. Read our file and store it to a variable.
 3. Use this variable to log the file's contents to the terminal window.
 
