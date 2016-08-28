@@ -64,14 +64,14 @@ John | Cornyn | TX | Qualified | 2/2/1952 | 202-224-2934 | http://www.cornyn.sen
 
 For now, let's assume our inputs from sales team will all come to us in exactly this format and the files will be named according to our determined naming convention. We'll write a script that merges all these files into one when Joe types a command into a terminal. 
 
-I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like we're telling him that the bad news is we can't give him his paycheck this week while the good news is that we found some spare change in the sofa to tide him over. However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.
+I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like we're telling him that the bad news is we can't give him his paycheck this week; meanwhile the good news is that we found some spare change in the sofa to tide him over. However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.
 
 ###Getting our hands dirty
 Let's introduce you to Node.js, which is what we'll be using to do our work for us. 
 
 Node.js allows you to run JavaScript on your machine or on a server. Developers call this a **runtime** environment. Prior to Node.js, the typical runtime environment for JavaScript was in the web browser. Node.js powers many commercial and enterprise applications. LinkedIn, for example, uses Node.js. JavaScript is the programming language of the web. Any web application or complex dynamic web site in existence relies on JavaScript. This makes it a compelling choice when choosing a language to learn. 
 
-Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform file read and write operations. 
+Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform file read and write operations on our machine. 
 
 We'll start small by figuring out how to read one file using Node.js. We're taking the following steps: 
 1. Import Node's File System module.
@@ -80,11 +80,16 @@ We'll start small by figuring out how to read one file using Node.js. We're taki
 
 <a name="l1"></a>__Listing 1 - Reading a csv__  | [return to top](#)
 ```
-const fs = require('fs');
+const fs = require('fs'); //#1
             
-var data = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8');
-console.log(data);
+var data = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8'); //#2
+console.log(data); //#3
 ```
+If you don't have a lot of experience looking at code, my advice to you, quoting the *Hitchhiker's Guide to the Galaxy*, is __Don't Panic!__. Don't worry about understanding how everything works right away. Simply try to understand the broad strokes regarding what a particular line code achieves. Think of it for now like the appliances you use in your household. We don't worry too much about why the toaster was designed in such and such a way; we know how to plug it in, and we're familiar with the results it produces. That's good enough for us right now. Depending on your objectives, it may make sense to dive deeper, but one thing at a time. 
+
+One of the fundamental design principles in Node is the ability to import and export modules. The Node installation comes with several prepackaged modules called *core* modules. In Step 1, we're importing File System abbreviated as "fs" by "requiring" it. Modules provide us with functions that help us do the things we want to do. 
+
+In Step 2, we call on the readFileSync function that is part of the File System module. This allows us to read files on our hard drive. In the parenthesis, we tell the function the location and name of the file we want to read and the format to encode it in ('utf8' don't worry about what this means for neow). In return, the function gives us the contents of the file, putting it into our variable that we've named as **data**. 
 
 <a name="l2"></a>__Listing 2 - Copying a file__  | [return to top](#)
 ```
