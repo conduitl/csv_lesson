@@ -152,7 +152,7 @@ As before, type `node` followed by the name JavaScript file you wish to execute 
 
 We open the consolidate.csv file and this is what we get: 
 
-![consolidate.csv](doc-img/c1s3.png)
+![consolidate.csv](/case1/doc-img/c1s3.png)
 
 <a name="l4"></a>__Listing 4 - Reading a directory__  | [return to top](#)
 ```
