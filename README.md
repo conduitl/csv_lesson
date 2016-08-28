@@ -73,7 +73,7 @@ Let's introduce you to Node.js, which is what we'll be using to do our work for 
 
 Node.js allows you to run JavaScript on your machine or on a server. Developers call this a **runtime** environment. Prior to Node.js, the typical runtime environment for JavaScript was in the web browser. Node.js powers many commercial and enterprise applications. LinkedIn, for example, uses Node.js. JavaScript is the programming language of the web. Any web application or complex dynamic web site in existence relies on JavaScript. This makes it a compelling choice when choosing a language to learn. 
 
-Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform operations on our file system or on a server. 
+Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform file read and write operations. 
 
 We'll start small by figuring out how to read one file using Node.js. We're taking the following steps: 
 1. Import Node's File System module.
