@@ -131,6 +131,11 @@ Type `node c1s2.js` in the command terminal to run the program. You'll see:
 In your file explorer, navigate to the path that we specified for file creation. Look! There's a new file there. 
 
 ![Listing 2 - Newly Created File](/case1/doc-img/c1s2-b.png)
+Now lets read two files and write the contents of both of the files into a new one. We'll rename the variable where we are storing the contents of the first file to 'tx', and we'll add a line to read a second file, storing it's contents in a variable labeled 'nm'. 
+
+In the next line, we'll add the contents of the two files together. This is called concatenation. Note that if we were adding two numbers together we would get a sum e.g. 1 + 1 = 2, but when adding strings of characters to together the results are a concatenation of the two strings e.g. "Hello" + "World" = "HelloWorld". 
+
+We store the concatenated file contents into `consolidatedData` and write the file to our hard drive the same way as before. 
 
 <a name="l3"></a>__Listing 3 - Combining two files__  | [return to top](#)
 ```
@@ -143,6 +148,12 @@ var consolidatedData = tx + nm;
 fs.writeFileSync('output/consolidated.csv', consolidatedData);
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
+As before, type `node` followed by the name JavaScript file you wish to execute in the command terminal to run the program. In our example, it's `node c1s3.js`.
+
+We open the consolidate.csv file and this is what we get: 
+
+![consolidate.csv](doc-img/c1s3.png)
+
 <a name="l4"></a>__Listing 4 - Reading a directory__  | [return to top](#)
 ```
 const fs = require('fs');
