@@ -66,7 +66,19 @@ John | Cornyn | TX | Qualified | 2/2/1952 | 202-224-2934 | http://www.cornyn.sen
 
 For now, let's assume our inputs from sales team will all come to us in exactly this format and the files will be named according to our determined naming convention. We'll write a script that merges all these files into one when Joe types a command into a terminal. 
 
-I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like we're telling him that the bad news is we can't give him his paycheck this week while the good news is that we found some spare change in the sofa to tide him over. However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.  
+I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like we're telling him that the bad news is we can't give him his paycheck this week while the good news is that we found some spare change in the sofa to tide him over. However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.
+
+###Getting our hands dirty
+Let's introduce you to Node.js, which is what we'll be using to do our work for us. 
+
+Node.js allows you to run JavaScript on your machine or on a server. Developers call this a **runtime** environment. Prior to Node.js, the typical runtime environment for JavaScript was in the web browser. Node.js powers many commercial and enterprise applications. LinkedIn, for example, uses Node.js. JavaScript is the programming language of the web. Any web application or complex dynamic web site in existence relies on JavaScript. This makes it a compelling choice when choosing a language to learn. 
+
+Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform operations on our file system or on a server. 
+
+We'll start small by figuring out how to read one file using Node.js. We're taking the following steps: 
+1. Import Node's File System module.
+2. Read our file and store it to a variable.
+3. Use this variable to log the file's contents to the terminal window.
 
 <a name="l1"></a>__Listing 1 - Reading a csv__  | [return to top](#)
 ```
