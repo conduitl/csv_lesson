@@ -89,7 +89,9 @@ If you don't have a lot of experience looking at code, my advice to you, quoting
 
 One of the fundamental design principles in Node is the ability to import and export modules. The Node installation comes with several prepackaged modules called *core* modules. In Step 1, we're importing File System abbreviated as "fs" by "requiring" it. Modules provide us with functions that help us do the things we want to do. 
 
-In Step 2, we call on the readFileSync function that is part of the File System module. This allows us to read files on our hard drive. In the parenthesis, we tell the function the location and name of the file we want to read and the format to encode it in ('utf8' don't worry about what this means for neow). In return, the function gives us the contents of the file, putting it into our variable that we've named as **data**. 
+In Step 2, we call on the readFileSync function that is part of the File System module. This allows us to read files on our hard drive. In the parenthesis, we tell the function the location and name of the file we want to read and the format to encode it in, *'utf8'*. (Don't worry about what this means for now.) In return, the function gives us the contents of the file, putting it into our variable that we've named as **data**. 
+
+In Step 3, we write `console.log(data)` to send the contents of our **data** variable to the terminal window.  
 
 <a name="l2"></a>__Listing 2 - Copying a file__  | [return to top](#)
 ```
