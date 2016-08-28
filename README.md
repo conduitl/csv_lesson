@@ -66,7 +66,7 @@ John | Cornyn | TX | Qualified | 2/2/1952 | 202-224-2934 | http://www.cornyn.sen
 
 For now, let's assume our inputs from sales team will all come to us in exactly this format and the files will be named according to our determined naming convention. We'll write a script that merges all these files into one when Joe types a command into a terminal. 
 
-I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like were telling him that the bad news is we can't give him his paycheck this week, and the good news is that we found some spare change under the sofa which we can give him. However, what's important now it's proving to ourselves that we can automate something, and we can learn how to do it rather quickly.  
+I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like were telling him that the bad news is we can't give him his paycheck this week, and the good news is that we found some spare change under the sofa which we can give him. However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.  
 
 ####Problem solving workflow
 1. Define what you want
