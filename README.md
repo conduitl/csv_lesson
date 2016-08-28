@@ -104,14 +104,33 @@ You will see the following results:
 
 ![Listing 1 Results](/case1/doc-img/c1s1.png)
 
+We're moving toward our goal by taking little steps. The next one is to explore how we can use Node to create new files. 
+
+To do this, we write one new line of code: 
+`fs.writeFileSync('output/copyofTexasLeads.csv', data);`
+
+We also modify our `console.log`. We'll be using our `console.log`s to tell us what our programs are doing as they execute. 
+
+Our program now looks like this:
+
 <a name="l2"></a>__Listing 2 - Copying a file__  | [return to top](#)
 ```
 const fs = require('fs');
 
 var data = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8');
-fs.writeFileSync('output/copyOfTexasLeads.csv', data);
-console.log('File written to: ' + 'output/copyOfTexasLeads.csv');
+fs.writeFileSync('output/copyOfTexasLeads.csv', data); //new
+console.log('File written to: ' + 'output/copyOfTexasLeads.csv'); //updated
 ```
+
+`writeFileSync` is another function provided to us by the File System module. In the paranthesis, we tell it 1) location and the name of the file we want created 2) the contents (data) we want this file to contain.  
+
+Type `node c1s2.js` in the command terminal to run the program. You'll see: 
+
+![Listing 2 - Command Terminal](/case1/doc-img/c1s2-a.png)
+
+In your file explorer, navigate to the path that we specified for file creation. Look! There's a new file there. 
+
+![Listing 2 - Newly Created File](/case1/doc-img/c1s2-b.png)
 
 <a name="l3"></a>__Listing 3 - Combining two files__  | [return to top](#)
 ```
