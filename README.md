@@ -96,7 +96,11 @@ One of the fundamental design principles in Node is the ability to import and ex
 
 In Step 2, we call on the readFileSync function that is part of the File System module. This allows us to read files on our hard drive. In the parenthesis, we tell the function the location and name of the file we want to read and the format to encode it in, *'utf8'*. (Don't worry about what this means for now.) In return, the function gives us the contents of the file, putting it into our variable that we've named as **data**. 
 
-In Step 3, we write `console.log(data)` to send the contents of our **data** variable to the terminal window.  
+In Step 3, we write `console.log(data)` to send the contents of our **data** variable to the terminal window.
+
+Now it's time to run our little program. Open a command terminal and navigate to the directory with the **c1s1.js** file. Type `node c1s1.js`. 
+
+You will see the following results:
 
 ![Listing 1 Results](/case1/doc-img/c1s1.png)
 
