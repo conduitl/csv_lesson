@@ -46,7 +46,7 @@ Before you begin, you will need to install Node.js and a code editor.
 
 2. If you don't have a code editor, I recommend installing [Visual Studio Code](https://code.visualstudio.com/).
 
-##Case #1
+#Case #1
 Throughout the guide, we'll take on case examples the mirror real world problems. In instances, I'll actually build the case from a real project example. 
 
 The first one is simple and should be fairly relatable. We've all probably managed multiple lists of people at some point whether for tracking contacts, action item responsibilites, or simply understanding who's who in an organization. For now, let's pretend that we head up a sales organization in the US. We have a sales person who reports to us in every state. Each sales person has a list of leads in Excel and emails it to us prior to our staff meeting every week. Our assistant Joe puts these into a consolidated spreadsheet before the meeting. It's tedious merging 50 files, and the sales folks can't be bothered to give us consistent inputs despite our efforts to standardize. We're worried Joe is going to quit because he spends 40 hours a week doing tasks like this, and we'd like to be able to offer him more interesting work. 
@@ -55,7 +55,7 @@ To prepare this exercise, I needed a mock data set. It just so happens that our 
 
 Download the mock data for case 1 by typing in [TODO] into a command terminal. If you're new to the command line see the following steps [TODO]. 
 
-###Begin with the end in mind
+##Begin with the end in mind
 Let's define what we want before we dive in. I have a problem solving workflow, but because I want us to have a quick win I won't belabor it yet. I've seen many projects crash and burn because no clear objectives or end game was defined. (Meanwhile, the accountable stakeholders all reported success because there were no objectives to measure against that could prove failure.)
 
 We want a single csv file that contains all of our sales leads from all 50 states. The columns will be:
@@ -68,14 +68,14 @@ For now, let's assume our inputs from sales team will all come to us in exactly 
 
 I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like we're telling him that the bad news is we can't give him his paycheck this week; meanwhile the good news is that we found some spare change in the sofa to tide him over. However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.
 
-###Getting our hands dirty
+##Getting our hands dirty
 Let's introduce you to Node.js, which is what we'll be using to do our work for us. 
 
 Node.js allows you to run JavaScript on your machine or on a server. Developers call this a **runtime** environment. Prior to Node.js, the typical runtime environment for JavaScript was in the web browser. Node.js powers many commercial and enterprise applications. LinkedIn, for example, uses Node.js. JavaScript is the programming language of the web. Any web application or complex dynamic web site in existence relies on JavaScript. This makes it a compelling choice when choosing a language to learn. 
 
 Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform file read and write operations on our machine. 
 
-####Reading files
+###Reading files
 
 We'll start small by figuring out how to read one file using Node.js. We're taking the following steps: 
 
@@ -106,7 +106,7 @@ You will see the following results:
 
 ![Listing 1 Results](/case1/doc-img/c1s1.png)
 
-####Writing files
+###Writing files
 
 We're moving toward our goal by taking little steps. The next one is to explore how we can use Node to create new files. 
 
@@ -164,7 +164,7 @@ You can quickly locate where the contents of the second file begin by finding it
 
 > I suspect that many organizations get application code that's written in a similar, inflexible way. Hopefully our example is an exaggerated version of this, but maybe not. Consider that a project management approach that heavily favors **meeting requirements** as the overriding success criteria for viable product might be blind to this. Ever wonder why you have to submit a ticket to your IT department if you want such and such a system to do something just slightly different and it's a long tortuous process to have your "enhancement" made. 
 
-####Reading directories
+###Reading directories
 
 <a name="l4"></a>__Listing 4 - Reading a directory__  | [return to top](#)
 ```
