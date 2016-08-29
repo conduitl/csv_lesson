@@ -75,6 +75,8 @@ Node.js allows you to run JavaScript on your machine or on a server. Developers 
 
 Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform file read and write operations on our machine. 
 
+####Reading files
+
 We'll start small by figuring out how to read one file using Node.js. We're taking the following steps: 
 
 1. Import Node's File System module.
@@ -103,6 +105,8 @@ Now it's time to run our little program. Open a command terminal and navigate to
 You will see the following results:
 
 ![Listing 1 Results](/case1/doc-img/c1s1.png)
+
+####Writing files
 
 We're moving toward our goal by taking little steps. The next one is to explore how we can use Node to create new files. 
 
@@ -159,6 +163,8 @@ You can quickly locate where the contents of the second file begin by finding it
 > Notice that we could accomplish the following requirement "take 50 files in a directory, read the contents, and write a new file that combines those contents into a new file" using only the methods we've applied so far. For each of the files, we could add another line `var ca = fs.readFileSync('data/California_JerryBrown.csv` and then add ` + ca` to the `consolidatedData` variable. We **will not** do this. If we did this, our process wouldn't work if one of our input files was named slightly differently than what is hardcoded in our program. Our process wouldn't handle any additional input files. Moreover, it's simply not efficient to write a line of code for every single file. 
 
 > I suspect that many organizations get application code that's written in a similar, inflexible way. Hopefully our example is an exaggerated version of this, but maybe not. Consider that a project management approach that heavily favors **meeting requirements** as the overriding success criteria for viable product might be blind to this. Ever wonder why you have to submit a ticket to your IT department if you want such and such a system to do something just slightly different and it's a long tortuous process to have your "enhancement" made. 
+
+####Reading directories
 
 <a name="l4"></a>__Listing 4 - Reading a directory__  | [return to top](#)
 ```
