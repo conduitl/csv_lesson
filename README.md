@@ -46,8 +46,8 @@ Before you begin, you will need to install Node.js and a code editor.
 
 2. If you don't have a code editor, I recommend installing [Visual Studio Code](https://code.visualstudio.com/).
 
-#Case #1
-Throughout the guide, we'll take on case examples the mirror real world problems. In instances, I'll actually build the case from a real project example. 
+#Case #1 - The 50 States Sales Organization
+Throughout the guide, we'll take on case examples that mirror real world problems. In instances, I'll actually build the case from a real project example. 
 
 The first one is simple and should be fairly relatable. We've all probably managed multiple lists of people at some point whether for tracking contacts, action item responsibilites, or simply understanding who's who in an organization. For now, let's pretend that we head up a sales organization in the US. We have a sales person who reports to us in every state. Each sales person has a list of leads in Excel and emails it to us prior to our staff meeting every week. Our assistant Joe puts these into a consolidated spreadsheet before the meeting. It's tedious merging 50 files, and the sales folks can't be bothered to give us consistent inputs despite our efforts to standardize. We're worried Joe is going to quit because he spends 40 hours a week doing tasks like this, and we'd like to be able to offer him more interesting work. 
 
