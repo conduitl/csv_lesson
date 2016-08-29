@@ -166,12 +166,22 @@ You can quickly locate where the contents of the second file begin by finding it
 
 ###Reading directories
 
+We don't want to have to hardcode file names in our program so let's find out how to read contents of a folder. We will use the File System function `readdirSync`. We write `var filenames = fs.readdirSync('data');`. We just have to tell this function the location of our folder in the parenthesis. We declare the variable `filenames` to store the value that `readdirSync` returns to us. 
+
+Notice we've added two forward slashes `//` in front of the rest of the code. This turns it into comments that Node will not read. We've done this because we want to isolate the new function in our program and better understand how it works.
+
 <a name="l4"></a>__Listing 4 - Reading a directory__  | [return to top](#)
 ```
 const fs = require('fs');
 
 var filenames = fs.readdirSync('data');
 console.log(filenames);
+//var tx = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8');
+//var nm = fs.readFileSync('data/NewMexico_SusanaMartinez.csv', 'utf8');
+//
+//var consolidatedData = tx + nm;
+//fs.writeFileSync('output/consolidated.csv', consolidatedData);
+//console.log('File written to: ' + 'output/consolidated.csv');
 ```
 <a name="l5"></a>__Listing 5 - Understanding how directory names are stored__  | [return to top](#)
 ```
