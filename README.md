@@ -183,6 +183,10 @@ console.log(filenames);
 //fs.writeFileSync('output/consolidated.csv', consolidatedData);
 //console.log('File written to: ' + 'output/consolidated.csv');
 ```
+> If you already know a little bit about Node, you may have noticed that we're using `readdirSync` and `readFileSync` rather than `readdir` and `readFile`. We're using the synchronous versions of these functions for simplicity sake. The beauty of Node is that it's asynchronous. Node can read a giant file that takes several minutes to process and in the meantime accomplish several other tasks. Other envionments tend to wait until a single process is finished before another begins. This means a single long running progress can put everything else on hold. 
+
+> Writing asynchronous code is more complex, which is why we are sticking to the synchronous versions of these function for now.
+
 <a name="l5"></a>__Listing 5 - Understanding how directory names are stored__  | [return to top](#)
 ```
 const fs = require('fs');
