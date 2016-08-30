@@ -236,6 +236,10 @@ Run the program: `node c1s5.js`.
 
 3. The rest of our code has the same pattern as before. Notice that we've added California for consolidation into our output file. 
 
+### Making our program to scale
+
+Declaring a variable for every file we wish to read is not a solution that can scale. To get ready to scale, we'll introduce the addition assignment operator `+=`. This operator says "Give the current value of this variable, add the following to it, and then give me back the results. In other words, instead of writing `x = x + 1`, we can write `x += 1`. In the next listing, we leverage `+=` on our `consolidateData` variable. First, we need to declare our `consolidatedData` as an empty string: `var consolidatedData = '';`, otherwise we be telling our program to add a value to something that is undefined.
+
 <a name="l6"></a>__Listing 6 - The addition assignment operator__  | [return to top](#)
 ```JavaScript
 const fs = require('fs');
@@ -256,8 +260,13 @@ fs.writeFileSync('output/consolidated.csv', consolidatedData);
 
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
+Run the program `node c1s6.js`, and you'll see that it consolidates the files as before. We haven't expanded what the program can do yet, but we're about to. 
 
-Learn more about [Assignment Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators)
+Learn more about [Assignment Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators).
+
+Now, we're ready for a big step. No matter how many files are in our folder, whether it's 10 or 10,000, we want our program to be able to read them all and consolidate them into one file in our output folder. The next listing does precisely that.
+
+The key is the forEach loop.
 
 <a name="l7"></a>__Listing 7 - Consolidating the entire directory at once__  | [return to top](#)
 ```JavaScript
@@ -268,7 +277,7 @@ var filenames = fs.readdirSync('data');
 var consolidatedData = '';
 
 console.log(filenames);
-
+// Loop through the array and for each file, read it and add the contents to consolidatedData
 filenames.forEach( file => {
   consolidatedData+= fs.readFileSync('data/' + file, 'utf8');
 });
@@ -277,6 +286,12 @@ fs.writeFileSync('output/consolidated.csv', consolidatedData);
 
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
+
+Translated into English, the loop syntax says the following: For each element in the `filenames` array, refer to that element as `file` and then perform all operations on it that are specified in the curly braces `{}` following the arrow `=>`. The operations specified inside the loop are the same as what we specified in the previous listing, but we no longer have to repeat ourselves `n` number of times. Inside the loop `file` refers to the same file name in the array that `filename[n]` did in the previous listing. 
+
+> As I stated previously, my intent in this guide is to focus on problem solving and solution design, demonstrating the power of automation using code and exploring software development concepts. There is much to explore about the loop syntax and there are various ways to write loops. I do not wish to deter the reader who is more interested in conceptual design and utility, rather than code mechanics. For this reason, from here on out, I'll simply translate the code logic into English and refer to reference materials for the reader who wishes to dive deeper.  
+
+
 <a name="l8"></a>__Listing 8 - Understanding how the loop works__  | [return to top](#)
 ```JavaScript
 const fs = require('fs');
