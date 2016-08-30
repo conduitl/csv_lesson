@@ -193,26 +193,39 @@ Our results:
 
 > Writing asynchronous code is more complex, which is why we are sticking to the synchronous versions of these function for now.
 
+The `readdirSync` function returns to us the file names in the form of an array. 
+
+Arrays 
+An array is a common data type. An array object contains a collection of indexed elements. Each of these elements can be retrieved using it's index number. 
+
+![The array data type](/case1/doc-img/c1s4-b.png)
+
+To retrieve data from an array, we use the index number for the element we want to retrieve. The name of the csv file for California is stored in the first index. Index numbers start at 0, so to retrieve "JerryBrown_California.csv" we will write the following code `filenames[0]`.
+
+In the next listing, we've written code that explores how this works.
+
 <a name="l5"></a>__Listing 5 - Understanding how directory names are stored__  | [return to top](#)
 ```
 const fs = require('fs');
 
 var filenames = fs.readdirSync('data');
 console.log(filenames);
-
+// Log to console to demonstrate how elements are retrieved from an array
 console.log( 'Number of files in directory: ' + filenames.length );
 console.log( '  -Index [0] contains ' + filenames[0] );
 console.log( '  -Index [1] contains ' + filenames[1] );
 console.log( '  -Index [2] contains ' + filenames[2] ); 
-
-var ca = fs.readFileSync('data/' + filenames[0], 'utf8');
-var nm = fs.readFileSync('data/' + filenames[1], 'utf8');
+// Use array retrieval rather than hardcoded values for file names
+var ca = fs.readFileSync('data/' + filenames[0], 'utf8'); // California added to example
+var nm = fs.readFileSync('data/' + filenames[1], 'utf8'); // 'data/' filepath is concatenated to array element
 var tx = fs.readFileSync('data/' + filenames[2], 'utf8');
-
-var consolidatedData = ca + nm + tx;
+// Everything else works as before
+var consolidatedData = ca + nm + tx; // added California (ca) 
 fs.writeFileSync('output/consolidated.csv', consolidatedData);
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
+
+
 <a name="l6"></a>__Listing 6 - The addition assignment operator__  | [return to top](#)
 ```
 const fs = require('fs');
