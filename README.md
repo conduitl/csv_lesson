@@ -205,7 +205,7 @@ To retrieve data from an array, we use the index number for the element we want 
 In the next listing, we've written code that explores how this works.
 
 <a name="l5"></a>__Listing 5 - Understanding how directory names are stored__  | [return to top](#)
-```
+```JavaScript
 const fs = require('fs');
 
 var filenames = fs.readdirSync('data');
