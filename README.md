@@ -195,7 +195,8 @@ Our results:
 
 The `readdirSync` function returns to us the file names in the form of an array. 
 
-Arrays 
+####Arrays
+
 An array is a common data type. An array object contains a collection of indexed elements. Each of these elements can be retrieved using it's index number. 
 
 ![The array data type](/case1/doc-img/c1s4-b.png)
@@ -210,40 +211,47 @@ const fs = require('fs');
 
 var filenames = fs.readdirSync('data');
 console.log(filenames);
-// Log to console to demonstrate how elements are retrieved from an array
+// #1 Log to console to demonstrate how elements are retrieved from an array
 console.log( 'Number of files in directory: ' + filenames.length );
 console.log( '  -Index [0] contains ' + filenames[0] );
 console.log( '  -Index [1] contains ' + filenames[1] );
 console.log( '  -Index [2] contains ' + filenames[2] ); 
-// Use array retrieval rather than hardcoded values for file names
+// #2 Use array retrieval rather than hardcoded values for file names
 var ca = fs.readFileSync('data/' + filenames[0], 'utf8'); // California added to example
 var nm = fs.readFileSync('data/' + filenames[1], 'utf8'); // 'data/' filepath is concatenated to array element
 var tx = fs.readFileSync('data/' + filenames[2], 'utf8');
-// Everything else works as before
+// #3 Everything else works as before
 var consolidatedData = ca + nm + tx; // added California (ca) 
 fs.writeFileSync('output/consolidated.csv', consolidatedData);
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
 
+Run the program: `node c1s5.js`.
+
+![Listing 5 Results](/case1/doc-img/c1s4-b.png)
+
+1. We add the console logs simply to demonstrate retrieval from the array. In the first of these logs, you see `filenames.length`. Every array has a `length` property that tells you the number of elements it contains.
+
+2. We retrieve the filenames from the array, using concatenation to attach them to the `'data/'` file path. These are provided to the `readFileSync` functions. In programming, inputs supplied to functions are referred to as **arguments**. For each `readFileSync` function, we've provided two arguments in the parenthesis. In the first `readFileSync`, the first argument is `'data/' + filenames[0]`, and the second is `'utf8'`.
+
+3. The rest of our code has the same pattern as before. Notice that we've added California for consolidation into our output file. 
 
 <a name="l6"></a>__Listing 6 - The addition assignment operator__  | [return to top](#)
-```
+```JavaScript
 const fs = require('fs');
-
 var filenames = fs.readdirSync('data');
-
-var consolidatedData;
+// #1 Initialize variable as empty string
+var consolidatedData = '';
 
 console.log(filenames);
-console.log( 'Number of files in directory: ' + filenames.length );
-console.log( '  -Index [0] contains ' + filenames[0] );
-console.log( '  -Index [1] contains ' + filenames[1] );
-console.log( '  -Index [2] contains ' + filenames[2] ); 
-
+// #2 Remove console.logs for array retrieval demonstration
+// #3 Use addition assignment operator and remove variable declarations
+//    previously used to store each file
 consolidatedData+= fs.readFileSync('data/' + filenames[0], 'utf8');
 consolidatedData+= fs.readFileSync('data/' + filenames[1], 'utf8');
 consolidatedData+= fs.readFileSync('data/' + filenames[2], 'utf8');
-
+// #4 Remove line below as it is no longer necessary
+// var consolidatedData = ca + nm + tx;
 fs.writeFileSync('output/consolidated.csv', consolidatedData);
 
 console.log('File written to: ' + 'output/consolidated.csv');
@@ -252,7 +260,7 @@ console.log('File written to: ' + 'output/consolidated.csv');
 Learn more about [Assignment Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators)
 
 <a name="l7"></a>__Listing 7 - Consolidating the entire directory at once__  | [return to top](#)
-```
+```JavaScript
 const fs = require('fs');
 
 var filenames = fs.readdirSync('data');
@@ -270,7 +278,7 @@ fs.writeFileSync('output/consolidated.csv', consolidatedData);
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
 <a name="l8"></a>__Listing 8 - Understanding how the loop works__  | [return to top](#)
-```
+```JavaScript
 const fs = require('fs');
 
 var filenames = fs.readdirSync('data');
@@ -292,7 +300,7 @@ fs.writeFileSync('output/consolidated.csv', consolidatedData);
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
 <a name="l9"></a>__Listing 9 - Manipulating the file data__  | [return to top](#)
-```
+```JavaScript
 const fs = require('fs');
 
 var filenames = fs.readdirSync('data');
