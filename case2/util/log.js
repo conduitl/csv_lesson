@@ -8,30 +8,30 @@ class Log {
 		this.data = {},
     this.console = false
 	}
-    // append() Objectives - Case 2 Update - 7/4/16
-    // * Redesign 2nd parameter
-    // *>> Accepts string or object
-    // *----- If undefined, append to this.report.main
-    // *----- If string, appends to a section for reporting
-    //           e.g. log('Hello', 'welcome') --> append to this.report['welcome']
-    // *----- If object, format must be:
-    //          e.g. { section: 'welcome', formatting: ['*', 5] }
+  // append() Objectives - Case 2 Update - 7/4/16
+  // * Redesign 2nd parameter
+  // *>> Accepts string or object
+  // *----- If undefined, append to this.report.main
+  // *----- If string, appends to a section for reporting
+  //           e.g. log('Hello', 'welcome') --> append to this.report['welcome']
+  // *----- If object, format must be:
+  //          e.g. { section: 'welcome', formatting: ['*', 5] }
 	append(msg, config, to_console) {
-        var settings;  
+    var settings;  
       
 		if (typeof config === 'object') {
-          settings = config;
-        } else if (typeof config === 'string') {
-          settings = {
-            section: config,
-            formatting: undefined
-          };
-        } else {
-          settings = {
-            section: 'main',
-            formatting: undefined
-          };
-        }
+      settings = config;
+    } else if (typeof config === 'string') {
+      settings = {
+        section: config,
+        formatting: undefined
+      };
+    } else {
+      settings = {
+        section: 'main',
+        formatting: undefined
+      };
+    }
       
 		if (settings.formatting) {
 			msg = format(msg, formatting[0], formatting[1] );
@@ -41,9 +41,9 @@ class Log {
 			console.log(msg);
 		}
       
-        if (!this.data[settings.section]) {
-          this.data[settings.section] = '';                 
-        }
+    if (!this.data[settings.section]) {
+      this.data[settings.section] = '';                 
+    }
 		this.data[settings.section]+= msg + '\r\n';
             
 		return {
@@ -52,12 +52,12 @@ class Log {
 			all: this.data
 		}
 	}
-    // create() **********************************
-    // * Writes log file in the sequence specified
-    // > Arguments
-    //   > sections | type: array
-    //   - If no arguments provided
-    //     Then create() will write data found in this.report.main
+  // create() **********************************
+  // * Writes log file in the sequence specified
+  // > Arguments
+  //   > sections | type: array
+  //   - If no arguments provided
+  //     Then create() will write data found in this.report.main
 	create( sections ) {
       var report;
       if ( sections && Array.isArray(sections) ) {
@@ -102,6 +102,7 @@ function format(msg, char, num) {
 };
 
 function makeColumns(columns, separator) {
+  // TODO
   // columns is an array e.g. [ 'col1', 'col2', 'col3']
   // separator e.g. '-' or ' ' or '_'
   
