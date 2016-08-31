@@ -6,9 +6,79 @@ var tasks = [
   createFiles
 ];
 var subroutines = [];
-var completedTasks = 0;
+var counter = 0;
 
-next();
+//next();
+
+function serialFunc() {
+  console.log('Serial task executed');
+}
+
+iterate({iterations: 100, sync: true}, parallelFunc);
+
+function iterate(config, callback) {
+  let iterations = config.iterations;
+  let sync       = config.sync;
+
+  setCounter(iterations);
+  
+  if (sync) {
+    nextIteration(serialFunc);
+  } else {
+    for (let i = 0; i < iterations; i++) {
+      callback(i, checkIfComplete);
+    }
+  }
+}
+function serialFunc(callback) {
+  let id = checkCounter();
+  let timer = Math.random() * 1000;
+  setTimeout( () => {
+    console.log('Serial task ' + id +  ' executed after ' + timer + ' milliseconds.');
+    nextIteration(serialFunc);
+  }, timer);
+}
+
+function parallelFunc(id, callback) {
+  let timer = Math.random() * 1000;
+  setTimeout( () => {
+    console.log('Parallel task ' + id +  ' executed after ' + timer + ' milliseconds.');
+    decrementCounter();
+    checkIfComplete();
+  }, timer);
+}
+
+// track parallel flow
+function checkIfComplete() {
+  'use strict';
+  let count = checkCounter();
+  if (count === 0) {
+    console.timeEnd('app');
+  }
+}
+
+// track function calls
+function setCounter(count) {
+  counter = count;
+}
+function checkCounter() {
+  return counter;
+}
+function decrementCounter() {
+  counter--;
+}
+
+// track serial flow
+function nextIteration(callback){
+  let count = checkCounter();
+  if (count > 0) {
+    callback();
+    decrementCounter();
+  } else {
+    console.timeEnd('app');
+  }
+}
+
 
 function next(err, result) {
   'use strict';
@@ -24,15 +94,7 @@ function next(err, result) {
   }
 }
 
-function checkIfComplete(results) {
-  'use strict';
-  completedTasks += 1;
-  if (completedTasks === subroutines.length) {
-    // do something
-    console.log(results);
-    next();
-  }
-}
+
 
 function processDirectory() {
   'use strict';

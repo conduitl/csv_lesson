@@ -17,15 +17,15 @@ const fs = require('fs'),
       filenames = fs.readdirSync('data');
 
 const validate    = require('./util/validate'),
-			consolidate = require('./util/process' ),
-			Log         = require('./util/log'     ),
-			programLog = new Log({
-				path: 'output/',   // folder(s) must exist; does not create folder(s)
-				filename: 'program_log'
-			});
+	  consolidate = require('./util/process' ),
+      Log         = require('./util/log'     ),
+	  programLog = new Log({
+	    path: 'output/',   // folder(s) must exist; does not create folder(s)
+	    filename: 'program_log'
+	  });
 
 var tasks = [
-	processDirectory,
+	[ processDirectory, [ filenames, dirPath ] ],
 	processFileData
 ];
 
