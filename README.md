@@ -299,7 +299,7 @@ This will be the first time we actually manipulate the contents of the files as 
 
 This listing doesn't change anything regarding how the files are processed. The additions simply get the program to talk to us a little bit more. 
 
-<a name="l8"></a>__Listing 8 - Understanding how the loop works__  | [return to top](#)
+<a name="l8"></a>__Listing 8 - Examining loop execution__  | [return to top](#)
 ```JavaScript
 const fs = require('fs');
 
@@ -322,15 +322,19 @@ fs.writeFileSync('output/consolidated.csv', consolidatedData);
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
 
-1. This is a more difficult JavaScript pattern that takes some getting use to. The `forEach` function takes another function as an argument e.g. `filenames.forEach( doSomething )` where `doSomething` is a function. In this case the `(file, index, array) => {...}` is our function. Before the arrow `=>`, we have three parameters. The first one, `file`, refers to the array element being processed in the `filenames` array as before. `index` refers to the current index being processed in the array. `array` refers to the entire array itself. 
+1. This is a more difficult JavaScript pattern that takes some getting use to. The `forEach` function takes another function as an argument e.g. `filenames.forEach( doSomething )` where `doSomething` is a function. In this case the `(file, index, array) => {...}` is our function. Before the arrow `=>`, we have three parameters. The first one, `file`, refers to the array element being processed in the `filenames` array as before. `index` refers to the current index being processed in the array. `array` refers to the entire array itself. Learn more about [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions).
 
 2. We use the `index` parameter to tell us whether or not we are reading our first file. If the `index` is `0`, then we are. 
 
-3. We the `array` parameter to tell us the length of the array. This is valuable information and will be put to use later.
+3. We use the `array` parameter to tell us the length of the array. This is valuable information and will be put to use later.
 
 4. We also use the `array` parameter to log the contents of the array, which is the list of files in our folder. It makes sense to do this only one time. 
 
 5. Lastly, we get the program to tell us which `index` is currently being process and which `file` that index corresponds to.  
+
+Run the program: `node c1s8.js`.
+
+We're ready to get the program to do some more heavy lifting. We'll add an `else` block that tells the program how to parse all the input files following the first (index: 0). 
 
 <a name="l9"></a>__Listing 9 - Manipulating the file data__  | [return to top](#)
 ```JavaScript
@@ -346,10 +350,10 @@ filenames.forEach( (file, index, array) => {
   if (index === 0) {
     console.log( 'Files in array: ' + array.length );
     console.log( array );
-  } else {
-		data = data.split('\r\n');
-		data.shift();
-		data = data.join('\r\n');
+  } else { //#1
+		data = data.split('\r\n'); //#2
+		data.shift(); //#3
+		data = data.join('\r\n'); //#4
 	}
   console.log( '-Processed index [' + index + '] containing ' + file );
 
@@ -360,6 +364,17 @@ fs.writeFileSync('output/consolidated.csv', consolidatedData);
 
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
+
+1. The `else` block executes when the `if` statement isn't met, in this case where the `index` does not equal `0`. 
+
+2. Inside the else, we split the rows apart. Our `readFileSync` gives us each file as one big chunk of text. The comma separated values (csv) format separates rows with a `\r\n` designation. `\r` is for carriage return and `\n` is for new line. Individual cells within each row are separated with commas. The `.split('\r\n`) function call returns to use an array of rows. 
+
+3. We take the array of rows and peal off the first one using `shift()`. 
+
+4. Then we merge the array back together into a string that's in a valid csv format.
+
+That's it. Now we've met our objective. 
+
 ####Problem solving workflow
 1. Define what you want
 2. Draft a conceptual solution
