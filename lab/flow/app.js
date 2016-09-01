@@ -1,20 +1,37 @@
 //const nimble = require('./mod/nimble');
+var fs = require('fs');
+
 console.time('app');
-var tasks = [
-  processDirectory,
-  processFileData,
-  createFiles
-];
-var subroutines = [];
+
+//Objective
+// 8/31/16
+// Apply flow control to reading of data files (states csvs)
+
 var counter = 0;
+var taskId = 0;
+var workflow = [task];
 
-//next();
+readDirectory( workflow.shift() );
+console.log('after (outside)');
 
-function serialFunc() {
-  console.log('Serial task executed');
+function readDirectory(callback) {
+  fs.readdir('../data', (err, files) => {
+    if (err) throw err;
+    let len = files.length;
+
+    console.log(files);
+    
+    iterate( {iterations: len, sync: true}, callback);
+  });
+  console.log('after (inside)');
+  
 }
 
-iterate({iterations: 100, sync: true}, parallelFunc);
+function cbTest() {
+  console.log('after (calback)');
+}
+
+//iterate({iterations: 100, sync: false}, parallelFunc);
 
 function iterate(config, callback) {
   let iterations = config.iterations;
@@ -23,21 +40,37 @@ function iterate(config, callback) {
   setCounter(iterations);
   
   if (sync) {
-    nextIteration(serialFunc);
+      nextIteration(callback);
   } else {
     for (let i = 0; i < iterations; i++) {
       callback(i, checkIfComplete);
     }
   }
 }
-function serialFunc(callback) {
-  let id = checkCounter();
+
+function task(callback) {
+  let id = createTaskId();
   let timer = Math.random() * 1000;
   setTimeout( () => {
-    console.log('Serial task ' + id +  ' executed after ' + timer + ' milliseconds.');
-    nextIteration(serialFunc);
+    console.log('Task ' + id +  ' executed after ' + timer + ' milliseconds.');
+    nextIteration(callback);
   }, timer);
 }
+function sync(callback) {
+  
+  
+}
+// track serial flow
+function nextIteration(callback){
+  let count = checkCounter();
+  if (count > 0) {
+    callback(callback);
+    decrementCounter();
+  } else {
+    console.timeEnd('app');
+  }
+}
+
 
 function parallelFunc(id, callback) {
   let timer = Math.random() * 1000;
@@ -68,16 +101,10 @@ function decrementCounter() {
   counter--;
 }
 
-// track serial flow
-function nextIteration(callback){
-  let count = checkCounter();
-  if (count > 0) {
-    callback();
-    decrementCounter();
-  } else {
-    console.timeEnd('app');
-  }
-}
+// track tasks executed
+function createTaskId() {
+  return taskId++;
+} 
 
 
 function next(err, result) {
@@ -92,34 +119,4 @@ function next(err, result) {
     console.log('No more tasks to execute.');
     console.timeEnd('app');
   }
-}
-
-
-
-function processDirectory() {
-  'use strict';
-  console.log('processDirectory()');
-  next();
-}
-function processFileData() {
-  'use strict';
-  var i = 0, log = '';
-  for (i; i < 4; i++) {
-    var subroutine = (function() {
-      return function() {
-        log += ' processFileData()';
-        checkIfComplete( log );
-      }
-    })();
-    subroutines.push(subroutine);
-  }
-  for (var routine in subroutines) {
-    subroutines[routine]();
-  }
-}
-
-function createFiles() {
-  'use strict';
-  console.log('createFiles()');
-  next();
 }
