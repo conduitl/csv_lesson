@@ -367,7 +367,7 @@ console.log('File written to: ' + 'output/consolidated.csv');
 
 1. The `else` block executes when the `if` statement isn't met, in this case where the `index` does not equal `0`. 
 
-2. Inside the else, we split the rows apart. Our `readFileSync` gives us each file as one big chunk of text. The comma separated values (csv) format separates rows with a `\r\n` designation. `\r` is for carriage return and `\n` is for new line. Individual cells within each row are separated with commas. The `.split('\r\n`) function call returns to use an array of rows. 
+2. Inside the else, we split the rows of the csv file apart. Our `readFileSync` gives us the file contents as one big chunk of text. The comma separated values (csv) format separates rows with a `\r\n` designation. `\r` is for carriage return and `\n` is for new line. Individual cells within each row are separated with commas. The `.split('\r\n`) function call returns to use an array of rows. 
 
 3. We take the array of rows and peal off the first one using `shift()`. 
 
