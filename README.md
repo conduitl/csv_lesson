@@ -291,6 +291,13 @@ Translated into English, the loop syntax says the following: For each element in
 
 > As I stated previously, my intent in this guide is to focus on problem solving and solution design, demonstrating the power of automation using code and exploring software development concepts. There is much to explore about the loop syntax and there are various ways to write loops. I do not wish to deter the reader who is more interested in conceptual design and utility, rather than code mechanics. For this reason, from here on out, I'll simply translate the code logic into English and refer to reference materials for the reader who wishes to dive deeper.  
 
+We are close to meeting our initial objective of consolidating all of the files in our directory into one output file. In fact, we are able to consolidate all the files, but we have a quality issue. The entire contents of every file, including the header row, is merged in our consolidated file. We don't want the header row repeated 50 times in our output. 
+
+We will instruct the program as follows. If the file being read is the first one, push its contents into the consolidated file as is. For all the remaining files, remove the first row (the header row) and then push the rest into the consolidated file.
+
+This will be the first time we actually manipulate the contents of the files as we process them. To prepare ourselve, we'll figure out how to get the program to tell us more about what is happening as its happening, especially as it loops through the files in our directory. 
+
+This listing doesn't change anything regarding how the files are processed. The additions simply get the program to talk to us a little bit more. 
 
 <a name="l8"></a>__Listing 8 - Understanding how the loop works__  | [return to top](#)
 ```JavaScript
@@ -300,12 +307,12 @@ var filenames = fs.readdirSync('data');
 
 var consolidatedData = '';
 
-filenames.forEach( (file, index, array) => {
-  if (index === 0) {
-    console.log( 'Files in array: ' + array.length );
-    console.log( array );
+filenames.forEach( (file, index, array) => { //#1
+  if (index === 0) { //#2
+    console.log( 'Files in array: ' + array.length ); //#3
+    console.log( array ); //#4
   }
-  console.log( '-Processing index [' + index + '] containing ' + file );
+  console.log( '-Processing index [' + index + '] containing ' + file ); //#5
 
   consolidatedData+= fs.readFileSync('data/' + file, 'utf8');
 });
@@ -314,6 +321,17 @@ fs.writeFileSync('output/consolidated.csv', consolidatedData);
 
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
+
+1. This is a more difficult JavaScript pattern that takes some getting use to. The `forEach` function takes another function as an argument e.g. `filenames.forEach( doSomething )` where `doSomething` is a function. In this case the `(file, index, array) => {...}` is our function. Before the arrow `=>`, we have three parameters. The first one, `file`, refers to the array element being processed in the `filenames` array as before. `index` refers to the current index being processed in the array. `array` refers to the entire array itself. 
+
+2. We use the `index` parameter to tell us whether or not we are reading our first file. If the `index` is `0`, then we are. 
+
+3. We the `array` parameter to tell us the length of the array. This is valuable information and will be put to use later.
+
+4. We also use the `array` parameter to log the contents of the array, which is the list of files in our folder. It makes sense to do this only one time. 
+
+5. Lastly, we get the program to tell us which `index` is currently being process and which `file` that index corresponds to.  
+
 <a name="l9"></a>__Listing 9 - Manipulating the file data__  | [return to top](#)
 ```JavaScript
 const fs = require('fs');
