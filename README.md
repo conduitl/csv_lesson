@@ -111,7 +111,6 @@ In Step 3, we write `console.log(data)` to send the contents of our `data` varia
 
 Now it's time to run our little program. Open a command terminal and navigate to the directory with the **c1s1.js** file. Type `node c1s1.js`. 
 
-> If you are new to the command terminal, you can access it by typing in `cmd` in the Windows search bar. Type `cd` followed by a directory name to navigate to it. For example, `cd desktop` will take me to my desktop directory. Here's [a link to an article on using the command line](http://www.digitalcitizen.life/command-prompt-how-use-basic-commands). If anyone has a better resource please share with me. 
 
 You will see the following results:
 
