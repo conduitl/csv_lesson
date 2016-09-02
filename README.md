@@ -106,9 +106,9 @@ You will see the following results:
 
 ![Listing 1 Results](/case1/doc-img/c1s1.png)
 
-| Tables        | Are           | Cool  |
 
-John | Cornyn | TX | Qualified | 2/2/1952 | 202-224-2934 | 
+--- | --- | ---
+John | Cornyn | TX
 
 ###Writing files
 
