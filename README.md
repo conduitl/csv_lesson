@@ -402,7 +402,11 @@ console.log('File written to: ' + 'output/consolidated.csv');
 
 4. Then we merge the array back together into a string that's in a valid csv format.
 
+When you have the files you want to consolidate in the the `/data` directory, run the program with `node c1s9.js`. You'll find the consolidated output file in the `output` directory. 
+
 We've now met our objective: *consolidate all the files in a specified directory into one output file*. Copy additional files from the `_source-data` folder into the `data` folder and run the program: `node c1s9.js`. Try it with 10 files. Then with 20. You'll see that it handles additional files without additional effort on our part. 
 
-When you have the files you want to consolidate in the the `/data` directory, run the program with `node c1s9.js`. You'll find the consolidated output file in the `output` directory. 
+## Coming next
+
+In the next part of this case study, we'll look at how we can enhance our program to handle inconsistent inputs. Our sales team members often give us tables with the columns in a different order than the one in our template, use various abbreviations that represent the same thing, and generally deviate from the proscribed format we ask for. We'll use our program to reorganize these inputs into what we want and log messages that we can email to our sales team members when they give us incomplete information. If our program can do what we imagine it can, then we'll approve that vacation time our assistant has requested.
 
