@@ -16,7 +16,7 @@ If you want to dive straight into the code examples, use the table of contents b
 * [Writing files](#t2)
 * [Reading directories](#t3)
 * [Making the program scale](#t4)
-* [The first milestone](#t5)
+* [Meeting the first milestone](#t5)
 
 ###Code Listings
 1. [Reading a csv](#l1)
@@ -187,6 +187,7 @@ You can quickly locate where the contents of the second file begin by finding it
 > Notice that we could accomplish the following requirement "take 50 files in a directory, read the contents, and write a new file that combines those contents into a new file" using only the methods we've applied so far. (For the sake of argument, let's assume we've already solved the excess header row problem.) For each of the files, we could add another line `var ca = fs.readFileSync('data/California_JerryBrown.csv` and then add ` + ca` to the `consolidatedData` variable. We **will not** do this. If we did this, our process wouldn't work if one of our input files was named slightly differently than what is hardcoded in our program. Our process wouldn't handle any additional input files. Moreover, it's simply not efficient to write a line of code for every single file. 
 
 > I suspect that many organizations get application code that's written in such an inflexible way. Hopefully our example is an exaggerated version of this, but maybe not. Consider that a project management approach that heavily favors **meeting requirements** as the overriding success criteria for viable product without testing product quality based on other factors might overlook this. Ever wonder why you have to submit a ticket to your IT department if you want such and such a system to do something slightly different. Even when they're willing to play ball, perhaps you suffer through a long ordeal to have your "enhancement" made. 
+
 <a name="t3"></a>
 ###Reading directories
 
@@ -259,6 +260,7 @@ Run the program: `node c1s5.js`.
 2. We retrieve the filenames from the array, using concatenation to attach them to the `'data/'` file path. These are provided to the `readFileSync` functions. In programming, inputs supplied to functions are referred to as **arguments**. For each `readFileSync` function, we've provided two arguments in the parenthesis. In the first `readFileSync`, the first argument is `'data/' + filenames[0]`, and the second is `'utf8'`.
 
 3. The rest of our code has the same pattern as before. Notice that we've added California for consolidation into our output file. 
+
 <a name="t4"></a>
 ### Making the program scale
 
@@ -346,7 +348,7 @@ fs.writeFileSync('output/consolidated.csv', consolidatedData);
 console.log('File written to: ' + 'output/consolidated.csv');
 ```
 
-1. This is a more difficult JavaScript pattern that takes some getting use to. The `forEach` function takes another function as an argument e.g. `filenames.forEach( doSomething )` where `doSomething` is a function. In this case the `(file, index, array) => {...}` is our function. Before the arrow `=>`, we have three parameters. The first one, `file`, refers to the array element being processed in the `filenames` array as before. `index` refers to the current index being processed in the array. `array` refers to the entire array itself. Learn more about [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions).
+1. This is a more difficult JavaScript pattern that takes some getting used to. The `forEach` function takes another function as an argument e.g. `filenames.forEach( doSomething )` where `doSomething` is a function. In this case the `(file, index, array) => {...}` is our function. Before the arrow `=>`, we have three parameters. The first one, `file`, refers to the array element being processed in the `filenames` array as before. `index` refers to the current index being processed in the array. `array` refers to the entire array itself. Learn more about [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions).
 
 2. We use the `index` parameter to tell us whether or not we are reading our first file. If the `index` is `0`, then we are. 
 
@@ -360,7 +362,7 @@ Run the program: `node c1s8.js`.
 
 
 <a name="t5"></a>
-### The first milestone
+### Meeting the first milestone
 We're ready to get the program to do some more heavy lifting. We'll add an `else` block that tells the program how to parse all the input files following the first (index: 0). 
 
 <a name="l9"></a>__Listing 9 - Manipulating the file data__  | [return to contents](#toc)
@@ -404,8 +406,3 @@ We've now met our objective: *consolidate all the files in a specified directory
 
 When you have the files you want to consolidate in the the `/data` directory, run the program with `node c1s9.js`. You'll find the consolidated output file in the `output` directory. 
 
-####Problem solving workflow
-1. Define what you want
-2. Draft a conceptual solution
-3. Define constraints
-4. Scope the work
