@@ -66,7 +66,7 @@ The first one is simple and should be fairly relatable. We've all probably manag
 To prepare this exercise, I needed a mock data set. It just so happens that our "sales folks" will be state governors and our "sales leads" will be state legislators. You can thank me later when you impress everyone at the next cocktail party by being able to name all your state congressmen and women. 
 
 ##Begin with the end in mind
-Let's define what we want before we dive in. I have a problem solving workflow, but because I want us to have a quick win I won't belabor it yet. I've seen many projects crash and burn because no clear objectives or end game was defined. (Meanwhile, the accountable stakeholders all reported success because there were no objectives to measure against that could prove failure.)
+Let's define what we want before we dive in. I've seen many projects crash and burn because no clear objectives or end game was defined. (Meanwhile, the accountable stakeholders all reported success because there were no objectives to measure against that could prove failure.)
 
 We want a single csv file that contains all of our sales leads from all 50 states. The columns will be:
 
@@ -76,7 +76,7 @@ John | Cornyn | TX | Qualified | 2/2/1952 | 202-224-2934 | http://www.cornyn.sen
 
 For now, let's assume our inputs from sales team will all come to us in exactly this format and the files will be named according to our determined naming convention. We'll write a script that merges all these files into one when Joe types a command into a terminal. 
 
-I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like we're saying, "We can't give you your paycheck this week, here's some spare change we found in the sofa." However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.
+I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like we're saying, "We can't give you your paycheck this week, but here's some spare change we found in the sofa." However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.
 
 ##Getting our hands dirty
 Let's introduce you to Node.js, which is what we'll be using to do our work for us. 
@@ -86,7 +86,7 @@ Node.js allows you to run JavaScript on your machine or on a server. Developers 
 Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform file read and write operations on our machine. 
 <a name="t1"></a>
 ###Reading files
-We'll start small by figuring out how to read one file using Node.js. W need to take the following steps: 
+We'll start small by figuring out how to read one file using Node.js. We need to take the following steps: 
 
 1. Import Node's File System module.
 
@@ -141,7 +141,7 @@ We're moving toward our goal by taking little steps. The next one is to explore 
 To do this, we write one new line of code: 
 `fs.writeFileSync('output/copyofTexasLeads.csv', data);`
 
-We also modify our `console.log`. We'll be using our `console.log`s to tell us what our programs are doing as they execute. 
+We also modify our `console.log`. We'll be using `console.log` to tell us what our program is doing as it executes. 
 
 Our program now looks like this:
 
