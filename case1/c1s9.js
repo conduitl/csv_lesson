@@ -14,9 +14,9 @@ filenames.forEach( (file, index, array) => {
     console.log( 'Files in array: ' + array.length );
     console.log( array );
   } else {
-		data = data.split('\r\n');
+		data = data.split('\n');
 		data.shift();
-		data = data.join('\r\n');
+		data = data.join('\n');
 	}
   console.log( '-Processed index [' + index + '] containing ' + file );
 
