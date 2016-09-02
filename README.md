@@ -93,7 +93,7 @@ We'll start small by figuring out how to read one file using Node.js. W need to 
 3. Use this variable to log the file's contents to the terminal window.
 
 <a name="l1"></a>__Listing 1 - Reading a csv__  | [return to contents](#toc)
-```
+```JavaScript
 const fs = require('fs'); //#1
             
 var data = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8'); //#2
@@ -142,7 +142,7 @@ We also modify our `console.log`. We'll be using our `console.log`s to tell us w
 Our program now looks like this:
 
 <a name="l2"></a>__Listing 2 - Copying a file__  | [return to contents](#toc)
-```
+```JavaScript
 const fs = require('fs');
 
 var data = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8');
@@ -166,7 +166,7 @@ In the next line, we'll add the contents of the two files together. This is call
 We store the concatenated file contents into `consolidatedData` and write the file to our hard drive the same way as before. 
 
 <a name="l3"></a>__Listing 3 - Combining two files__  | [return to contents](#toc)
-```
+```JavaScript
 const fs = require('fs');
 
 var tx = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8');
@@ -196,7 +196,7 @@ We don't want to have to hardcode file names in our program so let's find out ho
 Notice we've added two forward slashes `//` in front of the rest of the code. This turns it into comments that Node will not read. We've done this because we want to isolate the new function in our program and better understand how it works.
 
 <a name="l4"></a>__Listing 4 - Reading a directory__  | [return to contents](#toc)
-```
+```JavaScript
 const fs = require('fs');
 
 var filenames = fs.readdirSync('data');
