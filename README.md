@@ -9,6 +9,7 @@ Along the way, you may find that you can save several (or perhaps even hundreds)
 If you are interesting in becoming a coder or already well on your way, you may use this guide to learn a little bit more about Node.js. I will point you to other coding resources throughout the guide that supplement the topic at hand. I also intend on writing more articles that get into the nitty gritty of some ways to use Node.js. Feedback and contributions to this repository are also most welcome. 
 
 If you want to dive straight into the code examples, use the table of contents below.
+<a name="toc"></a>
 ##Table of Contents
 ###Topics
 * [Reading files](#t1)
@@ -76,9 +77,9 @@ Let's introduce you to Node.js, which is what we'll be using to do our work for 
 Node.js allows you to run JavaScript on your machine or on a server. Developers call this a **runtime** environment. Prior to Node.js, the typical runtime environment for JavaScript was in the web browser. Node.js powers many commercial and enterprise applications. LinkedIn, for example, uses Node.js. JavaScript is the programming language of the web. Any web application or complex dynamic web site in existence relies on JavaScript. This makes it a compelling choice when choosing a language to learn. 
 
 Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform file read and write operations on our machine. 
-
-###Reading files
 <a name="t1"></a>
+###Reading files
+[back to top](#toc)
 We'll start small by figuring out how to read one file using Node.js. We're taking the following steps: 
 
 1. Import Node's File System module.
@@ -87,7 +88,7 @@ We'll start small by figuring out how to read one file using Node.js. We're taki
 
 3. Use this variable to log the file's contents to the terminal window.
 
-<a name="l1"></a>__Listing 1 - Reading a csv__  | [return to top](#)
+<a name="l1"></a>__Listing 1 - Reading a csv__  | [return to contents](#toc)
 ```
 const fs = require('fs'); //#1
             
