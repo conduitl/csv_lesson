@@ -54,6 +54,10 @@ Before you begin, you will need to install Node.js and a code editor.
 
 2. If you don't have a code editor, I recommend installing [Visual Studio Code](https://code.visualstudio.com/).
 
+3. Download this repository. 
+
+![Download Github Repository](/img-for-readme/download.png)
+
 #Case #1 - The 50 States Sales Organization
 Throughout the guide, we'll take on case examples that mirror real world problems. In instances, I'll actually build the case from a real project example. 
 
