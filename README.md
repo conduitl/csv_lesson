@@ -33,11 +33,11 @@ Perhaps, I could just type a few lines into a command terminal and the informati
 A mid-level technical manager once bragged to me that he'd used Excel to its limit, meaning he'd made a table with 65,000 something lines. Let's see if we can hold how we measure our work to a higher standard. 
 
 ##Purpose
-This dream of "A couple of commands and all my routine work is done" is not something we can accomplish by ourselves. More sophisticated automation requires software development experts. However, you'll be surprised out how much you can accomplish and just how much of your routine work you can automate with a few tools and a little bit of guidance. 
+This dream of "*a couple of commands and all my routine work is done*" is not something we can accomplish by ourselves. More sophisticated automation requires software development experts. However, you'll be surprised out how much you can accomplish and just how much of your routine work you can automate with a few tools and a little bit of guidance. 
 
 Also, my goal is to help you become a better customer and consumer of IT services. My intent is to help you become more familiar with software concepts, be better able to articulate your requirements to professional software teams, and be able to evaluate whether or not you are working with the right software team so that you don't get taken. 
 
-Last but not certainly not least, I'd like to show you some examples of what is possible with a little automation, so that you and the people who are working for you might be able to focus on the more meaningful (and lucrative) work, while automating the rest. Let's float the idea that sometimes thinking small in terms of automation can be more productive than thinking big. Consider that many Fortune 500 compaonies I've worked with rarely requisition a software development project that's under $250,000, yet I'll attempt to prove to you that a developer can write something in a weekend that will do more to improve the day-to-day productivity and job satisfaction of the typical knowledge worker than these mammoth projects typically do. 
+Last but not certainly not least, I'd like to show you some examples of what is possible with a little automation, so that you and the people who are working for you might be able to focus on the more meaningful (and lucrative) work, while automating the rest. Let's float the idea that sometimes thinking small in terms of automation can be more productive than thinking big. The Fortune 500 companies I've worked with rarely requisition a software development project that's under $250,000, yet I'll attempt to prove to you that a developer can write something in a weekend that will do more to improve the day-to-day productivity and job satisfaction of the typical knowledge worker than these mammoth projects typically do. 
 
 ##Getting Started
 Before you begin, you will need to install Node.js and a code editor.
@@ -66,7 +66,7 @@ John | Cornyn | TX | Qualified | 2/2/1952 | 202-224-2934 | http://www.cornyn.sen
 
 For now, let's assume our inputs from sales team will all come to us in exactly this format and the files will be named according to our determined naming convention. We'll write a script that merges all these files into one when Joe types a command into a terminal. 
 
-I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like we're telling him that the bad news is we can't give him his paycheck this week; meanwhile the good news is that we found some spare change in the sofa to tide him over. However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.
+I know, I know. We'll handle input variance remediation in Part 2. For now, Joe will have to remediate bad inputs himself before he runs a script which saves him about 15 minutes. We feel like we're saying, "We can't give you your paycheck this week, here's some spare change we found in the sofa." However, what's important now is proving to ourselves that we can automate something, and that we can learn how to do it rather quickly.
 
 ##Getting our hands dirty
 Let's introduce you to Node.js, which is what we'll be using to do our work for us. 
@@ -92,19 +92,21 @@ const fs = require('fs'); //#1
 var data = fs.readFileSync('data/Texas_GregAbbott.csv', 'utf8'); //#2
 console.log(data); //#3
 ```
-If you don't have a lot of experience looking at code, my advice to you, quoting the *Hitchhiker's Guide to the Galaxy*, is __Don't Panic!__. Don't worry about understanding how everything works right away. Simply try to understand the broad strokes regarding what a particular line code achieves. Think of it for now like the appliances you use in your household. We don't worry too much about why the toaster was designed in such and such a way; we know how to plug it in, and we're familiar with the results it produces. That's good enough for us right now. Depending on your objectives, it may make sense to dive deeper, but one thing at a time. 
+If you don't have a lot of experience looking at code, my advice to you, quoting the *Hitchhiker's Guide to the Galaxy*, is __Don't Panic!__. Don't worry about understanding how everything works right away. Simply try to understand the broad strokes regarding what a particular line of code achieves. For now, try to look at the code with the same attitude we have regarding the appliances in our household. We don't worry too much about why the toaster was designed in such and such a way. We know how to plug it in, and we're familiar with the results it produces. That's good enough for us right now. Depending on your objectives, it may make sense to dive deeper, but one thing at a time. 
 
 One of the fundamental design principles in Node is the ability to import and export modules. The Node installation comes with several prepackaged modules called *core* modules. In Step 1, we're importing File System abbreviated as "fs" by "requiring" it. Modules provide us with functions that help us do the things we want to do. 
 
-In Step 2, we call on the readFileSync function that is part of the File System module. This allows us to read files on our hard drive. In the parenthesis, we tell the function the location and name of the file we want to read and the format to encode it in, *'utf8'*. (Don't worry about what this means for now.) In return, the function gives us the contents of the file, putting it into our variable that we've named as **data**. 
+In Step 2, we call on the `readFileSync` function that is part of the File System module. This allows us to read files on our hard drive. In the parenthesis, we tell the function the location and name of the file we want to read and the format to encode it in, `'utf8'`. (Don't worry about what the encoding means for now.) In return, the function gives us the contents of the file, putting it into our variable that we've named as `data`. 
 
-In Step 3, we write `console.log(data)` to send the contents of our **data** variable to the terminal window.
+In Step 3, we write `console.log(data)` to send the contents of our `data` variable to the terminal window.
 
 Now it's time to run our little program. Open a command terminal and navigate to the directory with the **c1s1.js** file. Type `node c1s1.js`. 
 
 You will see the following results:
 
 ![Listing 1 Results](/case1/doc-img/c1s1.png)
+
+John | Cornyn | TX | Qualified | 2/2/1952 | 202-224-2934 | 
 
 ###Writing files
 
