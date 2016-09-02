@@ -106,7 +106,7 @@ You will see the following results:
 
 ![Listing 1 Results](/case1/doc-img/c1s1.png)
 
-
+first name | last name | state
 --- | --- | ---
 John | Cornyn | TX
 
