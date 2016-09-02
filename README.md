@@ -111,7 +111,7 @@ Now it's time to run our little program. Open a command terminal and navigate to
 
 You will see the following results:
 
-![Listing 1 Results](/case1/doc-img/c1s1.png)
+![Listing 1 Results](/img-for-readme/c1s1.png)
 
 To decode the results logged to the terminal, understand that:
 
@@ -154,11 +154,11 @@ console.log('File written to: ' + 'output/copyOfTexasLeads.csv'); //updated
 
 Type `node c1s2.js` in the command terminal to run the program. You'll see: 
 
-![Listing 2 - Command Terminal](/case1/doc-img/c1s2-a.png)
+![Listing 2 - Command Terminal](/img-for-readme/c1s2-a.png)
 
 In your file explorer, navigate to the path that we specified for file creation. Look! There's a new file there. 
 
-![Listing 2 - Newly Created File](/case1/doc-img/c1s2-b.png)
+![Listing 2 - Newly Created File](/img-for-readme/c1s2-b.png)
 Now lets read two files and write the contents of both of the files into a new one. We'll rename the variable where we are storing the contents of the first file to 'tx', and we'll add a line to read a second file, storing it's contents in a variable labeled 'nm'. 
 
 In the next line, we'll add the contents of the two files together. This is called concatenation. Note that if we were adding two numbers together we would get a sum e.g. 1 + 1 = 2, but when adding strings of characters to together the results are a concatenation of the two strings e.g. "Hello" + "World" = "HelloWorld". 
@@ -180,7 +180,7 @@ As before, type `node` followed by the name JavaScript file you wish to execute 
 
 We open the consolidate.csv file and this is what we get: 
 
-![consolidate.csv](/case1/doc-img/c1s3.png)
+![consolidate.csv](/img-for-readme/c1s3.png)
 
 You can quickly locate where the contents of the second file begin by finding its header row. Of course, we don't want additional header rows in the middle of our table. We will do something about these a little bit later. 
 
@@ -212,7 +212,7 @@ console.log(filenames);
 Run the program: `node c1s4.js`.
 
 Our results:
-![Listing 4 output](/case1/doc-img/c1s4-a.png)
+![Listing 4 output](/img-for-readme/c1s4-a.png)
 
 > If you already know a little bit about Node, you may have noticed that we're using `readdirSync` and `readFileSync` rather than `readdir` and `readFile`. We're using the synchronous versions of these functions for simplicity sake. The beauty of Node is that it's asynchronous. Node can read a giant file that takes several minutes to process and in the meantime accomplish several other tasks. Other envionments tend to wait until a single process is finished before another begins. This means a single long running progress can put everything else on hold. 
 
@@ -224,7 +224,7 @@ The `readdirSync` function returns to us the file names in the form of an array.
 
 An array is a common data type. An array object contains a collection of indexed elements. Each of these elements can be retrieved using it's index number. 
 
-![The array data type](/case1/doc-img/c1s4-b.png)
+![The array data type](/img-for-readme/c1s4-b.png)
 
 To retrieve data from an array, we use the index number for the element we want to retrieve. The name of the csv file for California is stored in the first index. Index numbers start at 0, so to retrieve "JerryBrown_California.csv" we will write the following code `filenames[0]`.
 
@@ -253,7 +253,7 @@ console.log('File written to: ' + 'output/consolidated.csv');
 
 Run the program: `node c1s5.js`.
 
-![Listing 5 Results](/case1/doc-img/c1s5.png)
+![Listing 5 Results](/img-for-readme/c1s5.png)
 
 1. We add the console logs simply to demonstrate retrieval from the array. In the first of these logs, you see `filenames.length`. Every array has a `length` property that tells you the number of elements it contains.
 
