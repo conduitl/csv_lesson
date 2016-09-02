@@ -13,6 +13,7 @@ If you want to dive straight into the code examples, use the table of contents b
 ##Table of Contents
 ###Topics
 * [Reading files](#t1)
+
 ###Code Listings
 1. [Reading a csv](#l1)
 2. [Copying a file](#l2)
@@ -80,6 +81,7 @@ Node.js comes with several core modules. The one we'll be using is **File System
 <a name="t1"></a>
 ###Reading files
 [back to top](#toc)
+
 We'll start small by figuring out how to read one file using Node.js. We're taking the following steps: 
 
 1. Import Node's File System module.
