@@ -253,7 +253,7 @@ console.log('File written to: ' + 'output/consolidated.csv');
 
 Run the program: `node c1s5.js`.
 
-![Listing 5 Results](/case1/doc-img/c1s4-b.png)
+![Listing 5 Results](/case1/doc-img/c1s5.png)
 
 1. We add the console logs simply to demonstrate retrieval from the array. In the first of these logs, you see `filenames.length`. Every array has a `length` property that tells you the number of elements it contains.
 
