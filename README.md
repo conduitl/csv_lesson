@@ -13,6 +13,10 @@ If you want to dive straight into the code examples, use the table of contents b
 ##Table of Contents
 ###Topics
 * [Reading files](#t1)
+* [Writing files](#t2)
+* [Reading directories](#t3)
+* [Making the program scale](#t4)
+* [The first milestone](#t5)
 
 ###Code Listings
 1. [Reading a csv](#l1)
@@ -22,7 +26,7 @@ If you want to dive straight into the code examples, use the table of contents b
 5. [Understanding how directory names are stored](#l5)
 6. [The addition assignment operator](#l6)
 7. [Consolidating the entire directory at once](#l7)
-8. [Understanding how the loop works](#l8)
+8. [Examining loop execution](#l8)
 9. [Manipulating the file data](#l9)
 
 ##Background
@@ -80,7 +84,7 @@ Node.js allows you to run JavaScript on your machine or on a server. Developers 
 Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform file read and write operations on our machine. 
 <a name="t1"></a>
 ###Reading files
-We'll start small by figuring out how to read one file using Node.js. We're taking the following steps: 
+We'll start small by figuring out how to read one file using Node.js. W need to take the following steps: 
 
 1. Import Node's File System module.
 
@@ -125,7 +129,7 @@ John,Cornyn,TX
 in a plain text file.
 
 This plain text representation is what we see in the terminal window.
-
+<a name="t2"></a>
 ###Writing files
 
 We're moving toward our goal by taking little steps. The next one is to explore how we can use Node to create new files. 
@@ -137,7 +141,7 @@ We also modify our `console.log`. We'll be using our `console.log`s to tell us w
 
 Our program now looks like this:
 
-<a name="l2"></a>__Listing 2 - Copying a file__  | [return to top](#)
+<a name="l2"></a>__Listing 2 - Copying a file__  | [return to contents](#toc)
 ```
 const fs = require('fs');
 
@@ -161,7 +165,7 @@ In the next line, we'll add the contents of the two files together. This is call
 
 We store the concatenated file contents into `consolidatedData` and write the file to our hard drive the same way as before. 
 
-<a name="l3"></a>__Listing 3 - Combining two files__  | [return to top](#)
+<a name="l3"></a>__Listing 3 - Combining two files__  | [return to contents](#toc)
 ```
 const fs = require('fs');
 
@@ -183,14 +187,14 @@ You can quickly locate where the contents of the second file begin by finding it
 > Notice that we could accomplish the following requirement "take 50 files in a directory, read the contents, and write a new file that combines those contents into a new file" using only the methods we've applied so far. (For the sake of argument, let's assume we've already solved the excess header row problem.) For each of the files, we could add another line `var ca = fs.readFileSync('data/California_JerryBrown.csv` and then add ` + ca` to the `consolidatedData` variable. We **will not** do this. If we did this, our process wouldn't work if one of our input files was named slightly differently than what is hardcoded in our program. Our process wouldn't handle any additional input files. Moreover, it's simply not efficient to write a line of code for every single file. 
 
 > I suspect that many organizations get application code that's written in such an inflexible way. Hopefully our example is an exaggerated version of this, but maybe not. Consider that a project management approach that heavily favors **meeting requirements** as the overriding success criteria for viable product without testing product quality based on other factors might overlook this. Ever wonder why you have to submit a ticket to your IT department if you want such and such a system to do something slightly different. Even when they're willing to play ball, perhaps you suffer through a long ordeal to have your "enhancement" made. 
-
+<a name="t3"></a>
 ###Reading directories
 
 We don't want to have to hardcode file names in our program so let's find out how to read contents of a folder. We will use the File System function `readdirSync`. We write `var filenames = fs.readdirSync('data');`. We just have to tell this function the location of our folder in the parenthesis. We declare the variable `filenames` to store the value that `readdirSync` returns to us. 
 
 Notice we've added two forward slashes `//` in front of the rest of the code. This turns it into comments that Node will not read. We've done this because we want to isolate the new function in our program and better understand how it works.
 
-<a name="l4"></a>__Listing 4 - Reading a directory__  | [return to top](#)
+<a name="l4"></a>__Listing 4 - Reading a directory__  | [return to contents](#toc)
 ```
 const fs = require('fs');
 
@@ -255,12 +259,12 @@ Run the program: `node c1s5.js`.
 2. We retrieve the filenames from the array, using concatenation to attach them to the `'data/'` file path. These are provided to the `readFileSync` functions. In programming, inputs supplied to functions are referred to as **arguments**. For each `readFileSync` function, we've provided two arguments in the parenthesis. In the first `readFileSync`, the first argument is `'data/' + filenames[0]`, and the second is `'utf8'`.
 
 3. The rest of our code has the same pattern as before. Notice that we've added California for consolidation into our output file. 
-
-### Making our program scale
+<a name="t4"></a>
+### Making the program scale
 
 Declaring a variable for every file we wish to read is not a solution that can scale. To get ready to scale, we'll introduce the addition assignment operator `+=`. This operator says "Give the current value of this variable, add the following to it, and then give me back the results. In other words, instead of writing `x = x + 1`, we can write `x += 1`. In the next listing, we leverage `+=` on our `consolidateData` variable. First, we need to declare our `consolidatedData` as an empty string: `var consolidatedData = '';`, otherwise we be telling our program to add a value to something that is undefined.
 
-<a name="l6"></a>__Listing 6 - The addition assignment operator__  | [return to top](#)
+<a name="l6"></a>__Listing 6 - The addition assignment operator__  | [return to contents](#toc)
 ```JavaScript
 const fs = require('fs');
 var filenames = fs.readdirSync('data');
@@ -288,7 +292,7 @@ Now, we're ready for a big step. No matter how many files are in our folder, whe
 
 The key is the forEach loop.
 
-<a name="l7"></a>__Listing 7 - Consolidating the entire directory at once__  | [return to top](#)
+<a name="l7"></a>__Listing 7 - Consolidating the entire directory at once__  | [return to contents](#toc)
 ```JavaScript
 const fs = require('fs');
 
@@ -319,7 +323,7 @@ This will be the first time we actually manipulate the contents of the files as 
 
 This listing doesn't change anything regarding how the files are processed. The additions simply get the program to talk to us a little bit more. 
 
-<a name="l8"></a>__Listing 8 - Examining loop execution__  | [return to top](#)
+<a name="l8"></a>__Listing 8 - Examining loop execution__  | [return to contents](#toc)
 ```JavaScript
 const fs = require('fs');
 
@@ -354,9 +358,12 @@ console.log('File written to: ' + 'output/consolidated.csv');
 
 Run the program: `node c1s8.js`.
 
+
+<a name="t5"></a>
+### The first milestone
 We're ready to get the program to do some more heavy lifting. We'll add an `else` block that tells the program how to parse all the input files following the first (index: 0). 
 
-<a name="l9"></a>__Listing 9 - Manipulating the file data__  | [return to top](#)
+<a name="l9"></a>__Listing 9 - Manipulating the file data__  | [return to contents](#toc)
 ```JavaScript
 const fs = require('fs');
 
