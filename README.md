@@ -106,9 +106,22 @@ You will see the following results:
 
 ![Listing 1 Results](/case1/doc-img/c1s1.png)
 
+To decode the results logged to the terminal, understand that:
+
 first name | last name | state
 --- | --- | ---
 John | Cornyn | TX
+
+in a csv file translates into 
+
+```
+first name,last name,state
+John,Cornyn,TX
+```
+
+in a plain text file.
+
+This plain text representation is what we see in the terminal window.
 
 ###Writing files
 
