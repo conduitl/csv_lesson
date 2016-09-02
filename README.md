@@ -9,8 +9,10 @@ Along the way, you may find that you can save several (or perhaps even hundreds)
 If you are interesting in becoming a coder or already well on your way, you may use this guide to learn a little bit more about Node.js. I will point you to other coding resources throughout the guide that supplement the topic at hand. I also intend on writing more articles that get into the nitty gritty of some ways to use Node.js. Feedback and contributions to this repository are also most welcome. 
 
 If you want to dive straight into the code examples, use the table of contents below.
-
-##Contents - Code Listings
+##Table of Contents
+###Topics
+* [Reading files](#t1)
+###Code Listings
 1. [Reading a csv](#l1)
 2. [Copying a file](#l2)
 3. [Combining two files](#l3)
@@ -76,7 +78,7 @@ Node.js allows you to run JavaScript on your machine or on a server. Developers 
 Node.js comes with several core modules. The one we'll be using is **File System**. This lets us perform file read and write operations on our machine. 
 
 ###Reading files
-
+<a name="t1"></a>
 We'll start small by figuring out how to read one file using Node.js. We're taking the following steps: 
 
 1. Import Node's File System module.
@@ -253,7 +255,7 @@ Run the program: `node c1s5.js`.
 
 3. The rest of our code has the same pattern as before. Notice that we've added California for consolidation into our output file. 
 
-### Making our program to scale
+### Making our program scale
 
 Declaring a variable for every file we wish to read is not a solution that can scale. To get ready to scale, we'll introduce the addition assignment operator `+=`. This operator says "Give the current value of this variable, add the following to it, and then give me back the results. In other words, instead of writing `x = x + 1`, we can write `x += 1`. In the next listing, we leverage `+=` on our `consolidateData` variable. First, we need to declare our `consolidatedData` as an empty string: `var consolidatedData = '';`, otherwise we be telling our program to add a value to something that is undefined.
 
