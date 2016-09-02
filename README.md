@@ -38,7 +38,7 @@ However, underpinning these planning, analysis, and design efforts are countless
 
 Perhaps, I could just type a few lines into a command terminal and the information I need reorganizes itself. Now, I arrive at the whole point of this GitHub repository. Let's explore how we can make this happen. We'll have to keep reading, designing, and talking to people, but perhaps excessive copying-pasting will be a thing of the past, and we won't have to replace the **Ctrl**, **C**, and **V** keys quite so frequently on our keyboard.
 
-A mid-level technical manager once bragged to me that he'd used Excel to its limit, meaning he'd made a table with 65,000 something lines. Let's see if we can hold how we measure our work to a higher standard. 
+A mid-level technical manager once bragged to me that he'd used Excel to its limit, meaning he'd made a table with 65,000 something lines. Let's try to measure the quality of our work in a more meaningful way. 
 
 ##Purpose
 This dream of "*a couple of commands and all my routine work is done*" is not something we can accomplish by ourselves. More sophisticated automation requires software development experts. However, you'll be surprised out how much you can accomplish and just how much of your routine work you can automate with a few tools and a little bit of guidance. 
@@ -111,6 +111,7 @@ In Step 3, we write `console.log(data)` to send the contents of our `data` varia
 
 Now it's time to run our little program. Open a command terminal and navigate to the directory with the **c1s1.js** file. Type `node c1s1.js`. 
 
+> If you are new to the command terminal, you can access it by typing in `cmd` in the Windows search bar. Type `cd` followed by a directory name to navigate to it. For example, `cd desktop` will access the desktop directory. Here's [a link to an article on using the command line](http://www.digitalcitizen.life/command-prompt-how-use-basic-commands). If you have or find a better resource, please share it. 
 
 You will see the following results:
 
