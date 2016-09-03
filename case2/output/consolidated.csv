@@ -1,4 +1,4 @@
-first name,last name,state,type,birthday,phone,email
+first name,last name,state,type,birthday
 Jefferson,Sessions,AL,Qualified,12/24/1946
 Robert,Aderholt,AL,Qualified,7/22/1965
 Mo,Brooks,AL,Qualified,4/29/1954
@@ -11,17 +11,15 @@ Gary,Palmer,AL,Qualified,5/14/1954
 Lisa,Murkowski,AK,Qualified,5/22/1957,202-224-6665,http://www.murkowski.senate.gov/public/index.cfm?p=EMailLisa
 Don,Young,AK,Qualified,6/9/1933,202-225-5765,https://donyoung.house.gov/forms/writeyourrep/
 Dan,Sullivan,AK,Qualified,11/13/1964,202-224-3004,
-Jeff,Flake,AZ,Qualified,12/31/1962,202-224-4521,http://www.flake.senate.gov/contact.cfm
-Trent,Franks,AZ,Qualified,6/19/1957,202-225-4576,https://franks.house.gov/contact-me/email-me
-Paul,Gosar,AZ,Qualified,11/22/1958,202-225-2315,https://gosar.house.gov/contact-me/email-me
-Raúl,Grijalva,AZ,Qualified,2/19/1948,202-225-2435,https://grijalvaforms.house.gov/email-raul
-John,McCain,AZ,Qualified,8/29/1936,202-224-2235,http://www.mccain.senate.gov/public/index.cfm/contact-form
-David,Schweikert,AZ,Qualified,3/3/1962,202-225-2190,https://schweikert.house.gov/contact-form
-Matt,Salmon,AZ,Qualified,1/21/1958,202-225-2635,https://salmon.house.gov/contact/email-me
-Ann,Kirkpatrick,AZ,Qualified,3/24/1950,202-225-3361,https://kirkpatrick.house.gov/contact/email-me
-Kyrsten,Sinema,AZ,Qualified,7/12/1976,202-225-9888,https://sinemaforms.house.gov/forms/writeyourrep/
-Martha,McSally,AZ,Qualified,3/22/1966,202-225-2542,
-Ruben,Gallego,AZ,Qualified,11/20/1979,202-225-4065,
+Michael Bennet,CO,Qualified,11/28/1964,202-224-5852,http://www.bennet.senate.gov/contact/email
+Mike Coffman,CO,Qualified,3/19/1955,202-225-7882,https://coffman.house.gov/contact/email-me
+Diana DeGette,CO,Qualified,7/29/1957,202-225-4431,https://degette.house.gov/contact/send-me-an-email/email-me
+Cory Gardner,CO,Qualified,8/22/1974,202-224-5941,
+Doug Lamborn,CO,Qualified,5/24/1954,202-225-4422,https://lambornforms.house.gov/contact-form
+Ed Perlmutter,CO,Qualified,5/1/1953,202-225-2645,https://forms.house.gov/perlmutter/webforms/contact.shtml
+Jared Polis,CO,Qualified,5/12/1975,202-225-2161,https://polis.house.gov/forms/writeyourrep/default.aspx
+Scott Tipton,CO,Qualified,11/9/1956,202-225-4761,https://tipton.house.gov/contact-me/email-me
+Ken Buck,CO,Qualified,2/16/1959,202-225-4676,
 John,Boozman,AR,Qualified,12/10/1950,202-224-4843,http://www.boozman.senate.gov/public/index.cfm/e-mail-me
 Eric,Crawford,AR,Qualified,1/22/1966,202-225-4076,http://crawford.house.gov/contact/
 Steve,Womack,AR,Qualified,2/18/1957,202-225-4301,https://womack.house.gov/contact/contactform.htm
@@ -83,15 +81,17 @@ Pete,Aguilar,CA,Unlikely,6/19/1979,202-225-3201,
 Ted,Lieu,CA,Unlikely,3/29/1969,202-225-3976,
 Norma,Torres,CA,Unlikely,4/4/1965,202-225-6161,
 Mimi,Walters,CA,Unlikely,5/14/1962,202-225-5611,
-Michael Bennet,CO,Qualified,11/28/1964,202-224-5852,http://www.bennet.senate.gov/contact/email
-Mike Coffman,CO,Qualified,3/19/1955,202-225-7882,https://coffman.house.gov/contact/email-me
-Diana DeGette,CO,Qualified,7/29/1957,202-225-4431,https://degette.house.gov/contact/send-me-an-email/email-me
-Cory Gardner,CO,Qualified,8/22/1974,202-224-5941,
-Doug Lamborn,CO,Qualified,5/24/1954,202-225-4422,https://lambornforms.house.gov/contact-form
-Ed Perlmutter,CO,Qualified,5/1/1953,202-225-2645,https://forms.house.gov/perlmutter/webforms/contact.shtml
-Jared Polis,CO,Qualified,5/12/1975,202-225-2161,https://polis.house.gov/forms/writeyourrep/default.aspx
-Scott Tipton,CO,Qualified,11/9/1956,202-225-4761,https://tipton.house.gov/contact-me/email-me
-Ken Buck,CO,Qualified,2/16/1959,202-225-4676,
+Jeff,Flake,AZ,Qualified,12/31/1962,202-224-4521,http://www.flake.senate.gov/contact.cfm
+Trent,Franks,AZ,Qualified,6/19/1957,202-225-4576,https://franks.house.gov/contact-me/email-me
+Paul,Gosar,AZ,Qualified,11/22/1958,202-225-2315,https://gosar.house.gov/contact-me/email-me
+Raúl,Grijalva,AZ,Qualified,2/19/1948,202-225-2435,https://grijalvaforms.house.gov/email-raul
+John,McCain,AZ,Qualified,8/29/1936,202-224-2235,http://www.mccain.senate.gov/public/index.cfm/contact-form
+David,Schweikert,AZ,Qualified,3/3/1962,202-225-2190,https://schweikert.house.gov/contact-form
+Matt,Salmon,AZ,Qualified,1/21/1958,202-225-2635,https://salmon.house.gov/contact/email-me
+Ann,Kirkpatrick,AZ,Qualified,3/24/1950,202-225-3361,https://kirkpatrick.house.gov/contact/email-me
+Kyrsten,Sinema,AZ,Qualified,7/12/1976,202-225-9888,https://sinemaforms.house.gov/forms/writeyourrep/
+Martha,McSally,AZ,Qualified,3/22/1966,202-225-2542,
+Ruben,Gallego,AZ,Qualified,11/20/1979,202-225-4065,
 Richard,Blumenthal,Qualified,2/13/1946,202-224-2823,https://www.blumenthal.senate.gov/contact/
 Joe,Courtney,Qualified,4/6/1953,202-225-2076,https://courtney.house.gov/email-joe1
 Rosa,DeLauro,Qualified,3/2/1943,202-225-3661,https://forms.house.gov/delauro/webforms/contact_form_email.shtml
