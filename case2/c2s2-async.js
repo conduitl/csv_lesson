@@ -2,26 +2,35 @@
 
 const fs = require('fs');
 var workflow = [readDirectory, readFiles, createOutputFile]; //serial workflow
-var folderPath = 'data';
-execute(folderPath);
-
+var settings = {
+  input: {
+    path: 'data'
+  },
+  output: {
+    path: 'output',
+    file: 'consolidated.csv'
+  }
+};
+execute(settings);
 // Workflow 
 // * readDirectory
 // * readFiles
 // * createOutputFile
-function readDirectory(path) {
-  fs.readdir('data', (err, files) => {
+function readDirectory(config) {
+  let path = config.input.path;
+  fs.readdir(path, (err, files) => {
     if (err) throw err;
-    next(null, files);
+    next(null, config, files);
   });
 }
 
-function readFiles(files) {
+function readFiles(config, files) {
+  let path = config.input.path;
   let supervisor = new Counter('readFile', 0, files.length);
   let consolidatedData = '';
 
   files.forEach( (file, index, array) => {
-    fs.readFile( folderPath + '/' + file, 'utf8', (err,  data) => { // I'd rather not use the global..folderPath
+    fs.readFile( path + '/' + file, 'utf8', (err,  data) => { // I'd rather not use the global..folderPath
       if (err) throw err;
       if (index === 0) {
         console.log('Files in array: ' + array.length );
@@ -36,16 +45,18 @@ function readFiles(files) {
       supervisor.increment();
       console.log( supervisor.checkIfComplete() + ' current: ' + supervisor.current );
       if ( supervisor.checkIfComplete() ) {
-        next(null, consolidatedData);
+        next(null, config, consolidatedData);
       }
     });
   });
 }
 
-function createOutputFile(data) {
-  fs.writeFile('output/consolidated.csv', data, (err) => {
+function createOutputFile(config, data) {
+  let path = config.output.path;
+  let file = config.output.file;
+  fs.writeFile(path + '/' + file, data, (err) => {
     if (err) throw err;
-    console.log('File written to: ' + 'output/consolidated.csv');
+    console.log('File written to: ' + path + '/' + file);
   });
 }
 
@@ -70,14 +81,14 @@ class Counter {
 
 
 // Workflow management
-function next(err, result) {
+function next(err, config, result) {
   if (err) throw err;
   var currentTask = workflow.shift();
   if (currentTask) {
-    currentTask(result);
+    currentTask(config, result);
   }
 }
 
-function execute( input ) {
-  next(null, input);
+function execute( config ) {
+  next(null, config);
 }
