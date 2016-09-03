@@ -10,102 +10,95 @@
 //   * write JSON file
 //   * use strict
 //   * Put the input filename in the last column of the consolidated csv
-const fs = require('fs'),
-      
-      dirPath = 'data/',
-      targetHeaders = ['first name', 'last name', 'state', 'type', 'birthday', 'phone', 'email'],
-      filenames = fs.readdirSync('data');
-
-const validate    = require('./util/validate'),
-	  consolidate = require('./util/process' ),
-      Log         = require('./util/log'     ),
-	  programLog = new Log({
-	    path: 'output/',   // folder(s) must exist; does not create folder(s)
-	    filename: 'program_log'
-	  });
-
-var tasks = [
-	[ processDirectory, [ filenames, dirPath ] ],
-	processFileData
-];
-
-//create alias
-function log (msg, formatting, to_console){
-	return programLog.append(msg, formatting, to_console);
-}
-
-processDirectory(filenames, dirPath);
-createFiles();
-
-function createFiles(){
-	fs.writeFileSync('output/consolidated.csv', consolidate() );
-	console.log('File written to: ' + 'output/consolidated.csv');
-
-	// consolidate validation log into program log
-	var validationLog;
-	validationLog = validate.log.report(['main', 'validation']);
-	log(validationLog.main, 'main');
-	log(validationLog.validation, 'validation');
-
-	// create log files
-	programLog.create(['summary', 'main', 'validation']);
-	validate.log.create(['main', 'validation']);
-}
-
-
-
-//********* Flow Control ********************
-function next(err, result) {
-	if (err) throw err;
-	var currentTask = tasks.shift();
-	if (currentTask) {
-		currentTask(result);
-	}
-}
-
-// *********Task Functions**********
-// processDirectory()
-// Reads directory
-// Logs directory contents
-// Calls next step in workflow
-function processDirectory(dir_files, dir_path){
-  var data;
-  
-  dir_files.forEach( (file, index, array) => {
-    if (index === 0) {
-      log( 'Files in array: ' + array.length, 'summary' );
-      consolidate(targetHeaders + '\r\n');
-      log('---File headers---');
-    }
-    data = fs.readFileSync(dir_path + file, 'utf8');
-    
-    log(file, 'summary', false);
-  
-    processFileData(data, { name: file, index: index });
+const fs = require('fs');
+var workflow = [readDirectory, readFiles, createOutputFile]; //serial workflow
+var settings = {
+  input: {
+    path: 'data'
+  },
+  output: {
+    path: 'output',
+    file: 'consolidated.csv'
+  }
+};
+execute(settings);
+// Workflow 
+// * readDirectory
+// * readFiles
+// * createOutputFile
+function readDirectory(config) {
+  let path = config.input.path;
+  fs.readdir(path, (err, files) => {
+    if (err) throw err;
+    next(null, config, files);
   });
 }
 
-function processFileData(data, context){
-  var processed;
-  
-  processed = processCsv(data);
+function readFiles(config, files) {
+  let path = config.input.path;
+  let supervisor = new Counter('readFile', 0, files.length);
+  let consolidatedData = '';
 
-  validate(processed.headers, targetHeaders.join(), context);
+  files.forEach( (file, index, array) => {
+    fs.readFile( path + '/' + file, 'utf8', (err,  data) => { // I'd rather not use the global..folderPath
+      if (err) throw err;
+      if (index === 0) {
+        console.log('Files in array: ' + array.length );
+        console.log( array );
+      } else {
+        data = data.split('\n');
+        data.shift();
+        data = data.join('\n');
+      }
 
-  processed.data = processed.data.join('\r\n');
-  consolidate( processed.data );
+      consolidatedData+= data;
+      supervisor.increment();
+      console.log( supervisor.checkIfComplete() + ' current: ' + supervisor.current );
+      if ( supervisor.checkIfComplete() ) {
+        next(null, config, consolidatedData);
+      }
+    });
+  });
+}
+
+function createOutputFile(config, data) {
+  let path = config.output.path;
+  let file = config.output.file;
+  fs.writeFile(path + '/' + file, data, (err) => {
+    if (err) throw err;
+    console.log('File written to: ' + path + '/' + file);
+  });
+}
+
+class Counter {
+  constructor(name, min, max) {
+    this.name = name;
+    this.min = min;
+    this.max = max;
+    this.current = 0;
+  }
+  get total() {
+    return this.max;
+  }
+  increment() {
+    return this.current++;
+  }
+  checkIfComplete() {
+    return this.current === this.max;
+  }
 }
 
 
 
-//********* CSV Processing Functions ********
-function processCsv(data){
-  var header_row;
-  data = data.split('\r\n');
-  header_row = data.shift();
-  
-  return { headers: header_row, data: data };
+// Workflow management
+function next(err, config, result) {
+  if (err) throw err;
+  var currentTask = workflow.shift();
+  if (currentTask) {
+    currentTask(config, result);
+  }
 }
 
-
-
+function execute( config ) {
+  next(null, config);
+}
