@@ -1,10 +1,10 @@
 // Case 2 
-
 const fs = require('fs');
+console.time('workflow');
 var workflow = [readDirectory, readFiles, createOutputFile]; //serial workflow
 var settings = {
   input: {
-    path: 'data'
+    path: '_source-data'
   },
   output: {
     path: 'output',
@@ -30,7 +30,7 @@ function readFiles(config, files) {
   let consolidatedData = '';
 
   files.forEach( (file, index, array) => {
-    fs.readFile( path + '/' + file, 'utf8', (err,  data) => { // I'd rather not use the global..folderPath
+    fs.readFile( path + '/' + file, 'utf8', (err,  data) => { 
       if (err) throw err;
       if (index === 0) {
         console.log('Files in array: ' + array.length );
@@ -43,7 +43,7 @@ function readFiles(config, files) {
 
       consolidatedData+= data;
       supervisor.increment();
-      console.log( supervisor.checkIfComplete() + ' current: ' + supervisor.current );
+      //console.log( supervisor.checkIfComplete() + ' current: ' + supervisor.current );
       if ( supervisor.checkIfComplete() ) {
         next(null, config, consolidatedData);
       }
@@ -57,6 +57,7 @@ function createOutputFile(config, data) {
   fs.writeFile(path + '/' + file, data, (err) => {
     if (err) throw err;
     console.log('File written to: ' + path + '/' + file);
+    next(null, config);
   });
 }
 
@@ -86,6 +87,8 @@ function next(err, config, result) {
   var currentTask = workflow.shift();
   if (currentTask) {
     currentTask(config, result);
+  } else {
+    console.timeEnd('workflow');
   }
 }
 
