@@ -1,4 +1,4 @@
-// Commit objective - Further breakdown csv inputs into 2 dimensional array [rows][cells] 
+// Commit objective - Support grabbing the header
 // Goal - support parsing to json
 // Case 2 
 const fs = require('fs');
@@ -35,11 +35,14 @@ function readFiles(config, files) {
   let consolidatedData = '';
 
   file_data = files.map( (file, index, array) => {
-    var data = fs.readFileSync(path + '/' + file, 'utf8');
+    let obj = {};
+    let data = fs.readFileSync(path + '/' + file, 'utf8');
     // sub workflow for csv
-    data = parse(config, data);   // input: string | output: string if i/o formats both csv
-
-    return data;
+    obj = parse(config, data);   // input: string | output: string if i/o formats both csv
+    if (index === 0) {
+      return obj.header + obj.data; // I have a problem here... this will not work for JSON
+    }
+    return obj.data;
   });
 
   consolidatedData = file_data.join('');
@@ -76,19 +79,28 @@ function execute( config ) {
 function parse(config, d){
   let input = config.input.format;
   let output = config.output.format;
+  let hdr = '';
 
   if (input === 'csv' && output === 'csv') {
+    hdr = retrieveCsvHeaders(d);
     d = parseCsvIntoRows(d);      // input: string | output: array
     d = parseCsvRowsIntoCells(d)  // input: array  | output: 2d array (table)
     d = joinCsvCellsIntoRows(d)   // input: 2d array | output: array
     d = joinCsvRows(d);           // input: array  | output: string
-    return d;
+    return { header: hdr, data: d };
+  } else if (input === 'csv' && output === 'json') {
+    d = parseCsvIntoRows(d);
+    d = parseCswRowsIntoCells(d);
   } else {
     return console.log('Operation not supported');
   }
 }
 // CSV parsing functions
 // decompose
+function retrieveCsvHeaders(d) {
+  d = d.split('\n');
+  return d.shift();
+}
 function parseCsvIntoRows(d) { //changed to have more accurate name
   d = d.split('\n');
   d.shift(); // strip header
