@@ -16,7 +16,7 @@ var settings = {
 execute(settings);
 // Workflow 
 // * readDirectory
-// * readFiles
+// * readFiles | iterates over files
 // * createOutputFile
 function readDirectory(config) {
   let path = config.input.path;
@@ -28,16 +28,19 @@ function readDirectory(config) {
 
 function readFiles(config, files) {
   let path = config.input.path;
+  let file_data = [];
   let consolidatedData = '';
 
-  files.forEach( (file, index, array) => {
+  file_data = files.map( (file, index, array) => {
     var data = fs.readFileSync(path + '/' + file, 'utf8');
-    // sub workflow
+    // sub workflow for csv
     data = parseCsv(data);   // input: string | output: array
     data = prepareCsv(data); // input: array  | output: string
 
-    consolidatedData+= data;
+    return data;
   });
+
+  consolidatedData = file_data.join();
 
   next(null, config, consolidatedData);
 }
@@ -68,6 +71,7 @@ function execute( config ) {
 
 // Sub workflow inside iterator
 // * function parse - identify input format, select appropriate parse
+// * CURRENTLY NOT IN USE
 function parse(config, d){
   let format = config.input.format;
   console.log('Input format is: ' + config.input.format);
