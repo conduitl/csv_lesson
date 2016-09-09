@@ -1,3 +1,5 @@
+// Commit objective - Further breakdown csv inputs into 2 dimensional array [rows][cells] 
+// Goal - support parsing to json
 // Case 2 
 const fs = require('fs');
 const path = require('path');
@@ -76,18 +78,42 @@ function parse(config, d){
   let output = config.output.format;
 
   if (input === 'csv' && output === 'csv') {
-    d = parseCsv(d);   // input: string | output: array
-    d = prepareCsv(d); // input: array  | output: string
+    d = parseCsvIntoRows(d);      // input: string | output: array
+    d = parseCsvRowsIntoCells(d)  // input: array  | output: 2d array (table)
+    d = joinCsvCellsIntoRows(d)   // input: 2d array | output: array
+    d = joinCsvRows(d);           // input: array  | output: string
     return d;
   } else {
     return console.log('Operation not supported');
   }
 }
-function parseCsv(d) {
-    d = d.split('\n');
-    d.shift();
-    return d;
+// CSV parsing functions
+// decompose
+function parseCsvIntoRows(d) { //changed to have more accurate name
+  d = d.split('\n');
+  d.shift(); // strip header
+  return d;
 }
-function prepareCsv(d) {
-    return d = d.join('\n');
+function parseCsvRowsIntoCells(d) {
+  let table = [];
+  table = d.map( (row) => {
+    return row.split(',');
+  });
+  return table; // 2d array
+}
+// put back together
+function joinCsvCellsIntoRows(d) {
+  let rows = [];
+  rows = d.map( (cells) => {
+    return cells.join(',');
+  });
+  return rows;
+}
+function joinCsvRows(d) {
+    return d.join('\n');
+}
+
+// JSON parsing functions
+function prepareJson() { // defer to next commit
+
 }
