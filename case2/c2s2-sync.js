@@ -5,7 +5,8 @@ console.time('workflow');
 var workflow = [readDirectory, readFiles, createOutputFile]; //serial workflow
 var settings = {
   input: {
-    path: '_source-data'
+    path: '_source-data',
+    format: 'csv'
   },
   output: {
     path: 'output',
@@ -20,6 +21,8 @@ execute(settings);
 function readDirectory(config) {
   let path = config.input.path;
   let files = fs.readdirSync(path);
+  console.log('Files: ' + files.length);
+  console.log(files);
   next(null, config, files);
 }
 
@@ -29,16 +32,9 @@ function readFiles(config, files) {
 
   files.forEach( (file, index, array) => {
     var data = fs.readFileSync(path + '/' + file, 'utf8');
-
-    if (index === 0) {
-      console.log( 'Files in array: ' + array.length );
-      console.log( array );
-    } else {
-      data = data.split('\n');
-      data.shift();
-      data = data.join('\n');
-    }
-    //console.log( '-Processed index [' + index + '] containing ' + file );
+    // sub workflow
+    data = parseCsv(data);   // input: string | output: array
+    data = prepareCsv(data); // input: array  | output: string
 
     consolidatedData+= data;
   });
@@ -68,4 +64,25 @@ function next(err, config, result) {
 
 function execute( config ) {
   next(null, config);
+}
+
+// Sub workflow inside iterator
+// * function parse - identify input format, select appropriate parse
+function parse(config, d){
+  let format = config.input.format;
+  console.log('Input format is: ' + config.input.format);
+  console.log('File: ' + f);
+  if (format === 'csv') {
+    parseCsv(config, d);
+  } else {
+    console.log('Format: ' + format + ' not recognized');
+  }
+}
+function parseCsv(d) {
+    d = d.split('\n');
+    d.shift();
+    return d;
+}
+function prepareCsv(d) {
+    return d = d.join('\n');
 }
