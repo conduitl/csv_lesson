@@ -10,7 +10,8 @@ var settings = {
   },
   output: {
     path: 'output',
-    file: 'consolidated.csv'
+    file: 'consolidated.csv',
+    format: 'csv'
   }
 };
 execute(settings);
@@ -34,13 +35,12 @@ function readFiles(config, files) {
   file_data = files.map( (file, index, array) => {
     var data = fs.readFileSync(path + '/' + file, 'utf8');
     // sub workflow for csv
-    data = parseCsv(data);   // input: string | output: array
-    data = prepareCsv(data); // input: array  | output: string
+    data = parse(config, data);   // input: string | output: string if i/o formats both csv
 
     return data;
   });
 
-  consolidatedData = file_data.join();
+  consolidatedData = file_data.join('');
 
   next(null, config, consolidatedData);
 }
@@ -71,15 +71,16 @@ function execute( config ) {
 
 // Sub workflow inside iterator
 // * function parse - identify input format, select appropriate parse
-// * CURRENTLY NOT IN USE
 function parse(config, d){
-  let format = config.input.format;
-  console.log('Input format is: ' + config.input.format);
-  console.log('File: ' + f);
-  if (format === 'csv') {
-    parseCsv(config, d);
+  let input = config.input.format;
+  let output = config.output.format;
+
+  if (input === 'csv' && output === 'csv') {
+    d = parseCsv(d);   // input: string | output: array
+    d = prepareCsv(d); // input: array  | output: string
+    return d;
   } else {
-    console.log('Format: ' + format + ' not recognized');
+    return console.log('Operation not supported');
   }
 }
 function parseCsv(d) {
