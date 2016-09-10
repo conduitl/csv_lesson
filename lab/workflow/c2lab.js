@@ -1,5 +1,5 @@
-// Commit objective - Support grabbing the header
-// Goal - write html table fragment
+// Commit objective - 
+// Goal - svg ouput
 // Case 2 
 const fs = require('fs');
 const path = require('path');
@@ -13,7 +13,7 @@ var settings = {
   output: {
     path: 'output',
     file: 'consolidated.html',
-    format: 'html'
+    format: 'svg'
   }
 };
 execute(settings);
@@ -48,9 +48,13 @@ function readFiles(config, files) {
   if (config.output.format === 'json') {
     consolidatedData = prepareJson(file_data);
   }
-  if (config.output.format === 'html'){
+  if (config.output.format === 'html') {
     consolidatedData = file_data.join('');
     consolidatedData = '<html><head><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"></head><body><table class="table">' + consolidatedData + '</table></body></html>';
+  }
+  if (config.output.format === 'svg') {
+    consolidatedData = file_data.join('');
+    consolidatedData = '<html><head></head><body><table>' + consolidatedData + '</table></body></html>';
   }
   next(null, config, consolidatedData);
 }
@@ -113,6 +117,16 @@ function parse(config, d, idx){
     d = transformTableArrayIntoObjArray(hdr, d); // output: array of objs [{}, ...]
     // unique steps
     d = buildHtmlTable(d);
+    return d;
+  } else if (output === 'svg') {
+    // same steps as going to JSON
+    hdr = retrieveCsvHeaders(d);
+    hdr = hdr.split(',');
+    d = parseCsvIntoRows(d);
+    d = parseCsvRowsIntoCells(d);
+    d = transformTableArrayIntoObjArray(hdr, d); // output: array of objs [{}, ...]
+    // unique steps
+    d = buildSvg(d);
     return d;
   } else {
     return console.log('Operation not supported');
@@ -188,4 +202,18 @@ function buildHtmlTable(d) {
     html+=row;
   }
   return html;
+}
+
+// Svg output
+function buildSvg(d) {
+  let container = '<tr><td>' + d[0].state + '</td><td><svg height="20" width="1000">';
+  let cx = 0;
+  for (let i = 0; i < d.length; i++) {
+    let circle = '';
+    cx+= 15;
+    circle = '<circle cx="' + cx + '" cy="8" r="5"  />';
+    container+= circle;
+  }
+  container+= '<text x="' + (cx + 15) + '" y="14">'+ d.length + '</text></svg></td></tr>';
+  return container;
 }
