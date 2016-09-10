@@ -12,7 +12,7 @@ var settings = {
   },
   output: {
     path: 'output',
-    file: 'consolidated.csv',
+    file: 'consolidated.json',
     format: 'json'
   }
 };
@@ -47,7 +47,7 @@ function readFiles(config, files) {
     consolidatedData = file_data.join('');
   }
   if (config.output.format === 'json') {
-    console.log(file_data);
+    consolidatedData = prepareJson(file_data);
   }
   next(null, config, consolidatedData);
 }
@@ -130,7 +130,9 @@ function transformTableArrayIntoObjArray(hdr, d) {
   doc = d.map( (arr) => {
     let obj = {};
     for (let i = 0; i < arr.length; i++){
-        obj[ hdr[i] ] = arr[i];
+        let key = hdr[i].trim();
+        let val = arr[i].trim();
+        obj[ key ] = val;
     }
     return obj;
   });
@@ -149,6 +151,6 @@ function joinCsvRows(d) {
 }
 
 // JSON parsing functions
-function prepareJson() { // defer to next commit
-
+function prepareJson(d) {
+  return JSON.stringify(d, null, 2);
 }

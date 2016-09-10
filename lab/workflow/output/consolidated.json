@@ -1,0 +1,4801 @@
+[
+  [
+    {
+      "first name": "Jefferson",
+      "last name": "Sessions",
+      "state": "AL",
+      "type": "Qualified",
+      "birthday": "12/24/1946",
+      "phone": "202-224-4124",
+      "email": "http://www.sessions.senate.gov/public/index.cfm/contact-jeff"
+    },
+    {
+      "first name": "Robert",
+      "last name": "Aderholt",
+      "state": "AL",
+      "type": "Qualified",
+      "birthday": "7/22/1965",
+      "phone": "202-225-4876",
+      "email": "http://aderholt.house.gov/email-me2/"
+    },
+    {
+      "first name": "Mo",
+      "last name": "Brooks",
+      "state": "AL",
+      "type": "Qualified",
+      "birthday": "4/29/1954",
+      "phone": "202-225-4801",
+      "email": "https://brooks.house.gov/email-me"
+    },
+    {
+      "first name": "Martha",
+      "last name": "Roby",
+      "state": "AL",
+      "type": "Qualified",
+      "birthday": "7/27/1976",
+      "phone": "202-225-2901",
+      "email": "https://roby.house.gov/contact-me"
+    },
+    {
+      "first name": "Mike",
+      "last name": "Rogers",
+      "state": "AL",
+      "type": "Qualified",
+      "birthday": "7/16/1958",
+      "phone": "202-225-3261",
+      "email": "http://mikerogers.house.gov/contact-mike/email-me"
+    },
+    {
+      "first name": "Terri",
+      "last name": "Sewell",
+      "state": "AL",
+      "type": "Qualified",
+      "birthday": "1/1/1965",
+      "phone": "202-225-2665",
+      "email": "https://sewell.house.gov/email-me"
+    },
+    {
+      "first name": "Richard",
+      "last name": "Shelby",
+      "state": "AL",
+      "type": "Qualified",
+      "birthday": "5/6/1934",
+      "phone": "202-224-5744",
+      "email": "http://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby"
+    },
+    {
+      "first name": "Bradley",
+      "last name": "Byrne",
+      "state": "AL",
+      "type": "Qualified",
+      "birthday": "2/16/1955",
+      "phone": "202-225-4931",
+      "email": "https://byrne.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Gary",
+      "last name": "Palmer",
+      "state": "AL",
+      "type": "Qualified",
+      "birthday": "5/14/1954",
+      "phone": "202-225-4921",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Lisa",
+      "last name": "Murkowski",
+      "state": "AK",
+      "type": "Qualified",
+      "birthday": "5/22/1957",
+      "phone": "202-224-6665",
+      "email": "http://www.murkowski.senate.gov/public/index.cfm?p=EMailLisa"
+    },
+    {
+      "first name": "Don",
+      "last name": "Young",
+      "state": "AK",
+      "type": "Qualified",
+      "birthday": "6/9/1933",
+      "phone": "202-225-5765",
+      "email": "https://donyoung.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Dan",
+      "last name": "Sullivan",
+      "state": "AK",
+      "type": "Qualified",
+      "birthday": "11/13/1964",
+      "phone": "202-224-3004",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Jeff",
+      "last name": "Flake",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "12/31/1962",
+      "phone": "202-224-4521",
+      "email": "http://www.flake.senate.gov/contact.cfm"
+    },
+    {
+      "first name": "Trent",
+      "last name": "Franks",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "6/19/1957",
+      "phone": "202-225-4576",
+      "email": "https://franks.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Paul",
+      "last name": "Gosar",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "11/22/1958",
+      "phone": "202-225-2315",
+      "email": "https://gosar.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Raúl",
+      "last name": "Grijalva",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "2/19/1948",
+      "phone": "202-225-2435",
+      "email": "https://grijalvaforms.house.gov/email-raul"
+    },
+    {
+      "first name": "John",
+      "last name": "McCain",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "8/29/1936",
+      "phone": "202-224-2235",
+      "email": "http://www.mccain.senate.gov/public/index.cfm/contact-form"
+    },
+    {
+      "first name": "David",
+      "last name": "Schweikert",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "3/3/1962",
+      "phone": "202-225-2190",
+      "email": "https://schweikert.house.gov/contact-form"
+    },
+    {
+      "first name": "Matt",
+      "last name": "Salmon",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "1/21/1958",
+      "phone": "202-225-2635",
+      "email": "https://salmon.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Ann",
+      "last name": "Kirkpatrick",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "3/24/1950",
+      "phone": "202-225-3361",
+      "email": "https://kirkpatrick.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Kyrsten",
+      "last name": "Sinema",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "7/12/1976",
+      "phone": "202-225-9888",
+      "email": "https://sinemaforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Martha",
+      "last name": "McSally",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "3/22/1966",
+      "phone": "202-225-2542",
+      "email": ""
+    },
+    {
+      "first name": "Ruben",
+      "last name": "Gallego",
+      "state": "AZ",
+      "type": "Qualified",
+      "birthday": "11/20/1979",
+      "phone": "202-225-4065",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "John",
+      "last name": "Boozman",
+      "state": "AR",
+      "type": "Qualified",
+      "birthday": "12/10/1950",
+      "phone": "202-224-4843",
+      "email": "http://www.boozman.senate.gov/public/index.cfm/e-mail-me"
+    },
+    {
+      "first name": "Eric",
+      "last name": "Crawford",
+      "state": "AR",
+      "type": "Qualified",
+      "birthday": "1/22/1966",
+      "phone": "202-225-4076",
+      "email": "http://crawford.house.gov/contact/"
+    },
+    {
+      "first name": "Steve",
+      "last name": "Womack",
+      "state": "AR",
+      "type": "Qualified",
+      "birthday": "2/18/1957",
+      "phone": "202-225-4301",
+      "email": "https://womack.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Tom",
+      "last name": "Cotton",
+      "state": "AR",
+      "type": "Qualified",
+      "birthday": "5/13/1977",
+      "phone": "202-224-2353",
+      "email": ""
+    },
+    {
+      "first name": "French",
+      "last name": "Hill",
+      "state": "AR",
+      "type": "Qualified",
+      "birthday": "12/5/1956",
+      "phone": "202-225-2506",
+      "email": ""
+    },
+    {
+      "first name": "Bruce",
+      "last name": "Westerman",
+      "state": "AR",
+      "type": "Qualified",
+      "birthday": "11/18/1967",
+      "phone": "202-225-3772",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Dianne",
+      "last name": "Feinstein",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "6/22/1933",
+      "phone": "202-224-3841",
+      "email": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me"
+    },
+    {
+      "first name": "Karen",
+      "last name": "Bass",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "10/3/1953",
+      "phone": "202-225-7084",
+      "email": "https://bass.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Xavier",
+      "last name": "Becerra",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "1/26/1958",
+      "phone": "202-225-6235",
+      "email": "http://becerraforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Barbara",
+      "last name": "Boxer",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "11/11/1940",
+      "phone": "202-224-3553",
+      "email": "https://www.boxer.senate.gov/contact/shareyourviews.html"
+    },
+    {
+      "first name": "Ken",
+      "last name": "Calvert",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "6/8/1953",
+      "phone": "202-225-1986",
+      "email": "https://calvert.house.gov/contactform/"
+    },
+    {
+      "first name": "Lois",
+      "last name": "Capps",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "1/10/1938",
+      "phone": "202-225-3601",
+      "email": "https://capps.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Judy",
+      "last name": "Chu",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "7/7/1953",
+      "phone": "202-225-5464",
+      "email": "http://chu.house.gov/connect-with-me/email-judy"
+    },
+    {
+      "first name": "Jim",
+      "last name": "Costa",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "4/13/1952",
+      "phone": "202-225-3341",
+      "email": "http://www.house.gov/formcosta/issue.htm"
+    },
+    {
+      "first name": "Susan",
+      "last name": "Davis",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "4/13/1944",
+      "phone": "202-225-2040",
+      "email": "https://susandavisforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Jeff",
+      "last name": "Denham",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "7/29/1967",
+      "phone": "202-225-4540",
+      "email": "https://denham.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Anna",
+      "last name": "Eshoo",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "12/13/1942",
+      "phone": "202-225-8104",
+      "email": "https://eshoo.house.gov/email-me/"
+    },
+    {
+      "first name": "Sam",
+      "last name": "Farr",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "7/4/1941",
+      "phone": "202-225-2861",
+      "email": "https://forms.house.gov/farr/webforms/issue_subscribe.html"
+    },
+    {
+      "first name": "John",
+      "last name": "Garamendi",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "1/24/1945",
+      "phone": "202-225-1880",
+      "email": "https://garamendi.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Michael",
+      "last name": "Honda",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "6/27/1941",
+      "phone": "202-225-2631",
+      "email": "http://honda.house.gov/contact"
+    },
+    {
+      "first name": "Duncan",
+      "last name": "Hunter",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "12/7/1976",
+      "phone": "202-225-5672",
+      "email": "https://hunter.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Darrell",
+      "last name": "Issa",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "11/1/1953",
+      "phone": "202-225-3906",
+      "email": "http://issa.house.gov/contact/contact-me"
+    },
+    {
+      "first name": "Barbara",
+      "last name": "Lee",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "7/16/1946",
+      "phone": "202-225-2661",
+      "email": "http://lee.house.gov/contact-the-office/email-me"
+    },
+    {
+      "first name": "Zoe",
+      "last name": "Lofgren",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "12/21/1947",
+      "phone": "202-225-3072",
+      "email": "http://lofgren.house.gov/contact/"
+    },
+    {
+      "first name": "Doris",
+      "last name": "Matsui",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "9/25/1944",
+      "phone": "202-225-7163",
+      "email": "https://matsui.house.gov/email-representative-matsui"
+    },
+    {
+      "first name": "Kevin",
+      "last name": "McCarthy",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "1/26/1965",
+      "phone": "202-225-2915",
+      "email": "https://kevinmccarthy.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Tom",
+      "last name": "McClintock",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "7/10/1956",
+      "phone": "202-225-2511",
+      "email": "https://mcclintockforms.house.gov/forms/contact-form.shtml"
+    },
+    {
+      "first name": "Jerry",
+      "last name": "McNerney",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "6/18/1951",
+      "phone": "202-225-1947",
+      "email": "https://mcnerney.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Grace",
+      "last name": "Napolitano",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "12/4/1936",
+      "phone": "202-225-5256",
+      "email": "https://napolitano.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Devin",
+      "last name": "Nunes",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "10/1/1973",
+      "phone": "202-225-2523",
+      "email": "https://nunes.house.gov/contactform/default.aspx"
+    },
+    {
+      "first name": "Nancy",
+      "last name": "Pelosi",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "3/26/1940",
+      "phone": "202-225-4965",
+      "email": "http://pelosi.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Dana",
+      "last name": "Rohrabacher",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "6/21/1947",
+      "phone": "202-225-2415",
+      "email": "https://rohrabacher.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Lucille",
+      "last name": "Roybal-Allard",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "6/12/1941",
+      "phone": "202-225-1766",
+      "email": "http://roybal-allard.house.gov/contact/"
+    },
+    {
+      "first name": "Edward",
+      "last name": "Royce",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "10/12/1951",
+      "phone": "202-225-4111",
+      "email": "https://royce.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Loretta",
+      "last name": "Sanchez",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "1/7/1960",
+      "phone": "202-225-2965",
+      "email": "https://lorettasanchez.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Adam",
+      "last name": "Schiff",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "6/22/1960",
+      "phone": "202-225-4176",
+      "email": "https://schiff.house.gov/contact"
+    },
+    {
+      "first name": "Brad",
+      "last name": "Sherman",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "10/24/1954",
+      "phone": "202-225-5911",
+      "email": "http://sherman.house.gov/contact/contact-congressman-sherman-form"
+    },
+    {
+      "first name": "Jackie",
+      "last name": "Speier",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "5/14/1950",
+      "phone": "202-225-3531",
+      "email": "https://forms.house.gov/speier/webforms/email_jackie.shtml"
+    },
+    {
+      "first name": "Linda",
+      "last name": "Sánchez",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "1/28/1969",
+      "phone": "202-225-6676",
+      "email": "https://forms.house.gov/lindasanchez/webforms/issue_subscribe.htm"
+    },
+    {
+      "first name": "Mike",
+      "last name": "Thompson",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "1/24/1951",
+      "phone": "202-225-3311",
+      "email": "https://mikethompson.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Maxine",
+      "last name": "Waters",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "8/15/1938",
+      "phone": "202-225-2201",
+      "email": "https://waters.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Janice",
+      "last name": "Hahn",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "3/30/1952",
+      "phone": "202-225-8220",
+      "email": "https://hahn.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Doug",
+      "last name": "LaMalfa",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "7/2/1960",
+      "phone": "202-225-3076",
+      "email": "https://lamalfa.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Jared",
+      "last name": "Huffman",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "2/18/1964",
+      "phone": "202-225-5161",
+      "email": "https://huffman.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Ami",
+      "last name": "Bera",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "3/2/1965",
+      "phone": "202-225-5716",
+      "email": "https://beraforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Paul",
+      "last name": "Cook",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "3/3/1943",
+      "phone": "202-225-5861",
+      "email": "https://cook.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Eric",
+      "last name": "Swalwell",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "11/16/1980",
+      "phone": "202-225-5065",
+      "email": "http://swalwell.house.gov/contact-me/email-eric/"
+    },
+    {
+      "first name": "David",
+      "last name": "Valadao",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "4/14/1977",
+      "phone": "202-225-4695",
+      "email": "http://valadao.house.gov/contact/"
+    },
+    {
+      "first name": "Julia",
+      "last name": "Brownley",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "8/28/1952",
+      "phone": "202-225-5811",
+      "email": "https://juliabrownley.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Tony",
+      "last name": "Cárdenas",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "3/31/1963",
+      "phone": "202-225-6131",
+      "email": "https://cardenas.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Raul",
+      "last name": "Ruiz",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "8/25/1972",
+      "phone": "202-225-5330",
+      "email": "https://ruiz.house.gov/email-me"
+    },
+    {
+      "first name": "Mark",
+      "last name": "Takano",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "12/10/1960",
+      "phone": "202-225-2305",
+      "email": "https://takano.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Alan",
+      "last name": "Lowenthal",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "3/8/1941",
+      "phone": "202-225-7924",
+      "email": "http://lowenthal.house.gov/contact/howtocontactme.htm"
+    },
+    {
+      "first name": "Juan",
+      "last name": "Vargas",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "3/7/1961",
+      "phone": "202-225-8045",
+      "email": "https://vargas.house.gov/contact"
+    },
+    {
+      "first name": "Scott",
+      "last name": "Peters",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "6/17/1958",
+      "phone": "202-225-0508",
+      "email": "https://scottpeters.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Mark",
+      "last name": "DeSaulnier",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "3/31/1952",
+      "phone": "202-225-2095",
+      "email": ""
+    },
+    {
+      "first name": "Steve",
+      "last name": "Knight",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "12/17/1966",
+      "phone": "202-225-1956",
+      "email": ""
+    },
+    {
+      "first name": "Pete",
+      "last name": "Aguilar",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "6/19/1979",
+      "phone": "202-225-3201",
+      "email": ""
+    },
+    {
+      "first name": "Ted",
+      "last name": "Lieu",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "3/29/1969",
+      "phone": "202-225-3976",
+      "email": ""
+    },
+    {
+      "first name": "Norma",
+      "last name": "Torres",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "4/4/1965",
+      "phone": "202-225-6161",
+      "email": ""
+    },
+    {
+      "first name": "Mimi",
+      "last name": "Walters",
+      "state": "CA",
+      "type": "Qualified",
+      "birthday": "5/14/1962",
+      "phone": "202-225-5611",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Michael",
+      "last name": "Bennet",
+      "state": "CO",
+      "type": "Qualified",
+      "birthday": "11/28/1964",
+      "phone": "202-224-5852",
+      "email": "http://www.bennet.senate.gov/contact/email"
+    },
+    {
+      "first name": "Mike",
+      "last name": "Coffman",
+      "state": "CO",
+      "type": "Qualified",
+      "birthday": "3/19/1955",
+      "phone": "202-225-7882",
+      "email": "https://coffman.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Diana",
+      "last name": "DeGette",
+      "state": "CO",
+      "type": "Qualified",
+      "birthday": "7/29/1957",
+      "phone": "202-225-4431",
+      "email": "https://degette.house.gov/contact/send-me-an-email/email-me"
+    },
+    {
+      "first name": "Cory",
+      "last name": "Gardner",
+      "state": "CO",
+      "type": "Qualified",
+      "birthday": "8/22/1974",
+      "phone": "202-224-5941",
+      "email": ""
+    },
+    {
+      "first name": "Doug",
+      "last name": "Lamborn",
+      "state": "CO",
+      "type": "Qualified",
+      "birthday": "5/24/1954",
+      "phone": "202-225-4422",
+      "email": "https://lambornforms.house.gov/contact-form"
+    },
+    {
+      "first name": "Ed",
+      "last name": "Perlmutter",
+      "state": "CO",
+      "type": "Qualified",
+      "birthday": "5/1/1953",
+      "phone": "202-225-2645",
+      "email": "https://forms.house.gov/perlmutter/webforms/contact.shtml"
+    },
+    {
+      "first name": "Jared",
+      "last name": "Polis",
+      "state": "CO",
+      "type": "Qualified",
+      "birthday": "5/12/1975",
+      "phone": "202-225-2161",
+      "email": "https://polis.house.gov/forms/writeyourrep/default.aspx"
+    },
+    {
+      "first name": "Scott",
+      "last name": "Tipton",
+      "state": "CO",
+      "type": "Qualified",
+      "birthday": "11/9/1956",
+      "phone": "202-225-4761",
+      "email": "https://tipton.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Ken",
+      "last name": "Buck",
+      "state": "CO",
+      "type": "Qualified",
+      "birthday": "2/16/1959",
+      "phone": "202-225-4676",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Richard",
+      "last name": "Blumenthal",
+      "state": "CT",
+      "type": "Qualified",
+      "birthday": "2/13/1946",
+      "phone": "202-224-2823",
+      "email": "https://www.blumenthal.senate.gov/contact/"
+    },
+    {
+      "first name": "Joe",
+      "last name": "Courtney",
+      "state": "CT",
+      "type": "Qualified",
+      "birthday": "4/6/1953",
+      "phone": "202-225-2076",
+      "email": "https://courtney.house.gov/email-joe1"
+    },
+    {
+      "first name": "Rosa",
+      "last name": "DeLauro",
+      "state": "CT",
+      "type": "Qualified",
+      "birthday": "3/2/1943",
+      "phone": "202-225-3661",
+      "email": "https://forms.house.gov/delauro/webforms/contact_form_email.shtml"
+    },
+    {
+      "first name": "James",
+      "last name": "Himes",
+      "state": "CT",
+      "type": "Qualified",
+      "birthday": "7/5/1966",
+      "phone": "202-225-5541",
+      "email": "https://himes.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "John",
+      "last name": "Larson",
+      "state": "CT",
+      "type": "Qualified",
+      "birthday": "7/22/1948",
+      "phone": "202-225-2265",
+      "email": "https://forms.house.gov/larson/contact_new.html"
+    },
+    {
+      "first name": "Christopher",
+      "last name": "Murphy",
+      "state": "CT",
+      "type": "Qualified",
+      "birthday": "8/3/1973",
+      "phone": "202-224-4041",
+      "email": "http://www.murphy.senate.gov/contact"
+    },
+    {
+      "first name": "Elizabeth",
+      "last name": "Esty",
+      "state": "CT",
+      "type": "Qualified",
+      "birthday": "8/25/1959",
+      "phone": "202-225-4476",
+      "email": "http://esty.house.gov/contact"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Thomas",
+      "last name": "Carper",
+      "state": "DE",
+      "type": "Qualified",
+      "birthday": "1/23/1947",
+      "phone": "202-224-2441",
+      "email": "http://www.carper.senate.gov/public/index.cfm/email-senator-carper"
+    },
+    {
+      "first name": "Chris",
+      "last name": "Coons",
+      "state": "DE",
+      "type": "Qualified",
+      "birthday": "9/9/1963",
+      "phone": "202-224-5042",
+      "email": "http://www.coons.senate.gov/contact/"
+    },
+    {
+      "first name": "John",
+      "last name": "Carney",
+      "state": "DE",
+      "type": "Qualified",
+      "birthday": "5/20/1956",
+      "phone": "202-225-4165",
+      "email": "https://forms.house.gov/carney/webforms/email-me.shtml"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Sanford",
+      "last name": "Bishop",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "2/4/1947",
+      "phone": "202-225-3631",
+      "email": "http://bishop.house.gov/contact"
+    },
+    {
+      "first name": "Tom",
+      "last name": "Graves",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "2/3/1970",
+      "phone": "202-225-5211",
+      "email": "http://tomgraves.house.gov/contact/"
+    },
+    {
+      "first name": "John",
+      "last name": "Isakson",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "12/28/1944",
+      "phone": "202-224-3643",
+      "email": "http://www.isakson.senate.gov/public/index.cfm/email-me"
+    },
+    {
+      "first name": "Henry",
+      "last name": "Johnson",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "10/2/1954",
+      "phone": "202-225-1605",
+      "email": "https://hankjohnson.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "John",
+      "last name": "Lewis",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "2/21/1940",
+      "phone": "202-225-3801",
+      "email": "https://johnlewis.house.gov/contact-me/email-me-zip"
+    },
+    {
+      "first name": "Tom",
+      "last name": "Price",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "10/8/1954",
+      "phone": "202-225-4501",
+      "email": "https://tomprice.house.gov/contact-me"
+    },
+    {
+      "first name": "Austin",
+      "last name": "Scott",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "12/10/1969",
+      "phone": "202-225-6531",
+      "email": "https://austinscott.house.gov/email-me/"
+    },
+    {
+      "first name": "David",
+      "last name": "Scott",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "6/27/1945",
+      "phone": "202-225-2939",
+      "email": "https://davidscott.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Lynn",
+      "last name": "Westmoreland",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "4/2/1950",
+      "phone": "202-225-5901",
+      "email": "https://westmoreland.house.gov/email-me"
+    },
+    {
+      "first name": "Rob",
+      "last name": "Woodall",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "2/11/1970",
+      "phone": "202-225-4272",
+      "email": "https://woodall.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Doug",
+      "last name": "Collins",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "8/16/1966",
+      "phone": "202-225-9893",
+      "email": "https://dougcollins.house.gov/email-me"
+    },
+    {
+      "first name": "Buddy",
+      "last name": "Carter",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "9/6/1957",
+      "phone": "202-225-5831",
+      "email": ""
+    },
+    {
+      "first name": "Jody",
+      "last name": "Hice",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "4/22/1960",
+      "phone": "202-225-4101",
+      "email": ""
+    },
+    {
+      "first name": "Barry",
+      "last name": "Loudermilk",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "12/22/1963",
+      "phone": "202-225-2931",
+      "email": ""
+    },
+    {
+      "first name": "Rick",
+      "last name": "Allen",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "11/7/1951",
+      "phone": "202-225-2823",
+      "email": ""
+    },
+    {
+      "first name": "David",
+      "last name": "Perdue",
+      "state": "GA",
+      "type": "Qualified",
+      "birthday": "12/10/1949",
+      "phone": "202-224-3521",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Mazie",
+      "last name": "Hirono",
+      "state": "HI",
+      "type": "Qualified",
+      "birthday": "11/3/1947",
+      "phone": "202-224-6361",
+      "email": "http://www.hirono.senate.gov/contact/email"
+    },
+    {
+      "first name": "Brian",
+      "last name": "Schatz",
+      "state": "HI",
+      "type": "Qualified",
+      "birthday": "10/20/1972",
+      "phone": "202-224-3934",
+      "email": "http://www.schatz.senate.gov/contact"
+    },
+    {
+      "first name": "Tulsi",
+      "last name": "Gabbard",
+      "state": "HI",
+      "type": "Qualified",
+      "birthday": "4/12/1981",
+      "phone": "202-225-4906",
+      "email": "https://forms.house.gov/formsgabbard/webforms/email-me.shtml"
+    },
+    {
+      "first name": "Mark",
+      "last name": "Takai",
+      "state": "HI",
+      "type": "Qualified",
+      "birthday": "7/1/1967",
+      "phone": "202-225-2726",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "James",
+      "last name": "Risch",
+      "state": "ID",
+      "type": "Qualified",
+      "birthday": "5/3/1943",
+      "phone": "202-224-2752",
+      "email": "http://www.risch.senate.gov/public/index.cfm?p=Email"
+    },
+    {
+      "first name": "Michael",
+      "last name": "Crapo",
+      "state": "ID",
+      "type": "Qualified",
+      "birthday": "5/20/1951",
+      "phone": "202-224-6142",
+      "email": "http://www.crapo.senate.gov/contact/email.cfm"
+    },
+    {
+      "first name": "Raúl",
+      "last name": "Labrador",
+      "state": "ID",
+      "type": "Qualified",
+      "birthday": "12/8/1967",
+      "phone": "202-225-6611",
+      "email": "https://labradorforms.house.gov/email-me"
+    },
+    {
+      "first name": "Michael",
+      "last name": "Simpson",
+      "state": "ID",
+      "type": "Qualified",
+      "birthday": "9/8/1950",
+      "phone": "202-225-5531",
+      "email": "http://simpson.house.gov/contact/"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Richard",
+      "last name": "Durbin",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "11/21/1944",
+      "phone": "202-224-2152",
+      "email": "http://www.durbin.senate.gov/public/index.cfm/contact"
+    },
+    {
+      "first name": "Danny",
+      "last name": "Davis",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "9/6/1941",
+      "phone": "202-225-5006",
+      "email": "https://davis.house.gov/email-me"
+    },
+    {
+      "first name": "Luis",
+      "last name": "Gutiérrez",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "12/10/1953",
+      "phone": "202-225-8203",
+      "email": "http://gutierrezforms.house.gov/contact/"
+    },
+    {
+      "first name": "Randy",
+      "last name": "Hultgren",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "3/1/1966",
+      "phone": "202-225-2976",
+      "email": "https://hultgren.house.gov/contact/email-randy"
+    },
+    {
+      "first name": "Adam",
+      "last name": "Kinzinger",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "2/27/1978",
+      "phone": "202-225-3635",
+      "email": "https://kinzinger.house.gov/email-adam"
+    },
+    {
+      "first name": "Mark",
+      "last name": "Kirk",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "9/15/1959",
+      "phone": "202-224-2854",
+      "email": "http://www.kirk.senate.gov/?p=comment_on_legislation"
+    },
+    {
+      "first name": "Daniel",
+      "last name": "Lipinski",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "7/15/1966",
+      "phone": "202-225-5701",
+      "email": "https://lipinskiforms.house.gov/contact-form"
+    },
+    {
+      "first name": "Mike",
+      "last name": "Quigley",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "10/17/1958",
+      "phone": "202-225-4061",
+      "email": "https://quigleyforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Peter",
+      "last name": "Roskam",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "9/13/1961",
+      "phone": "202-225-4561",
+      "email": "https://roskam.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Bobby",
+      "last name": "Rush",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "11/23/1946",
+      "phone": "202-225-4372",
+      "email": "https://rush.house.gov/contact-me/legislative-issues"
+    },
+    {
+      "first name": "Janice",
+      "last name": "Schakowsky",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "5/26/1944",
+      "phone": "202-225-2111",
+      "email": "https://schakowsky.house.gov/write-to-congresswoman-jan-schakowsky"
+    },
+    {
+      "first name": "John",
+      "last name": "Shimkus",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "2/21/1958",
+      "phone": "202-225-5271",
+      "email": "https://shimkus.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Bill",
+      "last name": "Foster",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "10/7/1955",
+      "phone": "202-225-3515",
+      "email": "https://foster.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Tammy",
+      "last name": "Duckworth",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "3/12/1968",
+      "phone": "202-225-3711",
+      "email": "https://duckworth.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Rodney",
+      "last name": "Davis",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "1/5/1970",
+      "phone": "202-225-2371",
+      "email": "https://rodneydavisforms.house.gov/contact/"
+    },
+    {
+      "first name": "Cheri",
+      "last name": "Bustos",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "10/17/1961",
+      "phone": "202-225-5905",
+      "email": "http://bustos.house.gov/contact"
+    },
+    {
+      "first name": "Robin",
+      "last name": "Kelly",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "4/30/1956",
+      "phone": "202-225-0773",
+      "email": "https://robinkelly.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Bob",
+      "last name": "Dold",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "6/23/1969",
+      "phone": "202-225-4835",
+      "email": ""
+    },
+    {
+      "first name": "Mike",
+      "last name": "Bost",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "12/30/1960",
+      "phone": "202-225-5661",
+      "email": ""
+    },
+    {
+      "first name": "Darin",
+      "last name": "LaHood",
+      "state": "IL",
+      "type": "Qualified",
+      "birthday": "7/5/1968",
+      "phone": "202-225-6201",
+      "email": "https://lahood.house.gov/contact/email"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Larry",
+      "last name": "Bucshon",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "5/31/1962",
+      "phone": "202-225-4636",
+      "email": "https://bucshon.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "André",
+      "last name": "Carson",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "10/16/1974",
+      "phone": "202-225-4011",
+      "email": "https://carson.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Daniel",
+      "last name": "Coats",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "5/16/1943",
+      "phone": "202-224-5623",
+      "email": "http://www.coats.senate.gov/contact/"
+    },
+    {
+      "first name": "Joe",
+      "last name": "Donnelly",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "9/28/1955",
+      "phone": "202-224-4814",
+      "email": "http://www.donnelly.senate.gov/contact/email-joe"
+    },
+    {
+      "first name": "Todd",
+      "last name": "Rokita",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "2/9/1970",
+      "phone": "202-225-5037",
+      "email": "https://rokita.house.gov/contact-me"
+    },
+    {
+      "first name": "Marlin",
+      "last name": "Stutzman",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "8/31/1976",
+      "phone": "202-225-4436",
+      "email": "http://stutzman.house.gov/contacts/new"
+    },
+    {
+      "first name": "Peter",
+      "last name": "Visclosky",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "8/13/1949",
+      "phone": "202-225-2461",
+      "email": "https://visclosky.house.gov/contact-pete/email-pete"
+    },
+    {
+      "first name": "Todd",
+      "last name": "Young",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "8/24/1972",
+      "phone": "202-225-5315",
+      "email": "https://toddyoungforms.house.gov/give-me-your-opinion"
+    },
+    {
+      "first name": "Jackie",
+      "last name": "Walorski",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "8/17/1963",
+      "phone": "202-225-3915",
+      "email": "https://walorski.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Susan",
+      "last name": "Brooks",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "8/25/1960",
+      "phone": "202-225-2276",
+      "email": "https://susanwbrooks.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Luke",
+      "last name": "Messer",
+      "state": "IN",
+      "type": "Qualified",
+      "birthday": "2/27/1969",
+      "phone": "202-225-3021",
+      "email": "https://messer.house.gov/contact/email-me"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Charles",
+      "last name": "Grassley",
+      "state": "IA",
+      "type": "Qualified",
+      "birthday": "9/17/1933",
+      "phone": "202-224-3744",
+      "email": "http://www.grassley.senate.gov/constituents/questions-and-comments"
+    },
+    {
+      "first name": "Steve",
+      "last name": "King",
+      "state": "IA",
+      "type": "Qualified",
+      "birthday": "5/28/1949",
+      "phone": "202-225-4426",
+      "email": "https://forms.house.gov/king/webforms/issue_subscribe.html"
+    },
+    {
+      "first name": "David",
+      "last name": "Loebsack",
+      "state": "IA",
+      "type": "Qualified",
+      "birthday": "12/23/1952",
+      "phone": "202-225-6576",
+      "email": "https://loebsack.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Rod",
+      "last name": "Blum",
+      "state": "IA",
+      "type": "Qualified",
+      "birthday": "4/26/1955",
+      "phone": "202-225-2911",
+      "email": ""
+    },
+    {
+      "first name": "David",
+      "last name": "Young",
+      "state": "IA",
+      "type": "Qualified",
+      "birthday": "5/11/1968",
+      "phone": "202-225-5476",
+      "email": ""
+    },
+    {
+      "first name": "Joni",
+      "last name": "Ernst",
+      "state": "IA",
+      "type": "Qualified",
+      "birthday": "7/1/1970",
+      "phone": "202-224-3254",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Pat",
+      "last name": "Roberts",
+      "state": "KS",
+      "type": "Qualified",
+      "birthday": "4/20/1936",
+      "phone": "202-224-4774",
+      "email": "http://www.roberts.senate.gov/public/index.cfm?p=EmailPat"
+    },
+    {
+      "first name": "Tim",
+      "last name": "Huelskamp",
+      "state": "KS",
+      "type": "Qualified",
+      "birthday": "11/11/1968",
+      "phone": "202-225-2715",
+      "email": "https://huelskamp.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Lynn",
+      "last name": "Jenkins",
+      "state": "KS",
+      "type": "Qualified",
+      "birthday": "6/10/1963",
+      "phone": "202-225-6601",
+      "email": "https://lynnjenkins.house.gov/contact-me"
+    },
+    {
+      "first name": "Jerry",
+      "last name": "Moran",
+      "state": "KS",
+      "type": "Qualified",
+      "birthday": "5/29/1954",
+      "phone": "202-224-6521",
+      "email": "http://www.moran.senate.gov/public/index.cfm/e-mail-jerry"
+    },
+    {
+      "first name": "Mike",
+      "last name": "Pompeo",
+      "state": "KS",
+      "type": "Qualified",
+      "birthday": "12/30/1963",
+      "phone": "202-225-6216",
+      "email": "https://pompeo.house.gov/contact/contactform.htm?zip5=$ADDRESS_ZIP5"
+    },
+    {
+      "first name": "Kevin",
+      "last name": "Yoder",
+      "state": "KS",
+      "type": "Qualified",
+      "birthday": "1/8/1976",
+      "phone": "202-225-2865",
+      "email": "https://yoder.house.gov/contact/email-me"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Mitch",
+      "last name": "McConnell",
+      "state": "KY",
+      "type": "Qualified",
+      "birthday": "2/20/1942",
+      "phone": "202-224-2541",
+      "email": "http://www.mcconnell.senate.gov/public/index.cfm?p=ContactForm"
+    },
+    {
+      "first name": "Brett",
+      "last name": "Guthrie",
+      "state": "KY",
+      "type": "Qualified",
+      "birthday": "2/18/1964",
+      "phone": "202-225-3501",
+      "email": "http://brettguthrieforms.house.gov/contact/"
+    },
+    {
+      "first name": "Rand",
+      "last name": "Paul",
+      "state": "KY",
+      "type": "Qualified",
+      "birthday": "1/7/1963",
+      "phone": "202-224-4343",
+      "email": "http://www.paul.senate.gov/?p=contact"
+    },
+    {
+      "first name": "Harold",
+      "last name": "Rogers",
+      "state": "KY",
+      "type": "Qualified",
+      "birthday": "12/31/1937",
+      "phone": "202-225-4601",
+      "email": "https://halrogers.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Ed",
+      "last name": "Whitfield",
+      "state": "KY",
+      "type": "Qualified",
+      "birthday": "5/25/1943",
+      "phone": "202-225-3115",
+      "email": "https://whitfield.house.gov/contact/email-me"
+    },
+    {
+      "first name": "John",
+      "last name": "Yarmuth",
+      "state": "KY",
+      "type": "Qualified",
+      "birthday": "11/4/1947",
+      "phone": "202-225-5401",
+      "email": "http://yarmuth.house.gov/contact-john2/"
+    },
+    {
+      "first name": "Thomas",
+      "last name": "Massie",
+      "state": "KY",
+      "type": "Qualified",
+      "birthday": "1/13/1971",
+      "phone": "202-225-3465",
+      "email": "http://massieforms.house.gov/contact/"
+    },
+    {
+      "first name": "Garland",
+      "last name": "Barr",
+      "state": "KY",
+      "type": "Qualified",
+      "birthday": "7/24/1973",
+      "phone": "202-225-4706",
+      "email": "https://barr.house.gov/contact/email-me"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Charles",
+      "last name": "Boustany",
+      "state": "LA",
+      "type": "Qualified",
+      "birthday": "2/21/1956",
+      "phone": "202-225-2031",
+      "email": "https://boustanyforms.house.gov/contact-me/"
+    },
+    {
+      "first name": "Bill",
+      "last name": "Cassidy",
+      "state": "LA",
+      "type": "Qualified",
+      "birthday": "9/28/1957",
+      "phone": "202-224-5824",
+      "email": ""
+    },
+    {
+      "first name": "John",
+      "last name": "Fleming",
+      "state": "LA",
+      "type": "Qualified",
+      "birthday": "7/5/1951",
+      "phone": "202-225-2777",
+      "email": "https://fleming.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Cedric",
+      "last name": "Richmond",
+      "state": "LA",
+      "type": "Qualified",
+      "birthday": "9/13/1973",
+      "phone": "202-225-6636",
+      "email": "https://richmond.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Steve",
+      "last name": "Scalise",
+      "state": "LA",
+      "type": "Qualified",
+      "birthday": "10/6/1965",
+      "phone": "202-225-3015",
+      "email": "https://scalise.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "David",
+      "last name": "Vitter",
+      "state": "LA",
+      "type": "Qualified",
+      "birthday": "5/3/1961",
+      "phone": "202-224-4623",
+      "email": "http://www.vitter.senate.gov/contact/email-senator-vitter"
+    },
+    {
+      "first name": "Ralph",
+      "last name": "Abraham",
+      "state": "LA",
+      "type": "Qualified",
+      "birthday": "9/16/1954",
+      "phone": "202-225-8490",
+      "email": ""
+    },
+    {
+      "first name": "Garret",
+      "last name": "Graves",
+      "state": "LA",
+      "type": "Qualified",
+      "birthday": "1/31/1972",
+      "phone": "202-225-3901",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Susan",
+      "last name": "Collins",
+      "state": "ME",
+      "type": "Qualified",
+      "birthday": "12/7/1952",
+      "phone": "202-224-2523",
+      "email": "http://www.collins.senate.gov/public/index.cfm/email"
+    },
+    {
+      "first name": "Chellie",
+      "last name": "Pingree",
+      "state": "ME",
+      "type": "Qualified",
+      "birthday": "4/2/1955",
+      "phone": "202-225-6116",
+      "email": "https://pingree.house.gov/email-me"
+    },
+    {
+      "first name": "Angus",
+      "last name": "King",
+      "state": "ME",
+      "type": "Qualified",
+      "birthday": "3/31/1944",
+      "phone": "202-224-5344",
+      "email": "http://www.king.senate.gov/contact"
+    },
+    {
+      "first name": "Bruce",
+      "last name": "Poliquin",
+      "state": "ME",
+      "type": "Qualified",
+      "birthday": "11/1/1953",
+      "phone": "202-225-6306",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Benjamin",
+      "last name": "Cardin",
+      "state": "MD",
+      "type": "Qualified",
+      "birthday": "10/5/1943",
+      "phone": "202-224-4524",
+      "email": "http://www.cardin.senate.gov/contact/"
+    },
+    {
+      "first name": "Elijah",
+      "last name": "Cummings",
+      "state": "MD",
+      "type": "Qualified",
+      "birthday": "1/18/1951",
+      "phone": "202-225-4741",
+      "email": "https://cummings.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Donna",
+      "last name": "Edwards",
+      "state": "MD",
+      "type": "Qualified",
+      "birthday": "6/28/1958",
+      "phone": "202-225-8699",
+      "email": "https://forms.house.gov/formdonnaedwards/issue_subscribe.shtml"
+    },
+    {
+      "first name": "Andy",
+      "last name": "Harris",
+      "state": "MD",
+      "type": "Qualified",
+      "birthday": "1/25/1957",
+      "phone": "202-225-5311",
+      "email": "https://harris.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Steny",
+      "last name": "Hoyer",
+      "state": "MD",
+      "type": "Qualified",
+      "birthday": "6/14/1939",
+      "phone": "202-225-4131",
+      "email": "https://hoyer.house.gov/email-steny"
+    },
+    {
+      "first name": "Barbara",
+      "last name": "Mikulski",
+      "state": "MD",
+      "type": "Qualified",
+      "birthday": "7/20/1936",
+      "phone": "202-224-4654",
+      "email": "http://www.mikulski.senate.gov/contact/shareyouropinion.cfm"
+    },
+    {
+      "first name": "C.",
+      "last name": "Ruppersberger",
+      "state": "MD",
+      "type": "Qualified",
+      "birthday": "1/31/1946",
+      "phone": "202-225-3061",
+      "email": "http://ruppersberger.house.gov/contact-dutch/email-dutch"
+    },
+    {
+      "first name": "John",
+      "last name": "Sarbanes",
+      "state": "MD",
+      "type": "Qualified",
+      "birthday": "5/22/1962",
+      "phone": "202-225-4016",
+      "email": "http://sarbanes.house.gov/federal.asp"
+    },
+    {
+      "first name": "Chris",
+      "last name": "Van Hollen",
+      "state": "MD",
+      "type": "Qualified",
+      "birthday": "1/10/1959",
+      "phone": "202-225-5341",
+      "email": "http://vanhollen.house.gov/contact/"
+    },
+    {
+      "first name": "John",
+      "last name": "Delaney",
+      "state": "MD",
+      "type": "Qualified",
+      "birthday": "4/16/1963",
+      "phone": "202-225-2721",
+      "email": "https://delaney.house.gov/contact/email-me"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Michael",
+      "last name": "Capuano",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "1/9/1952",
+      "phone": "202-225-5111",
+      "email": "http://www.house.gov/capuano/contact/email.shtml"
+    },
+    {
+      "first name": "William",
+      "last name": "Keating",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "9/6/1952",
+      "phone": "202-225-3111",
+      "email": "https://forms.house.gov/keating/webforms/contact.shtml"
+    },
+    {
+      "first name": "Stephen",
+      "last name": "Lynch",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "3/31/1955",
+      "phone": "202-225-8273",
+      "email": "https://lynch.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Edward",
+      "last name": "Markey",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "7/11/1946",
+      "phone": "202-224-2742",
+      "email": "http://www.markey.senate.gov/contact"
+    },
+    {
+      "first name": "James",
+      "last name": "McGovern",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "11/20/1959",
+      "phone": "202-225-6101",
+      "email": "https://mcgovern.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Richard",
+      "last name": "Neal",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "2/14/1949",
+      "phone": "202-225-5601",
+      "email": "https://forms.house.gov/neal/webforms/Contact_Form.shtml"
+    },
+    {
+      "first name": "Niki",
+      "last name": "Tsongas",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "4/26/1946",
+      "phone": "202-225-3411",
+      "email": "https://tsongas.house.gov/e-mail-niki/"
+    },
+    {
+      "first name": "Elizabeth",
+      "last name": "Warren",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "6/22/1949",
+      "phone": "202-224-4543",
+      "email": "http://www.warren.senate.gov/?p=email_senator#thisForm"
+    },
+    {
+      "first name": "Joseph",
+      "last name": "Kennedy",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "10/4/1980",
+      "phone": "202-225-5931",
+      "email": "https://kennedy.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Katherine",
+      "last name": "Clark",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "7/17/1963",
+      "phone": "202-225-2836",
+      "email": "https://katherineclark.house.gov/index.cfm/email-me"
+    },
+    {
+      "first name": "Seth",
+      "last name": "Moulton",
+      "state": "MA",
+      "type": "Qualified",
+      "birthday": "10/24/1978",
+      "phone": "202-225-8020",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Debbie",
+      "last name": "Stabenow",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "4/29/1950",
+      "phone": "202-224-4822",
+      "email": "http://www.stabenow.senate.gov/?p=contact"
+    },
+    {
+      "first name": "Justin",
+      "last name": "Amash",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "4/18/1980",
+      "phone": "202-225-3831",
+      "email": "https://amash.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Dan",
+      "last name": "Benishek",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "4/20/1952",
+      "phone": "202-225-4735",
+      "email": "https://benishek.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "John",
+      "last name": "Conyers",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "5/16/1929",
+      "phone": "202-225-5126",
+      "email": "https://conyers.house.gov/index.cfm/online-contact-form"
+    },
+    {
+      "first name": "Bill",
+      "last name": "Huizenga",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "1/31/1969",
+      "phone": "202-225-4401",
+      "email": "http://huizenga.house.gov/contact/"
+    },
+    {
+      "first name": "Sander",
+      "last name": "Levin",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "9/6/1931",
+      "phone": "202-225-4961",
+      "email": "https://levin.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Candice",
+      "last name": "Miller",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "5/7/1954",
+      "phone": "202-225-2106",
+      "email": "http://candicemiller.house.gov/contact"
+    },
+    {
+      "first name": "Gary",
+      "last name": "Peters",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "12/1/1958",
+      "phone": "202-224-6221",
+      "email": ""
+    },
+    {
+      "first name": "Fred",
+      "last name": "Upton",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "4/23/1953",
+      "phone": "202-225-3761",
+      "email": "http://upton.house.gov/contact/zipauth.htm"
+    },
+    {
+      "first name": "Tim",
+      "last name": "Walberg",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "4/12/1951",
+      "phone": "202-225-6276",
+      "email": "https://walberg.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Daniel",
+      "last name": "Kildee",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "8/11/1958",
+      "phone": "202-225-3611",
+      "email": "https://dankildee.house.gov/contact/email-me"
+    },
+    {
+      "first name": "John",
+      "last name": "Moolenaar",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "5/8/1961",
+      "phone": "202-225-3561",
+      "email": ""
+    },
+    {
+      "first name": "Mike",
+      "last name": "Bishop",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "3/18/1967",
+      "phone": "202-225-4872",
+      "email": ""
+    },
+    {
+      "first name": "Dave",
+      "last name": "Trott",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "10/16/1960",
+      "phone": "202-225-8171",
+      "email": ""
+    },
+    {
+      "first name": "Debbie",
+      "last name": "Dingell",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "11/23/1953",
+      "phone": "202-225-4071",
+      "email": ""
+    },
+    {
+      "first name": "Brenda",
+      "last name": "Lawrence",
+      "state": "MI",
+      "type": "Qualified",
+      "birthday": "10/18/1954",
+      "phone": "202-225-5802",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Amy",
+      "last name": "Klobuchar",
+      "state": "MN",
+      "type": "Qualified",
+      "birthday": "5/25/1960",
+      "phone": "202-224-3244",
+      "email": "http://www.klobuchar.senate.gov/public/email-amy"
+    },
+    {
+      "first name": "Alan",
+      "last name": "Franken",
+      "state": "MN",
+      "type": "Qualified",
+      "birthday": "5/21/1951",
+      "phone": "202-224-5641",
+      "email": "http://www.franken.senate.gov/?p=email_al"
+    },
+    {
+      "first name": "Keith",
+      "last name": "Ellison",
+      "state": "MN",
+      "type": "Qualified",
+      "birthday": "8/4/1963",
+      "phone": "202-225-4755",
+      "email": "http://ellison.house.gov/contact"
+    },
+    {
+      "first name": "John",
+      "last name": "Kline",
+      "state": "MN",
+      "type": "Qualified",
+      "birthday": "9/6/1947",
+      "phone": "202-225-2271",
+      "email": "http://kline.house.gov/contact/"
+    },
+    {
+      "first name": "Betty",
+      "last name": "McCollum",
+      "state": "MN",
+      "type": "Qualified",
+      "birthday": "7/12/1954",
+      "phone": "202-225-6631",
+      "email": "https://mccollum.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Erik",
+      "last name": "Paulsen",
+      "state": "MN",
+      "type": "Qualified",
+      "birthday": "5/14/1965",
+      "phone": "202-225-2871",
+      "email": "https://paulsenforms.house.gov/contact-me"
+    },
+    {
+      "first name": "Collin",
+      "last name": "Peterson",
+      "state": "MN",
+      "type": "Qualified",
+      "birthday": "6/29/1944",
+      "phone": "202-225-2165",
+      "email": "https://collinpeterson.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Timothy",
+      "last name": "Walz",
+      "state": "MN",
+      "type": "Qualified",
+      "birthday": "4/6/1964",
+      "phone": "202-225-2472",
+      "email": "http://walz.house.gov/contact"
+    },
+    {
+      "first name": "Richard",
+      "last name": "Nolan",
+      "state": "MN",
+      "type": "Qualified",
+      "birthday": "12/17/1943",
+      "phone": "202-225-6211",
+      "email": "https://nolan.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Tom",
+      "last name": "Emmer",
+      "state": "MN",
+      "type": "Qualified",
+      "birthday": "3/3/1961",
+      "phone": "202-225-2331",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Roger",
+      "last name": "Wicker",
+      "state": "MS",
+      "type": "Qualified",
+      "birthday": "7/5/1951",
+      "phone": "202-224-6253",
+      "email": "http://www.wicker.senate.gov/public/index.cfm/contact"
+    },
+    {
+      "first name": "Thad",
+      "last name": "Cochran",
+      "state": "MS",
+      "type": "Qualified",
+      "birthday": "12/7/1937",
+      "phone": "202-224-5054",
+      "email": "http://www.cochran.senate.gov/public/index.cfm/email-me"
+    },
+    {
+      "first name": "Gregg",
+      "last name": "Harper",
+      "state": "MS",
+      "type": "Qualified",
+      "birthday": "6/1/1956",
+      "phone": "202-225-5031",
+      "email": "https://harperforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Steven",
+      "last name": "Palazzo",
+      "state": "MS",
+      "type": "Qualified",
+      "birthday": "2/21/1970",
+      "phone": "202-225-5772",
+      "email": "http://palazzo.house.gov/contact/"
+    },
+    {
+      "first name": "Bennie",
+      "last name": "Thompson",
+      "state": "MS",
+      "type": "Qualified",
+      "birthday": "1/28/1948",
+      "phone": "202-225-5876",
+      "email": "https://forms.house.gov/benniethompson/contact-form.shtml"
+    },
+    {
+      "first name": "Trent",
+      "last name": "Kelly",
+      "state": "MS",
+      "type": "Qualified",
+      "birthday": "3/1/1966",
+      "phone": "202-225-4306",
+      "email": "https://trentkelly.house.gov/contact"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Claire",
+      "last name": "McCaskill",
+      "state": "MO",
+      "type": "Qualified",
+      "birthday": "7/24/1953",
+      "phone": "202-224-6154",
+      "email": "http://www.mccaskill.senate.gov/?p=contact"
+    },
+    {
+      "first name": "Roy",
+      "last name": "Blunt",
+      "state": "MO",
+      "type": "Qualified",
+      "birthday": "1/10/1950",
+      "phone": "202-224-5721",
+      "email": "http://www.blunt.senate.gov/public/index.cfm/contact-form?p=contact-roy"
+    },
+    {
+      "first name": "Wm.",
+      "last name": "Clay",
+      "state": "MO",
+      "type": "Qualified",
+      "birthday": "7/27/1956",
+      "phone": "202-225-2406",
+      "email": "http://lacyclay.house.gov/contact-form/"
+    },
+    {
+      "first name": "Emanuel",
+      "last name": "Cleaver",
+      "state": "MO",
+      "type": "Qualified",
+      "birthday": "10/26/1944",
+      "phone": "202-225-4535",
+      "email": "https://cleaver.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Sam",
+      "last name": "Graves",
+      "state": "MO",
+      "type": "Qualified",
+      "birthday": "11/7/1963",
+      "phone": "202-225-7041",
+      "email": "https://gravesforms.house.gov/email-sam"
+    },
+    {
+      "first name": "Vicky",
+      "last name": "Hartzler",
+      "state": "MO",
+      "type": "Qualified",
+      "birthday": "10/13/1960",
+      "phone": "202-225-2876",
+      "email": "https://hartzler.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Billy",
+      "last name": "Long",
+      "state": "MO",
+      "type": "Qualified",
+      "birthday": "8/11/1955",
+      "phone": "202-225-6536",
+      "email": "https://longforms.house.gov/email-billy"
+    },
+    {
+      "first name": "Blaine",
+      "last name": "Luetkemeyer",
+      "state": "MO",
+      "type": "Qualified",
+      "birthday": "5/7/1952",
+      "phone": "202-225-2956",
+      "email": "https://luetkemeyer.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Ann",
+      "last name": "Wagner",
+      "state": "MO",
+      "type": "Qualified",
+      "birthday": "9/13/1962",
+      "phone": "202-225-1621",
+      "email": "https://wagner.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Jason",
+      "last name": "Smith",
+      "state": "MO",
+      "type": "Qualified",
+      "birthday": "6/16/1980",
+      "phone": "202-225-4404",
+      "email": "https://jasonsmith.house.gov/contact/email-me"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Jon",
+      "last name": "Tester",
+      "state": "MT",
+      "type": "Qualified",
+      "birthday": "8/21/1956",
+      "phone": "202-224-2644",
+      "email": "http://www.tester.senate.gov/?p=email_senator"
+    },
+    {
+      "first name": "Steve",
+      "last name": "Daines",
+      "state": "MT",
+      "type": "Qualified",
+      "birthday": "8/20/1962",
+      "phone": "202-224-2651",
+      "email": ""
+    },
+    {
+      "first name": "Ryan",
+      "last name": "Zinke",
+      "state": "MT",
+      "type": "Qualified",
+      "birthday": "11/1/1961",
+      "phone": "202-225-3211",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Jeff",
+      "last name": "Fortenberry",
+      "state": "NE",
+      "type": "Qualified",
+      "birthday": "12/27/1960",
+      "phone": "202-225-4806",
+      "email": "https://fortenberry.house.gov/contact-me1"
+    },
+    {
+      "first name": "Adrian",
+      "last name": "Smith",
+      "state": "NE",
+      "type": "Qualified",
+      "birthday": "12/19/1970",
+      "phone": "202-225-6435",
+      "email": "https://adriansmith.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Deb",
+      "last name": "Fischer",
+      "state": "NE",
+      "type": "Qualified",
+      "birthday": "3/1/1951",
+      "phone": "202-224-6551",
+      "email": "http://www.fischer.senate.gov/public/?p=email-deb"
+    },
+    {
+      "first name": "Brad",
+      "last name": "Ashford",
+      "state": "NE",
+      "type": "Qualified",
+      "birthday": "11/10/1949",
+      "phone": "202-225-4155",
+      "email": ""
+    },
+    {
+      "first name": "Benjamin",
+      "last name": "Sasse",
+      "state": "NE",
+      "type": "Qualified",
+      "birthday": "2/22/1972",
+      "phone": "202-224-4224",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Joseph",
+      "last name": "Heck",
+      "state": "NV",
+      "type": "Qualified",
+      "birthday": "10/30/1961",
+      "phone": "202-225-3252",
+      "email": "https://heck.house.gov/contact-me"
+    },
+    {
+      "first name": "Harry",
+      "last name": "Reid",
+      "state": "NV",
+      "type": "Qualified",
+      "birthday": "12/2/1939",
+      "phone": "202-224-3542",
+      "email": "http://www.reid.senate.gov/contact"
+    },
+    {
+      "first name": "Dean",
+      "last name": "Heller",
+      "state": "NV",
+      "type": "Qualified",
+      "birthday": "5/10/1960",
+      "phone": "202-224-6244",
+      "email": "http://www.heller.senate.gov/public/index.cfm/contact-form"
+    },
+    {
+      "first name": "Mark",
+      "last name": "Amodei",
+      "state": "NV",
+      "type": "Qualified",
+      "birthday": "6/12/1958",
+      "phone": "202-225-6155",
+      "email": "https://amodei.house.gov/contact-us"
+    },
+    {
+      "first name": "Dina",
+      "last name": "Titus",
+      "state": "NV",
+      "type": "Qualified",
+      "birthday": "5/23/1950",
+      "phone": "202-225-5965",
+      "email": "https://titus.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Cresent",
+      "last name": "Hardy",
+      "state": "NV",
+      "type": "Qualified",
+      "birthday": "6/23/1957",
+      "phone": "202-225-9894",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Jeanne",
+      "last name": "Shaheen",
+      "state": "NH",
+      "type": "Qualified",
+      "birthday": "1/28/1947",
+      "phone": "202-224-2841",
+      "email": "http://www.shaheen.senate.gov/contact/"
+    },
+    {
+      "first name": "Kelly",
+      "last name": "Ayotte",
+      "state": "NH",
+      "type": "Qualified",
+      "birthday": "6/27/1968",
+      "phone": "202-224-3324",
+      "email": "http://www.ayotte.senate.gov/?p=contact"
+    },
+    {
+      "first name": "Ann",
+      "last name": "Kuster",
+      "state": "NH",
+      "type": "Qualified",
+      "birthday": "9/5/1956",
+      "phone": "202-225-5206",
+      "email": "https://kuster.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Frank",
+      "last name": "Guinta",
+      "state": "NH",
+      "type": "Qualified",
+      "birthday": "9/26/1970",
+      "phone": "202-225-5456",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Robert",
+      "last name": "Menéndez",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "1/1/1954",
+      "phone": "202-224-4744",
+      "email": "http://www.menendez.senate.gov/contact"
+    },
+    {
+      "first name": "Rodney",
+      "last name": "Frelinghuysen",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "4/29/1946",
+      "phone": "202-225-5034",
+      "email": "https://frelinghuysenforms.house.gov/contact-form"
+    },
+    {
+      "first name": "Scott",
+      "last name": "Garrett",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "7/9/1959",
+      "phone": "202-225-4465",
+      "email": "https://garrettforms.house.gov/forms/writeyourrep/?zip5=07452&zip4=3321"
+    },
+    {
+      "first name": "Leonard",
+      "last name": "Lance",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "6/25/1952",
+      "phone": "202-225-5361",
+      "email": "https://lance.house.gov/contact-me1"
+    },
+    {
+      "first name": "Frank",
+      "last name": "LoBiondo",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "5/12/1946",
+      "phone": "202-225-6572",
+      "email": "https://lobiondo.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Frank",
+      "last name": "Pallone",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "10/30/1951",
+      "phone": "202-225-4671",
+      "email": "https://pallone.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Bill",
+      "last name": "Pascrell",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "1/25/1937",
+      "phone": "202-225-5751",
+      "email": "https://pascrell.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Albio",
+      "last name": "Sires",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "1/26/1951",
+      "phone": "202-225-7919",
+      "email": "https://sires.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Christopher",
+      "last name": "Smith",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "3/4/1953",
+      "phone": "202-225-3765",
+      "email": "https://chrissmith.house.gov/contact/write.htm"
+    },
+    {
+      "first name": "Donald",
+      "last name": "Payne",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "12/17/1958",
+      "phone": "202-225-3436",
+      "email": "http://payne.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Cory",
+      "last name": "Booker",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "4/27/1969",
+      "phone": "202-224-3224",
+      "email": "http://www.booker.senate.gov/?p=contact"
+    },
+    {
+      "first name": "Donald",
+      "last name": "Norcross",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "12/13/1958",
+      "phone": "202-225-6501",
+      "email": "http://norcross.house.gov/contact"
+    },
+    {
+      "first name": "Tom",
+      "last name": "MacArthur",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "10/16/1960",
+      "phone": "202-225-4765",
+      "email": ""
+    },
+    {
+      "first name": "Bonnie",
+      "last name": "Watson Coleman",
+      "state": "NJ",
+      "type": "Qualified",
+      "birthday": "2/6/1945",
+      "phone": "202-225-5801",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Kirsten",
+      "last name": "Gillibrand",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "12/9/1966",
+      "phone": "202-224-4451",
+      "email": "http://www.gillibrand.senate.gov/contact/"
+    },
+    {
+      "first name": "Yvette",
+      "last name": "Clarke",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "11/21/1964",
+      "phone": "202-225-6231",
+      "email": "https://clarke.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Joseph",
+      "last name": "Crowley",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "3/16/1962",
+      "phone": "202-225-3965",
+      "email": "https://crowley.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Eliot",
+      "last name": "Engel",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "2/18/1947",
+      "phone": "202-225-2464",
+      "email": "https://engel.house.gov/write-your-rep1"
+    },
+    {
+      "first name": "Christopher",
+      "last name": "Gibson",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "5/13/1964",
+      "phone": "202-225-5614",
+      "email": "http://gibson.house.gov/contact/"
+    },
+    {
+      "first name": "Richard",
+      "last name": "Hanna",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "1/25/1951",
+      "phone": "202-225-3665",
+      "email": "https://hanna.house.gov/email-me"
+    },
+    {
+      "first name": "Brian",
+      "last name": "Higgins",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "10/6/1959",
+      "phone": "202-225-3306",
+      "email": "http://higgins.house.gov/contact/email-brian"
+    },
+    {
+      "first name": "Steve",
+      "last name": "Israel",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "5/30/1958",
+      "phone": "202-225-3335",
+      "email": "https://israel.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Peter",
+      "last name": "King",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "4/5/1944",
+      "phone": "202-225-7896",
+      "email": "https://peteking.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Nita",
+      "last name": "Lowey",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "7/5/1937",
+      "phone": "202-225-6506",
+      "email": "https://lowey.house.gov/contact-form/"
+    },
+    {
+      "first name": "Carolyn",
+      "last name": "Maloney",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "2/19/1946",
+      "phone": "202-225-7944",
+      "email": "https://maloney.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Gregory",
+      "last name": "Meeks",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "9/25/1953",
+      "phone": "202-225-3461",
+      "email": "https://meeks.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Jerrold",
+      "last name": "Nadler",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "6/13/1947",
+      "phone": "202-225-5635",
+      "email": "https://jerroldnadler.house.gov/forms/writeyourrep/default.aspx"
+    },
+    {
+      "first name": "Charles",
+      "last name": "Rangel",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "6/11/1930",
+      "phone": "202-225-4365",
+      "email": "https://rangel.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Tom",
+      "last name": "Reed",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "11/18/1971",
+      "phone": "202-225-3161",
+      "email": "https://reed.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Charles",
+      "last name": "Schumer",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "11/23/1950",
+      "phone": "202-224-6542",
+      "email": "http://www.schumer.senate.gov/Contact/email-chuck"
+    },
+    {
+      "first name": "José",
+      "last name": "Serrano",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "10/24/1943",
+      "phone": "202-225-4361",
+      "email": "https://serrano.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Louise",
+      "last name": "Slaughter",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "8/14/1929",
+      "phone": "202-225-3615",
+      "email": "https://louise.house.gov/contact-louise"
+    },
+    {
+      "first name": "Paul",
+      "last name": "Tonko",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "6/18/1949",
+      "phone": "202-225-5076",
+      "email": "https://tonko.house.gov/email-form1"
+    },
+    {
+      "first name": "Nydia",
+      "last name": "Velázquez",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "3/28/1953",
+      "phone": "202-225-2361",
+      "email": "http://velazquez.house.gov/IMA/issue_subscribe.shtml"
+    },
+    {
+      "first name": "Grace",
+      "last name": "Meng",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "10/1/1975",
+      "phone": "202-225-2601",
+      "email": "https://meng.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Hakeem",
+      "last name": "Jeffries",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "8/4/1970",
+      "phone": "202-225-5936",
+      "email": "https://jeffriesforms.house.gov/contact/"
+    },
+    {
+      "first name": "Sean",
+      "last name": "Maloney",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "7/30/1966",
+      "phone": "202-225-5441",
+      "email": "https://seanmaloney.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Chris",
+      "last name": "Collins",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "5/20/1950",
+      "phone": "202-225-5265",
+      "email": "https://chriscollins.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Lee",
+      "last name": "Zeldin",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "1/30/1980",
+      "phone": "202-225-3826",
+      "email": ""
+    },
+    {
+      "first name": "Kathleen",
+      "last name": "Rice",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "2/15/1965",
+      "phone": "202-225-5516",
+      "email": ""
+    },
+    {
+      "first name": "Elise",
+      "last name": "Stefanik",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "7/2/1984",
+      "phone": "202-225-4611",
+      "email": ""
+    },
+    {
+      "first name": "John",
+      "last name": "Katko",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "11/9/1962",
+      "phone": "202-225-3701",
+      "email": ""
+    },
+    {
+      "first name": "Daniel",
+      "last name": "Donovan",
+      "state": "NY",
+      "type": "Qualified",
+      "birthday": "11/6/1956",
+      "phone": "202-225-3371",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Tom",
+      "last name": "Udall",
+      "state": "NM",
+      "type": "Qualified",
+      "birthday": "5/18/1948",
+      "phone": "202-224-6621",
+      "email": "http://www.tomudall.senate.gov/?p=contact"
+    },
+    {
+      "first name": "Martin",
+      "last name": "Heinrich",
+      "state": "NM",
+      "type": "Qualified",
+      "birthday": "10/17/1971",
+      "phone": "202-224-5521",
+      "email": "http://www.heinrich.senate.gov/contact/write-martin"
+    },
+    {
+      "first name": "Ben",
+      "last name": "Luj�n",
+      "state": "NM",
+      "type": "Likely",
+      "birthday": "6/7/1972",
+      "phone": "202-225-6190",
+      "email": "https://forms.house.gov/lujan/contact-form.shtml"
+    },
+    {
+      "first name": "Stevan",
+      "last name": "Pearce",
+      "state": "NM",
+      "type": "Unlikely",
+      "birthday": "8/24/1947",
+      "phone": "202-225-2365",
+      "email": "https://pearce.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Michelle",
+      "last name": "Lujan Grisham",
+      "state": "NM",
+      "type": "Unlikely",
+      "birthday": "10/24/1959",
+      "phone": "202-225-6316",
+      "email": "http://lujangrisham.house.gov/contact/email-me/"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Richard",
+      "last name": "Burr",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "11/30/1955",
+      "phone": "202-224-3154",
+      "email": "http://www.burr.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm"
+    },
+    {
+      "first name": "George",
+      "last name": "Butterfield",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "4/27/1947",
+      "phone": "202-225-3101",
+      "email": "https://butterfield.house.gov/email-congressman-butterfield"
+    },
+    {
+      "first name": "Renee",
+      "last name": "Ellmers",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "2/9/1964",
+      "phone": "202-225-4531",
+      "email": "https://ellmersforms.house.gov/contact-us1"
+    },
+    {
+      "first name": "Virginia",
+      "last name": "Foxx",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "6/29/1943",
+      "phone": "202-225-2071",
+      "email": "https://foxx.house.gov/forms/writeyourrep/?zip5=&zip4="
+    },
+    {
+      "first name": "Walter",
+      "last name": "Jones",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "2/10/1943",
+      "phone": "202-225-3415",
+      "email": "https://jones.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Patrick",
+      "last name": "McHenry",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "10/22/1975",
+      "phone": "202-225-2576",
+      "email": "http://mchenry.house.gov/contact/zipauth.htm"
+    },
+    {
+      "first name": "David",
+      "last name": "Price",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "8/17/1940",
+      "phone": "202-225-1784",
+      "email": "https://price.house.gov/contact"
+    },
+    {
+      "first name": "Richard",
+      "last name": "Hudson",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "11/4/1971",
+      "phone": "202-225-3715",
+      "email": "https://hudson.house.gov/email-me"
+    },
+    {
+      "first name": "Robert",
+      "last name": "Pittenger",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "8/15/1948",
+      "phone": "202-225-1976",
+      "email": "https://pittenger.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Mark",
+      "last name": "Meadows",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "7/28/1959",
+      "phone": "202-225-6401",
+      "email": "https://meadows.house.gov/email-me"
+    },
+    {
+      "first name": "George",
+      "last name": "Holding",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "4/17/1968",
+      "phone": "202-225-3032",
+      "email": "https://holding.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Alma",
+      "last name": "Adams",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "5/27/1946",
+      "phone": "202-225-1510",
+      "email": "http://adams.house.gov/contact"
+    },
+    {
+      "first name": "David",
+      "last name": "Rouzer",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "2/16/1972",
+      "phone": "202-225-2731",
+      "email": ""
+    },
+    {
+      "first name": "Thom",
+      "last name": "Tillis",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "8/30/1960",
+      "phone": "202-224-6342",
+      "email": ""
+    },
+    {
+      "first name": "Mark",
+      "last name": "Walker",
+      "state": "NC",
+      "type": "Qualified",
+      "birthday": "5/20/1969",
+      "phone": "202-225-3065",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "John",
+      "last name": "Hoeven",
+      "state": "ND",
+      "type": "Qualified",
+      "birthday": "3/13/1957",
+      "phone": "202-224-2551",
+      "email": "http://www.hoeven.senate.gov/public/index.cfm/email-the-senator"
+    },
+    {
+      "first name": "Heidi",
+      "last name": "Heitkamp",
+      "state": "ND",
+      "type": "Qualified",
+      "birthday": "10/30/1955",
+      "phone": "202-224-2043",
+      "email": "http://www.heitkamp.senate.gov/public/index.cfm/email-heidi"
+    },
+    {
+      "first name": "Kevin",
+      "last name": "Cramer",
+      "state": "ND",
+      "type": "Qualified",
+      "birthday": "1/21/1961",
+      "phone": "202-225-2611",
+      "email": "https://cramer.house.gov/contact/email-me"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Sherrod",
+      "last name": "Brown",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "11/9/1952",
+      "phone": "202-224-2315",
+      "email": "http://www.brown.senate.gov/contact"
+    },
+    {
+      "first name": "Steve",
+      "last name": "Chabot",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "1/22/1953",
+      "phone": "202-225-2216",
+      "email": "https://chabot.house.gov/forms/writeyourrep/?zip5=45202&zip4=3003"
+    },
+    {
+      "first name": "Marcia",
+      "last name": "Fudge",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "10/29/1952",
+      "phone": "202-225-7032",
+      "email": "https://fudgeforms.house.gov/contact-form"
+    },
+    {
+      "first name": "Bob",
+      "last name": "Gibbs",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "6/14/1954",
+      "phone": "202-225-6265",
+      "email": "https://gibbs.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Bill",
+      "last name": "Johnson",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "11/10/1954",
+      "phone": "202-225-5705",
+      "email": "http://billjohnson.house.gov/contact/default.aspx"
+    },
+    {
+      "first name": "Jim",
+      "last name": "Jordan",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "2/17/1964",
+      "phone": "202-225-2676",
+      "email": "http://jordan.house.gov/contact/"
+    },
+    {
+      "first name": "Marcy",
+      "last name": "Kaptur",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "6/17/1946",
+      "phone": "202-225-4146",
+      "email": "https://forms.house.gov/kaptur/webforms/issue_subscribe.shtml"
+    },
+    {
+      "first name": "Robert",
+      "last name": "Latta",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "4/18/1956",
+      "phone": "202-225-6405",
+      "email": "https://latta.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Robert",
+      "last name": "Portman",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "12/19/1955",
+      "phone": "202-224-3353",
+      "email": "https://www.portman.senate.gov/public/index.cfm/contact-form"
+    },
+    {
+      "first name": "James",
+      "last name": "Renacci",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "12/3/1958",
+      "phone": "202-225-3876",
+      "email": "https://renacci.house.gov/index.cfm/contact-form"
+    },
+    {
+      "first name": "Tim",
+      "last name": "Ryan",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "7/16/1973",
+      "phone": "202-225-5261",
+      "email": "http://timryanforms.house.gov/contact/"
+    },
+    {
+      "first name": "Steve",
+      "last name": "Stivers",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "3/24/1965",
+      "phone": "202-225-2015",
+      "email": "https://stivers.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Patrick",
+      "last name": "Tiberi",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "10/21/1962",
+      "phone": "202-225-5355",
+      "email": "https://tiberi.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Michael",
+      "last name": "Turner",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "1/11/1960",
+      "phone": "202-225-6465",
+      "email": "http://turner.house.gov/contact/"
+    },
+    {
+      "first name": "Brad",
+      "last name": "Wenstrup",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "6/17/1958",
+      "phone": "202-225-3164",
+      "email": "http://wenstrup.house.gov/contact/"
+    },
+    {
+      "first name": "Joyce",
+      "last name": "Beatty",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "3/12/1950",
+      "phone": "202-225-4324",
+      "email": "https://beattyforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "David",
+      "last name": "Joyce",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "3/17/1957",
+      "phone": "202-225-5731",
+      "email": "https://joyce.house.gov/email-me"
+    },
+    {
+      "first name": "Warren",
+      "last name": "Davidson",
+      "state": "OH",
+      "type": "Qualified",
+      "birthday": "3/1/1970",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "James",
+      "last name": "Inhofe",
+      "state": "OK",
+      "type": "Qualified",
+      "birthday": "11/17/1934",
+      "phone": "202-224-4721",
+      "email": "http://www.inhofe.senate.gov/contact"
+    },
+    {
+      "first name": "Tom",
+      "last name": "Cole",
+      "state": "OK",
+      "type": "Qualified",
+      "birthday": "4/28/1949",
+      "phone": "202-225-6165",
+      "email": "https://coleforms.house.gov/contact/default.aspx"
+    },
+    {
+      "first name": "James",
+      "last name": "Lankford",
+      "state": "OK",
+      "type": "Qualified",
+      "birthday": "3/4/1968",
+      "phone": "202-224-5754",
+      "email": ""
+    },
+    {
+      "first name": "Frank",
+      "last name": "Lucas",
+      "state": "OK",
+      "type": "Qualified",
+      "birthday": "1/6/1960",
+      "phone": "202-225-5565",
+      "email": "https://lucas.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Jim",
+      "last name": "Bridenstine",
+      "state": "OK",
+      "type": "Qualified",
+      "birthday": "6/15/1975",
+      "phone": "202-225-2211",
+      "email": "https://bridenstineforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Markwayne",
+      "last name": "Mullin",
+      "state": "OK",
+      "type": "Qualified",
+      "birthday": "7/26/1977",
+      "phone": "202-225-2701",
+      "email": "https://mullin.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Steve",
+      "last name": "Russell",
+      "state": "OK",
+      "type": "Qualified",
+      "birthday": "5/25/1963",
+      "phone": "202-225-2132",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Jeff",
+      "last name": "Merkley",
+      "state": "OR",
+      "type": "Qualified",
+      "birthday": "10/24/1956",
+      "phone": "202-224-3753",
+      "email": "http://www.merkley.senate.gov/contact/"
+    },
+    {
+      "first name": "Earl",
+      "last name": "Blumenauer",
+      "state": "OR",
+      "type": "Qualified",
+      "birthday": "8/16/1948",
+      "phone": "202-225-4811",
+      "email": "https://forms.house.gov/blumenauer/webforms/issue_subscribe.html"
+    },
+    {
+      "first name": "Peter",
+      "last name": "DeFazio",
+      "state": "OR",
+      "type": "Qualified",
+      "birthday": "5/27/1947",
+      "phone": "202-225-6416",
+      "email": "https://defazio.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Kurt",
+      "last name": "Schrader",
+      "state": "OR",
+      "type": "Qualified",
+      "birthday": "10/19/1951",
+      "phone": "202-225-5711",
+      "email": "https://schrader.house.gov/contact"
+    },
+    {
+      "first name": "Greg",
+      "last name": "Walden",
+      "state": "OR",
+      "type": "Qualified",
+      "birthday": "1/10/1957",
+      "phone": "202-225-6730",
+      "email": "https://walden.house.gov/e-mail-greg"
+    },
+    {
+      "first name": "Ron",
+      "last name": "Wyden",
+      "state": "OR",
+      "type": "Qualified",
+      "birthday": "5/3/1949",
+      "phone": "202-224-5244",
+      "email": "http://www.wyden.senate.gov/contact"
+    },
+    {
+      "first name": "Suzanne",
+      "last name": "Bonamici",
+      "state": "OR",
+      "type": "Qualified",
+      "birthday": "10/14/1954",
+      "phone": "202-225-0855",
+      "email": "https://bonamici.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Robert",
+      "last name": "Casey",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "4/13/1960",
+      "phone": "202-224-6324",
+      "email": "http://www.casey.senate.gov/contact/"
+    },
+    {
+      "first name": "Lou",
+      "last name": "Barletta",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "1/28/1956",
+      "phone": "202-225-6511",
+      "email": "https://barletta.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Robert",
+      "last name": "Brady",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "4/7/1945",
+      "phone": "202-225-4731",
+      "email": "https://brady.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Charles",
+      "last name": "Dent",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "5/24/1960",
+      "phone": "202-225-6411",
+      "email": "https://dent.house.gov/?p=ContactForm"
+    },
+    {
+      "first name": "Michael",
+      "last name": "Doyle",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "8/5/1953",
+      "phone": "202-225-2135",
+      "email": "https://doyle.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Chaka",
+      "last name": "Fattah",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "11/21/1956",
+      "phone": "202-225-4001",
+      "email": "https://fattahforms.house.gov/contact-rep-fattah"
+    },
+    {
+      "first name": "Michael",
+      "last name": "Fitzpatrick",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "6/28/1963",
+      "phone": "202-225-4276",
+      "email": "https://fitzpatrick.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Mike",
+      "last name": "Kelly",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "5/10/1948",
+      "phone": "202-225-5406",
+      "email": "https://kelly.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Tom",
+      "last name": "Marino",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "8/15/1952",
+      "phone": "202-225-3731",
+      "email": "https://marino.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Patrick",
+      "last name": "Meehan",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "10/20/1955",
+      "phone": "202-225-2011",
+      "email": "https://meehan.house.gov/email-me"
+    },
+    {
+      "first name": "Tim",
+      "last name": "Murphy",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "9/11/1952",
+      "phone": "202-225-2301",
+      "email": "https://murphy.house.gov/contact-me"
+    },
+    {
+      "first name": "Joseph",
+      "last name": "Pitts",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "10/10/1939",
+      "phone": "202-225-2411",
+      "email": "https://pitts.house.gov/contact-me/legislative-contact-form"
+    },
+    {
+      "first name": "Bill",
+      "last name": "Shuster",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "1/10/1961",
+      "phone": "202-225-2431",
+      "email": "http://shuster.house.gov/contact-form/"
+    },
+    {
+      "first name": "Glenn",
+      "last name": "Thompson",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "7/27/1959",
+      "phone": "202-225-5121",
+      "email": "https://thompson.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Patrick",
+      "last name": "Toomey",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "11/17/1961",
+      "phone": "202-224-4254",
+      "email": "http://www.toomey.senate.gov/?p=contact"
+    },
+    {
+      "first name": "Scott",
+      "last name": "Perry",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "5/27/1962",
+      "phone": "202-225-5836",
+      "email": "http://perryforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Keith",
+      "last name": "Rothfus",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "4/25/1962",
+      "phone": "202-225-2065",
+      "email": "https://rothfus.house.gov/email-keith"
+    },
+    {
+      "first name": "Matthew",
+      "last name": "Cartwright",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "5/1/1961",
+      "phone": "202-225-5546",
+      "email": "https://cartwrightforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Ryan",
+      "last name": "Costello",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "9/7/1976",
+      "phone": "202-225-4315",
+      "email": ""
+    },
+    {
+      "first name": "Brendan",
+      "last name": "Boyle",
+      "state": "PA",
+      "type": "Qualified",
+      "birthday": "2/6/1977",
+      "phone": "202-225-6111",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Sheldon",
+      "last name": "Whitehouse",
+      "state": "RI",
+      "type": "Qualified",
+      "birthday": "10/20/1955",
+      "phone": "202-224-2921",
+      "email": "http://www.whitehouse.senate.gov/contact"
+    },
+    {
+      "first name": "John",
+      "last name": "Reed",
+      "state": "RI",
+      "type": "Qualified",
+      "birthday": "11/12/1949",
+      "phone": "202-224-4642",
+      "email": "http://www.reed.senate.gov/contact/"
+    },
+    {
+      "first name": "David",
+      "last name": "Cicilline",
+      "state": "RI",
+      "type": "Qualified",
+      "birthday": "7/15/1961",
+      "phone": "202-225-4911",
+      "email": "https://cicilline.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "James",
+      "last name": "Langevin",
+      "state": "RI",
+      "type": "Qualified",
+      "birthday": "4/22/1964",
+      "phone": "202-225-2735",
+      "email": "https://langevin.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Lindsey",
+      "last name": "Graham",
+      "state": "SC",
+      "type": "Qualified",
+      "birthday": "7/9/1955",
+      "phone": "202-224-5972",
+      "email": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Contact.EmailSenatorGraham"
+    },
+    {
+      "first name": "James",
+      "last name": "Clyburn",
+      "state": "SC",
+      "type": "Qualified",
+      "birthday": "7/21/1940",
+      "phone": "202-225-3315",
+      "email": "https://clyburn.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Jeff",
+      "last name": "Duncan",
+      "state": "SC",
+      "type": "Qualified",
+      "birthday": "1/7/1966",
+      "phone": "202-225-5301",
+      "email": "https://jeffduncan.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Trey",
+      "last name": "Gowdy",
+      "state": "SC",
+      "type": "Qualified",
+      "birthday": "8/22/1964",
+      "phone": "202-225-6030",
+      "email": "https://gowdy.house.gov/forms/writeyourrep/default.aspx"
+    },
+    {
+      "first name": "Mick",
+      "last name": "Mulvaney",
+      "state": "SC",
+      "type": "Qualified",
+      "birthday": "7/21/1967",
+      "phone": "202-225-5501",
+      "email": "https://mulvaney.house.gov/email-mick/"
+    },
+    {
+      "first name": "Tim",
+      "last name": "Scott",
+      "state": "SC",
+      "type": "Qualified",
+      "birthday": "9/19/1965",
+      "phone": "202-224-6121",
+      "email": "http://www.scott.senate.gov/contact/email-me"
+    },
+    {
+      "first name": "Joe",
+      "last name": "Wilson",
+      "state": "SC",
+      "type": "Qualified",
+      "birthday": "7/31/1947",
+      "phone": "202-225-2452",
+      "email": "https://joewilson.house.gov/forms/writeyourrep/default.aspx"
+    },
+    {
+      "first name": "Tom",
+      "last name": "Rice",
+      "state": "SC",
+      "type": "Qualified",
+      "birthday": "8/4/1957",
+      "phone": "202-225-9895",
+      "email": "https://tomriceforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Marshall",
+      "last name": "Sanford",
+      "state": "SC",
+      "type": "Qualified",
+      "birthday": "5/28/1960",
+      "phone": "202-225-3176",
+      "email": "https://sanford.house.gov/contact/email-me"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Kristi",
+      "last name": "Noem",
+      "state": "SD",
+      "type": "Qualified",
+      "birthday": "11/30/1971",
+      "phone": "202-225-2801",
+      "email": "http://noem.house.gov/index.cfm/email-kristi"
+    },
+    {
+      "first name": "John",
+      "last name": "Thune",
+      "state": "SD",
+      "type": "Qualified",
+      "birthday": "1/7/1961",
+      "phone": "202-224-2321",
+      "email": "http://www.thune.senate.gov/public/index.cfm/contact"
+    },
+    {
+      "first name": "Mike",
+      "last name": "Rounds",
+      "state": "SD",
+      "type": "Qualified",
+      "birthday": "10/24/1954",
+      "phone": "202-224-5842",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Bob",
+      "last name": "Corker",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "8/24/1952",
+      "phone": "202-224-3344",
+      "email": "http://www.corker.senate.gov/public/index.cfm/emailme"
+    },
+    {
+      "first name": "Lamar",
+      "last name": "Alexander",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "7/3/1940",
+      "phone": "202-224-4944",
+      "email": "http://www.alexander.senate.gov/public/index.cfm?p=Email"
+    },
+    {
+      "first name": "Diane",
+      "last name": "Black",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "1/16/1951",
+      "phone": "202-225-4231",
+      "email": "https://black.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Marsha",
+      "last name": "Blackburn",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "6/6/1952",
+      "phone": "202-225-2811",
+      "email": "https://blackburn.house.gov/contactform/email.htm"
+    },
+    {
+      "first name": "Steve",
+      "last name": "Cohen",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "5/24/1949",
+      "phone": "202-225-3265",
+      "email": "https://cohen.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Jim",
+      "last name": "Cooper",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "6/19/1954",
+      "phone": "202-225-4311",
+      "email": "https://cooper.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Scott",
+      "last name": "DesJarlais",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "2/21/1964",
+      "phone": "202-225-6831",
+      "email": "http://desjarlais.house.gov/contact/email-me"
+    },
+    {
+      "first name": "John",
+      "last name": "Duncan",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "7/21/1947",
+      "phone": "202-225-5435",
+      "email": "https://duncan.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Stephen",
+      "last name": "Fincher",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "2/7/1973",
+      "phone": "202-225-4714",
+      "email": "https://fincher.house.gov/contact/email-me#.U06uR_ldWVo"
+    },
+    {
+      "first name": "Charles",
+      "last name": "Fleischmann",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "10/11/1962",
+      "phone": "202-225-3271",
+      "email": "https://fleischmann.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "David",
+      "last name": "Roe",
+      "state": "TN",
+      "type": "Qualified",
+      "birthday": "7/21/1945",
+      "phone": "202-225-6356",
+      "email": "https://roe.house.gov/contact/contactform.htm?zip5=37813&zip4=1659"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "John",
+      "last name": "Cornyn",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "2/2/1952",
+      "phone": "202-224-2934",
+      "email": "http://www.cornyn.senate.gov/public/index.cfm?p=ContactForm"
+    },
+    {
+      "first name": "Joe",
+      "last name": "Barton",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "9/15/1949",
+      "phone": "202-225-2002",
+      "email": "https://joebarton.house.gov/contact1/"
+    },
+    {
+      "first name": "Kevin",
+      "last name": "Brady",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "4/11/1955",
+      "phone": "202-225-4901",
+      "email": "https://kevinbrady.house.gov/contact-form"
+    },
+    {
+      "first name": "Michael",
+      "last name": "Burgess",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "12/23/1950",
+      "phone": "202-225-7772",
+      "email": "http://burgess.house.gov/contact/356345.htm"
+    },
+    {
+      "first name": "John",
+      "last name": "Carter",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "11/6/1941",
+      "phone": "202-225-3864",
+      "email": "https://carter.house.gov/email-john2"
+    },
+    {
+      "first name": "K.",
+      "last name": "Conaway",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "6/11/1948",
+      "phone": "202-225-3605",
+      "email": "https://conaway.house.gov/forms/writeyourrep/default.aspx"
+    },
+    {
+      "first name": "Henry",
+      "last name": "Cuellar",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "9/19/1955",
+      "phone": "202-225-1640",
+      "email": "https://cuellar.house.gov/forms/writeyourrep/default.aspx"
+    },
+    {
+      "first name": "John",
+      "last name": "Culberson",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "8/24/1956",
+      "phone": "202-225-2571",
+      "email": "https://culbersonforms.house.gov/forms/writeyourrep/default.aspx"
+    },
+    {
+      "first name": "Lloyd",
+      "last name": "Doggett",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "10/6/1946",
+      "phone": "202-225-4865",
+      "email": "https://forms.house.gov/doggett/webforms/issue_subscribe.htm"
+    },
+    {
+      "first name": "Blake",
+      "last name": "Farenthold",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "12/12/1961",
+      "phone": "202-225-7742",
+      "email": "http://farentholdforms.house.gov/contact/email.htm"
+    },
+    {
+      "first name": "Bill",
+      "last name": "Flores",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "2/25/1954",
+      "phone": "202-225-6105",
+      "email": "https://billflores.house.gov/contact/"
+    },
+    {
+      "first name": "Louie",
+      "last name": "Gohmert",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "8/18/1953",
+      "phone": "202-225-3035",
+      "email": "http://gohmert.house.gov/contact/"
+    },
+    {
+      "first name": "Kay",
+      "last name": "Granger",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "1/18/1943",
+      "phone": "202-225-5071",
+      "email": "http://kaygranger.house.gov/contact-kay/email-me"
+    },
+    {
+      "first name": "Al",
+      "last name": "Green",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "9/1/1947",
+      "phone": "202-225-7508",
+      "email": "https://algreen.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Gene",
+      "last name": "Green",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "10/17/1947",
+      "phone": "202-225-1688",
+      "email": "https://green.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Jeb",
+      "last name": "Hensarling",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "5/29/1957",
+      "phone": "202-225-3484",
+      "email": "https://hensarling.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Rubén",
+      "last name": "Hinojosa",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "8/20/1940",
+      "phone": "202-225-2531",
+      "email": "https://hinojosa.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Sheila",
+      "last name": "Jackson Lee",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "1/12/1950",
+      "phone": "202-225-3816",
+      "email": "http://jacksonlee.house.gov/contact/"
+    },
+    {
+      "first name": "Eddie",
+      "last name": "Johnson",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "12/3/1935",
+      "phone": "202-225-8885",
+      "email": "https://ebjohnson.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Sam",
+      "last name": "Johnson",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "10/11/1930",
+      "phone": "202-225-4201",
+      "email": "http://samjohnson.house.gov/contact/"
+    },
+    {
+      "first name": "Kenny",
+      "last name": "Marchant",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "2/23/1951",
+      "phone": "202-225-6605",
+      "email": "https://marchant.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Michael",
+      "last name": "McCaul",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "1/14/1962",
+      "phone": "202-225-2401",
+      "email": "https://mccaul.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Randy",
+      "last name": "Neugebauer",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "12/24/1949",
+      "phone": "202-225-4005",
+      "email": "https://randy.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Pete",
+      "last name": "Olson",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "12/9/1962",
+      "phone": "202-225-5951",
+      "email": "https://forms.house.gov/olson/contact-form.shtml"
+    },
+    {
+      "first name": "Ted",
+      "last name": "Poe",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "9/10/1948",
+      "phone": "202-225-6565",
+      "email": "https://poe.house.gov/index.cfm/contact-form#form_D05B44B5-B782-4DC7-BED6-FF0C90951FFF"
+    },
+    {
+      "first name": "Pete",
+      "last name": "Sessions",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "3/22/1955",
+      "phone": "202-225-2231",
+      "email": "https://sessions.house.gov/index.cfm/contact-form"
+    },
+    {
+      "first name": "Lamar",
+      "last name": "Smith",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "11/19/1947",
+      "phone": "202-225-4236",
+      "email": "http://lamarsmith.house.gov/contact/email-lamar"
+    },
+    {
+      "first name": "Mac",
+      "last name": "Thornberry",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "7/15/1958",
+      "phone": "202-225-3706",
+      "email": "https://thornberry.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Ted",
+      "last name": "Cruz",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "12/22/1970",
+      "phone": "202-224-5922",
+      "email": "http://www.cruz.senate.gov/?p=email_senator"
+    },
+    {
+      "first name": "Randy",
+      "last name": "Weber",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "7/2/1953",
+      "phone": "202-225-2831",
+      "email": "https://weber.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Beto",
+      "last name": "O'Rourke",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "9/26/1972",
+      "phone": "202-225-4831",
+      "email": "https://orourkeforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Joaquin",
+      "last name": "Castro",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "9/16/1974",
+      "phone": "202-225-3236",
+      "email": "https://castro.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Roger",
+      "last name": "Williams",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "9/13/1949",
+      "phone": "202-225-9896",
+      "email": "https://williams.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Marc",
+      "last name": "Veasey",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "1/3/1971",
+      "phone": "202-225-9897",
+      "email": "https://veaseyforms.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Filemon",
+      "last name": "Vela",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "2/13/1963",
+      "phone": "202-225-9901",
+      "email": "https://forms.house.gov/vela/webforms/email-me.shtml"
+    },
+    {
+      "first name": "John",
+      "last name": "Ratcliffe",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "10/20/1965",
+      "phone": "202-225-6673",
+      "email": ""
+    },
+    {
+      "first name": "Will",
+      "last name": "Hurd",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "8/19/1977",
+      "phone": "202-225-4511",
+      "email": ""
+    },
+    {
+      "first name": "Brian",
+      "last name": "Babin",
+      "state": "TX",
+      "type": "Qualified",
+      "birthday": "3/23/1948",
+      "phone": "202-225-1555",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Orrin",
+      "last name": "Hatch",
+      "state": "UT",
+      "type": "Qualified",
+      "birthday": "3/22/1934",
+      "phone": "202-224-5251",
+      "email": "http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin"
+    },
+    {
+      "first name": "Rob",
+      "last name": "Bishop",
+      "state": "UT",
+      "type": "Qualified",
+      "birthday": "7/13/1951",
+      "phone": "202-225-0453",
+      "email": "https://robbishop.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Jason",
+      "last name": "Chaffetz",
+      "state": "UT",
+      "type": "Qualified",
+      "birthday": "3/26/1967",
+      "phone": "202-225-7751",
+      "email": "https://chaffetz.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Mike",
+      "last name": "Lee",
+      "state": "UT",
+      "type": "Qualified",
+      "birthday": "6/4/1971",
+      "phone": "202-224-5444",
+      "email": "http://www.lee.senate.gov/public/index.cfm/contact"
+    },
+    {
+      "first name": "Chris",
+      "last name": "Stewart",
+      "state": "UT",
+      "type": "Qualified",
+      "birthday": "7/15/1960",
+      "phone": "202-225-9730",
+      "email": "https://stewart.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Mia",
+      "last name": "Love",
+      "state": "UT",
+      "type": "Qualified",
+      "birthday": "12/6/1975",
+      "phone": "202-225-3011",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Bernard",
+      "last name": "Sanders",
+      "state": "VT",
+      "type": "Qualified",
+      "birthday": "9/8/1941",
+      "phone": "202-224-5141",
+      "email": "http://www.sanders.senate.gov/contact/comment"
+    },
+    {
+      "first name": "Patrick",
+      "last name": "Leahy",
+      "state": "VT",
+      "type": "Qualified",
+      "birthday": "3/31/1940",
+      "phone": "202-224-4242",
+      "email": "https://www.leahy.senate.gov/contact/"
+    },
+    {
+      "first name": "Peter",
+      "last name": "Welch",
+      "state": "VT",
+      "type": "Qualified",
+      "birthday": "5/2/1947",
+      "phone": "202-225-4115",
+      "email": "https://welch.house.gov/email-me"
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Mark",
+      "last name": "Warner",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "12/15/1954",
+      "phone": "202-224-2023",
+      "email": "http://www.warner.senate.gov/public//index.cfm?p=ContactPage#form_f9db6196-2dc7-4cda-8add-f8435a71318a"
+    },
+    {
+      "first name": "Gerald",
+      "last name": "Connolly",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "3/30/1950",
+      "phone": "202-225-1492",
+      "email": "https://forms.house.gov/connolly/contact-form.shtml"
+    },
+    {
+      "first name": "J.",
+      "last name": "Forbes",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "2/17/1952",
+      "phone": "202-225-6365",
+      "email": "https://forbes.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Bob",
+      "last name": "Goodlatte",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "9/22/1952",
+      "phone": "202-225-5431",
+      "email": "http://goodlatte.house.gov/contacts/new"
+    },
+    {
+      "first name": "H.",
+      "last name": "Griffith",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "3/15/1958",
+      "phone": "202-225-3861",
+      "email": "https://morgangriffith.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Robert",
+      "last name": "Hurt",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "6/16/1969",
+      "phone": "202-225-4711",
+      "email": "https://hurt.house.gov/index.cfm/email-me"
+    },
+    {
+      "first name": "Edward",
+      "last name": "Rigell",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "5/28/1960",
+      "phone": "202-225-4215",
+      "email": "https://rigell.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Robert",
+      "last name": "Scott",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "4/30/1947",
+      "phone": "202-225-8351",
+      "email": "https://bobbyscott.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Robert",
+      "last name": "Wittman",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "2/3/1959",
+      "phone": "202-225-4261",
+      "email": "https://wittman.house.gov/contact-form/"
+    },
+    {
+      "first name": "Timothy",
+      "last name": "Kaine",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "2/26/1958",
+      "phone": "202-224-4024",
+      "email": "http://www.kaine.senate.gov/contact"
+    },
+    {
+      "first name": "David",
+      "last name": "Brat",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "7/27/1964",
+      "phone": "202-225-2815",
+      "email": "http://brat.house.gov/contact"
+    },
+    {
+      "first name": "Donald",
+      "last name": "Beyer",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "6/20/1950",
+      "phone": "202-225-4376",
+      "email": ""
+    },
+    {
+      "first name": "Barbara",
+      "last name": "Comstock",
+      "state": "VA",
+      "type": "Qualified",
+      "birthday": "6/30/1959",
+      "phone": "202-225-5136",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Maria",
+      "last name": "Cantwell",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "10/13/1958",
+      "phone": "202-224-3441",
+      "email": "http://www.cantwell.senate.gov/public/index.cfm/email-maria"
+    },
+    {
+      "first name": "Jaime",
+      "last name": "Herrera Beutler",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "11/3/1978",
+      "phone": "202-225-3536",
+      "email": "http://herrerabeutler.house.gov/contact/"
+    },
+    {
+      "first name": "Rick",
+      "last name": "Larsen",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "6/15/1965",
+      "phone": "202-225-2605",
+      "email": "http://larsen.house.gov/contact-rick/email-rick"
+    },
+    {
+      "first name": "Jim",
+      "last name": "McDermott",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "12/28/1936",
+      "phone": "202-225-3106",
+      "email": "https://forms.house.gov/mcdermott/webforms/new/contact.shtml"
+    },
+    {
+      "first name": "Cathy",
+      "last name": "McMorris Rodgers",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "5/22/1969",
+      "phone": "202-225-2006",
+      "email": "https://mcmorrisforms.house.gov/write-to-cathy1"
+    },
+    {
+      "first name": "Patty",
+      "last name": "Murray",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "10/11/1950",
+      "phone": "202-224-2621",
+      "email": "http://www.murray.senate.gov/public/index.cfm/contactme"
+    },
+    {
+      "first name": "David",
+      "last name": "Reichert",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "8/29/1950",
+      "phone": "202-225-7761",
+      "email": "https://reichert.house.gov/contact-me"
+    },
+    {
+      "first name": "Adam",
+      "last name": "Smith",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "6/15/1965",
+      "phone": "202-225-8901",
+      "email": "https://adamsmith.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Suzan",
+      "last name": "DelBene",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "2/17/1962",
+      "phone": "202-225-6311",
+      "email": "http://delbene.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Derek",
+      "last name": "Kilmer",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "1/1/1974",
+      "phone": "202-225-5916",
+      "email": "https://kilmer.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Denny",
+      "last name": "Heck",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "7/29/1952",
+      "phone": "202-225-9740",
+      "email": "https://dennyheck.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Dan",
+      "last name": "Newhouse",
+      "state": "WA",
+      "type": "Qualified",
+      "birthday": "7/10/1955",
+      "phone": "202-225-5816",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Joe",
+      "last name": "Manchin",
+      "state": "WV",
+      "type": "Qualified",
+      "birthday": "8/24/1947",
+      "phone": "202-224-3954",
+      "email": "http://www.manchin.senate.gov/public/index.cfm/contact-form"
+    },
+    {
+      "first name": "Shelley",
+      "last name": "Capito",
+      "state": "WV",
+      "type": "Qualified",
+      "birthday": "11/26/1953",
+      "phone": "202-224-6472",
+      "email": ""
+    },
+    {
+      "first name": "David",
+      "last name": "McKinley",
+      "state": "WV",
+      "type": "Qualified",
+      "birthday": "3/28/1947",
+      "phone": "202-225-4172",
+      "email": "https://mckinleyforms.house.gov/email-me"
+    },
+    {
+      "first name": "Alex",
+      "last name": "Mooney",
+      "state": "WV",
+      "type": "Qualified",
+      "birthday": "6/5/1971",
+      "phone": "202-225-2711",
+      "email": ""
+    },
+    {
+      "first name": "Evan",
+      "last name": "Jenkins",
+      "state": "WV",
+      "type": "Qualified",
+      "birthday": "9/12/1960",
+      "phone": "202-225-3452",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "Tammy",
+      "last name": "Baldwin",
+      "state": "WI",
+      "type": "Qualified",
+      "birthday": "2/11/1962",
+      "phone": "202-224-5653",
+      "email": "http://www.baldwin.senate.gov/contact"
+    },
+    {
+      "first name": "Sean",
+      "last name": "Duffy",
+      "state": "WI",
+      "type": "Qualified",
+      "birthday": "10/3/1971",
+      "phone": "202-225-3365",
+      "email": "http://duffy.house.gov/contact"
+    },
+    {
+      "first name": "Ron",
+      "last name": "Johnson",
+      "state": "WI",
+      "type": "Qualified",
+      "birthday": "4/8/1955",
+      "phone": "202-224-5323",
+      "email": "http://www.ronjohnson.senate.gov/public/index.cfm/contact"
+    },
+    {
+      "first name": "Ron",
+      "last name": "Kind",
+      "state": "WI",
+      "type": "Qualified",
+      "birthday": "3/16/1963",
+      "phone": "202-225-5506",
+      "email": "https://kindforms.house.gov/email-ron"
+    },
+    {
+      "first name": "Gwen",
+      "last name": "Moore",
+      "state": "WI",
+      "type": "Qualified",
+      "birthday": "4/18/1951",
+      "phone": "202-225-4572",
+      "email": "https://gwenmoore.house.gov/contact-form"
+    },
+    {
+      "first name": "Reid",
+      "last name": "Ribble",
+      "state": "WI",
+      "type": "Qualified",
+      "birthday": "4/5/1956",
+      "phone": "202-225-5665",
+      "email": "https://ribble.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Paul",
+      "last name": "Ryan",
+      "state": "WI",
+      "type": "Qualified",
+      "birthday": "1/29/1970",
+      "phone": "202-225-3031",
+      "email": "https://paulryan.house.gov/contact/email.htm#.U032ra1dU_d"
+    },
+    {
+      "first name": "F.",
+      "last name": "Sensenbrenner",
+      "state": "WI",
+      "type": "Qualified",
+      "birthday": "6/14/1943",
+      "phone": "202-225-5101",
+      "email": "http://sensenbrenner.house.gov/contact/email.htm"
+    },
+    {
+      "first name": "Mark",
+      "last name": "Pocan",
+      "state": "WI",
+      "type": "Qualified",
+      "birthday": "8/14/1964",
+      "phone": "202-225-2906",
+      "email": "https://pocan.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Glenn",
+      "last name": "Grothman",
+      "state": "WI",
+      "type": "Qualified",
+      "birthday": "7/3/1955",
+      "phone": "202-225-2476",
+      "email": ""
+    },
+    {
+      "first name": ""
+    }
+  ],
+  [
+    {
+      "first name": "John",
+      "last name": "Barrasso",
+      "state": "WY",
+      "type": "Qualified",
+      "birthday": "7/21/1952",
+      "phone": "202-224-6441",
+      "email": "http://www.barrasso.senate.gov/public/index.cfm?FuseAction=ContactUs.ContactForm"
+    },
+    {
+      "first name": "Michael",
+      "last name": "Enzi",
+      "state": "WY",
+      "type": "Qualified",
+      "birthday": "2/1/1944",
+      "phone": "202-224-3424",
+      "email": "http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi"
+    },
+    {
+      "first name": "Cynthia",
+      "last name": "Lummis",
+      "state": "WY",
+      "type": "Qualified",
+      "birthday": "9/10/1954",
+      "phone": "202-225-2311",
+      "email": "http://lummis.house.gov/contact/"
+    },
+    {
+      "first name": ""
+    }
+  ]
+]
