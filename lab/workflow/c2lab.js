@@ -132,10 +132,17 @@ function transformTableArrayIntoObjArray(hdr, d) {
     for (let i = 0; i < arr.length; i++){
         let key = hdr[i].trim();
         let val = arr[i].trim();
-        obj[ key ] = val;
+        if (val) {
+          obj[ key ] = val;
+        }
     }
     return obj;
   });
+  //check last for empty obj (better way to do this?)
+  if (Object.keys(doc[ doc.length - 1]).length === 0) {
+    doc.pop(); // remove empty object from array
+  }
+
   return doc;
 }
 // put back together
