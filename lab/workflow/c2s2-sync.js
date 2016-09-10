@@ -35,14 +35,12 @@ function readFiles(config, files) {
   let consolidatedData = '';
 
   file_data = files.map( (file, index, array) => {
-    let obj = {};
+    let reformattedData;
     let data = fs.readFileSync(path + '/' + file, 'utf8');
     // sub workflow for csv
-    obj = parse(config, data);   // input: string | output: string if i/o formats both csv
-    if (index === 0) {
-      return obj.header + obj.data; // I have a problem here... this will not work for JSON
-    }
-    return obj.data;
+    reformattedData = parse(config, data, index);   // input: string | output: string if i/o formats both csv
+
+    return reformattedData;
   });
 
   consolidatedData = file_data.join('');
@@ -76,7 +74,7 @@ function execute( config ) {
 
 // Sub workflow inside iterator
 // * function parse - identify input format, select appropriate parse
-function parse(config, d){
+function parse(config, d, idx){
   let input = config.input.format;
   let output = config.output.format;
   let hdr = '';
@@ -87,10 +85,14 @@ function parse(config, d){
     d = parseCsvRowsIntoCells(d)  // input: array  | output: 2d array (table)
     d = joinCsvCellsIntoRows(d)   // input: 2d array | output: array
     d = joinCsvRows(d);           // input: array  | output: string
-    return { header: hdr, data: d };
+    if (idx === 0) {
+      hdr = retrieveCsvHeaders(d);
+      return hdr + d;
+    }
+    return d;
   } else if (input === 'csv' && output === 'json') {
     d = parseCsvIntoRows(d);
-    d = parseCswRowsIntoCells(d);
+    d = parseCsvRowsIntoCells(d);
   } else {
     return console.log('Operation not supported');
   }
