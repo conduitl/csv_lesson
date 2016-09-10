@@ -13,7 +13,7 @@ var settings = {
   output: {
     path: 'output',
     file: 'consolidated.csv',
-    format: 'csv'
+    format: 'json'
   }
 };
 execute(settings);
@@ -42,9 +42,13 @@ function readFiles(config, files) {
 
     return reformattedData;
   });
-
-  consolidatedData = file_data.join('');
-
+  // TODO following needs to be in separate function
+  if (config.output.format === 'csv') {
+    consolidatedData = file_data.join('');
+  }
+  if (config.output.format === 'json') {
+    console.log(file_data);
+  }
   next(null, config, consolidatedData);
 }
 
@@ -91,8 +95,12 @@ function parse(config, d, idx){
     }
     return d;
   } else if (input === 'csv' && output === 'json') {
+    hdr = retrieveCsvHeaders(d);
+    hdr = hdr.split(',');
     d = parseCsvIntoRows(d);
     d = parseCsvRowsIntoCells(d);
+    d = transformTableArrayIntoObjArray(hdr, d); // output: array of objs [{}, ...]
+    return d;
   } else {
     return console.log('Operation not supported');
   }
@@ -114,6 +122,19 @@ function parseCsvRowsIntoCells(d) {
     return row.split(',');
   });
   return table; // 2d array
+}
+
+function transformTableArrayIntoObjArray(hdr, d) {
+  // d : 2d array
+  let doc = [];
+  doc = d.map( (arr) => {
+    let obj = {};
+    for (let i = 0; i < arr.length; i++){
+        obj[ hdr[i] ] = arr[i];
+    }
+    return obj;
+  });
+  return doc;
 }
 // put back together
 function joinCsvCellsIntoRows(d) {
