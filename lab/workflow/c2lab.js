@@ -1,5 +1,5 @@
 // Commit objective - Support grabbing the header
-// Goal - support parsing to json
+// Goal - write html table fragment
 // Case 2 
 const fs = require('fs');
 const path = require('path');
@@ -12,8 +12,8 @@ var settings = {
   },
   output: {
     path: 'output',
-    file: 'consolidated.csv',
-    format: 'csv'
+    file: 'consolidated.html',
+    format: 'html'
   }
 };
 execute(settings);
@@ -39,7 +39,7 @@ function readFiles(config, files) {
     let data = fs.readFileSync(path + '/' + file, 'utf8');
     // sub workflow for csv
     reformattedData = parse(config, data, index);   // input: string | output: string if i/o formats both csv
-
+    console.log(reformattedData);
     return reformattedData;
   });
   // TODO following needs to be in separate function
@@ -48,6 +48,10 @@ function readFiles(config, files) {
   }
   if (config.output.format === 'json') {
     consolidatedData = prepareJson(file_data);
+  }
+  if (config.output.format === 'html'){
+    consolidatedData = file_data.join('');
+    consolidatedData = '<html><head></head><body><table>' + consolidatedData + '</table></body></html>';
   }
   next(null, config, consolidatedData);
 }
@@ -101,6 +105,16 @@ function parse(config, d, idx){
     d = parseCsvRowsIntoCells(d);
     d = transformTableArrayIntoObjArray(hdr, d); // output: array of objs [{}, ...]
     return d;
+  } else if (output === 'html') {
+    // same steps as going to JSON
+    hdr = retrieveCsvHeaders(d);
+    hdr = hdr.split(',');
+    d = parseCsvIntoRows(d);
+    d = parseCsvRowsIntoCells(d);
+    d = transformTableArrayIntoObjArray(hdr, d); // output: array of objs [{}, ...]
+    // unique steps
+    d = buildHtmlTable(d);
+    return d;
   } else {
     return console.log('Operation not supported');
   }
@@ -123,7 +137,7 @@ function parseCsvRowsIntoCells(d) {
   });
   return table; // 2d array
 }
-
+// make standard format [{},{},...]
 function transformTableArrayIntoObjArray(hdr, d) {
   // d : 2d array
   let doc = [];
@@ -160,4 +174,18 @@ function joinCsvRows(d) {
 // JSON parsing functions
 function prepareJson(d) {
   return JSON.stringify(d, null, 2);
+}
+
+// Html output
+function buildHtmlTable(d) {
+  // d: [{}, ...]
+  let html = '';
+  for (let i = 0; i < d.length; d++) {
+    html+= '<tr>';
+    for (let prop in d[i]) {
+      html+= '<td>' + d[i][prop] + '</td>';
+    }
+    html+= '</tr>';
+  }
+  return html;
 }
