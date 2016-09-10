@@ -12,8 +12,8 @@ var settings = {
   },
   output: {
     path: 'output',
-    file: 'consolidated.json',
-    format: 'json'
+    file: 'consolidated.csv',
+    format: 'csv'
   }
 };
 execute(settings);
