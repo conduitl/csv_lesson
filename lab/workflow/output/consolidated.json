@@ -929,6 +929,266 @@
   ],
   [
     {
+      "first name": "Bill",
+      "last name": "Nelson",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "9/29/1942",
+      "phone": "202-224-5274",
+      "email": "http://www.billnelson.senate.gov/contact-bill"
+    },
+    {
+      "first name": "Gus",
+      "last name": "Bilirakis",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "2/8/1963",
+      "phone": "202-225-5755",
+      "email": "https://bilirakis.house.gov/email-congressman-bilirakis/"
+    },
+    {
+      "first name": "Corrine",
+      "last name": "Brown",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "11/11/1946",
+      "phone": "202-225-0123",
+      "email": "https://forms.house.gov/corrinebrown/webforms/contact-me.shtml"
+    },
+    {
+      "first name": "Vern",
+      "last name": "Buchanan",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "5/8/1951",
+      "phone": "202-225-5015",
+      "email": "https://buchanan.house.gov/email-me"
+    },
+    {
+      "first name": "Kathy",
+      "last name": "Castor",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "8/20/1966",
+      "phone": "202-225-3376",
+      "email": "https://castor.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Ander",
+      "last name": "Crenshaw",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "9/1/1944",
+      "phone": "202-225-2501",
+      "email": "https://forms.house.gov/write/crenshaw/email-me.shtml"
+    },
+    {
+      "first name": "Theodore",
+      "last name": "Deutch",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "5/7/1966",
+      "phone": "202-225-3001",
+      "email": "https://teddeutch.house.gov/forms/writeyourrep/default.aspx"
+    },
+    {
+      "first name": "Mario",
+      "last name": "Diaz-Balart",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "9/25/1961",
+      "phone": "202-225-4211",
+      "email": "http://mariodiazbalart.house.gov/contact-mario/write-rep-diaz-balart"
+    },
+    {
+      "first name": "Alcee",
+      "last name": "Hastings",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "9/5/1936",
+      "phone": "202-225-1313",
+      "email": "https://alceehastings.house.gov/forms/writeyourrep/?zip5=33407&zip4=3224"
+    },
+    {
+      "first name": "John",
+      "last name": "Mica",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "1/27/1943",
+      "phone": "202-225-4035",
+      "email": "https://mica.house.gov/contact-form"
+    },
+    {
+      "first name": "Jeff",
+      "last name": "Miller",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "6/27/1959",
+      "phone": "202-225-4136",
+      "email": "https://jeffmiller.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Richard",
+      "last name": "Nugent",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "5/26/1951",
+      "phone": "202-225-1002",
+      "email": "https://nugent.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Bill",
+      "last name": "Posey",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "12/18/1947",
+      "phone": "202-225-3671",
+      "email": "https://posey.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Thomas",
+      "last name": "Rooney",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "11/21/1970",
+      "phone": "202-225-5792",
+      "email": "https://rooney.house.gov/email-me"
+    },
+    {
+      "first name": "Ileana",
+      "last name": "Ros-Lehtinen",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "7/15/1952",
+      "phone": "202-225-3931",
+      "email": "https://ros-lehtinen.house.gov/contact-me/email-me"
+    },
+    {
+      "first name": "Dennis",
+      "last name": "Ross",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "10/18/1959",
+      "phone": "202-225-1252",
+      "email": "https://dennisross.house.gov/forms/writeyourrep/"
+    },
+    {
+      "first name": "Marco",
+      "last name": "Rubio",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "5/28/1971",
+      "phone": "202-224-3041",
+      "email": "http://www.rubio.senate.gov/public/index.cfm/contact"
+    },
+    {
+      "first name": "Debbie",
+      "last name": "Wasserman Schultz",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "9/27/1966",
+      "phone": "202-225-7931",
+      "email": "http://wassermanschultz.house.gov/contact/email-me.shtml"
+    },
+    {
+      "first name": "Daniel",
+      "last name": "Webster",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "4/27/1949",
+      "phone": "202-225-2176",
+      "email": "https://webster.house.gov/contact/contactform.htm"
+    },
+    {
+      "first name": "Frederica",
+      "last name": "Wilson",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "11/5/1942",
+      "phone": "202-225-4506",
+      "email": "https://wilsonforms.house.gov/contact-form"
+    },
+    {
+      "first name": "Alan",
+      "last name": "Grayson",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "3/13/1958",
+      "phone": "202-225-9889",
+      "email": "https://grayson.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Ted",
+      "last name": "Yoho",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "4/13/1955",
+      "phone": "202-225-5744",
+      "email": "https://yoho.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Ron",
+      "last name": "DeSantis",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "9/14/1978",
+      "phone": "202-225-2706",
+      "email": "https://desantis.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Patrick",
+      "last name": "Murphy",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "3/30/1983",
+      "phone": "202-225-3026",
+      "email": "http://patrickmurphy.house.gov/contact/"
+    },
+    {
+      "first name": "Lois",
+      "last name": "Frankel",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "5/16/1948",
+      "phone": "202-225-9890",
+      "email": "https://frankel.house.gov/contact/email-me"
+    },
+    {
+      "first name": "David",
+      "last name": "Jolly",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "10/31/1972",
+      "phone": "202-225-5961",
+      "email": "https://jolly.house.gov/contact/email-me"
+    },
+    {
+      "first name": "Curtis",
+      "last name": "Clawson",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "9/28/1959",
+      "phone": "202-225-2536"
+    },
+    {
+      "first name": "Gwen",
+      "last name": "Graham",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "1/31/1963",
+      "phone": "202-225-5235"
+    },
+    {
+      "first name": "Carlos",
+      "last name": "Curbelo",
+      "state": "FL",
+      "type": "Qualified",
+      "birthday": "3/1/1980",
+      "phone": "202-225-2778"
+    }
+  ],
+  [
+    {
       "first name": "Sanford",
       "last name": "Bishop",
       "state": "GA",

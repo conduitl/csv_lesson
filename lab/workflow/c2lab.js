@@ -1,5 +1,5 @@
 // Commit objective - 
-// Goal - svg ouput
+// Goal - write multiple outputs at once
 // Case 2 
 const fs = require('fs');
 const path = require('path');
@@ -12,8 +12,8 @@ var settings = {
   },
   output: {
     path: 'output',
-    file: 'consolidated.html',
-    format: 'svg'
+    file: 'consolidated',
+    formats: ['csv','json','html','svg']
   }
 };
 execute(settings);
@@ -33,38 +33,54 @@ function readFiles(config, files) {
   let path = config.input.path;
   let file_data = [];
   let consolidatedData = '';
+  let outputs = config.output.formats;
+  let input = config.input.format;
 
-  file_data = files.map( (file, index, array) => {
-    let reformattedData;
-    let data = fs.readFileSync(path + '/' + file, 'utf8');
-    // sub workflow for csv
-    reformattedData = parse(config, data, index);   // input: string | output: string if i/o formats both csv
-    return reformattedData;
-  });
-  // TODO following needs to be in separate function
-  if (config.output.format === 'csv') {
-    consolidatedData = file_data.join('');
+  // Remove this loop in final -- Achieve logic in more elegant, semantic way
+  // * consolidate data only once in a single format
+  // * read input files only once
+  // * output logic in separate function
+  for (let i = 0; i < outputs.length; i++ ) {
+
+    // Read the data from the files and parse it
+    file_data = files.map( (file, index, array) => {
+      let reformattedData;
+      let data = fs.readFileSync(path + '/' + file, 'utf8');
+      // sub workflow for csv
+      reformattedData = parse( [input, outputs[i] ], data, index);   // changed 1st arg to take array [input, output]
+      return reformattedData;
+    });
+
+    // TODO following needs to be in separate function
+    if (outputs[i] === 'csv') {
+      consolidatedData = file_data.join('');
+    }
+    if (outputs[i] === 'json') {
+      consolidatedData = prepareJson(file_data);
+    }
+    if (outputs[i] === 'html') {
+      consolidatedData = file_data.join('');
+      consolidatedData = '<html><head><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"></head><body><table class="table">' + consolidatedData + '</table></body></html>';
+    }
+    if (outputs[i] === 'svg') {
+      consolidatedData = file_data.join('');
+      consolidatedData = '<html><head></head><body><table>' + consolidatedData + '</table></body></html>';
+    }
+    createOutputFile(config, consolidatedData, outputs[i]); // added arg for format is really ugly
   }
-  if (config.output.format === 'json') {
-    consolidatedData = prepareJson(file_data);
-  }
-  if (config.output.format === 'html') {
-    consolidatedData = file_data.join('');
-    consolidatedData = '<html><head><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"></head><body><table class="table">' + consolidatedData + '</table></body></html>';
-  }
-  if (config.output.format === 'svg') {
-    consolidatedData = file_data.join('');
-    consolidatedData = '<html><head></head><body><table>' + consolidatedData + '</table></body></html>';
-  }
-  next(null, config, consolidatedData);
+  // Next no longer works with loop
+  // next(null, config, consolidatedData);
 }
 
-function createOutputFile(config, data) {
+function createOutputFile(config, data, format) { // need to rethink how I approach format argument
   let path = config.output.path;
   let file = config.output.file;
-
-  fs.writeFileSync(path + '/' + file, data);
-  console.log('File written to: ' + path + '/' + file);
+  if (format === 'svg') { // Ugh... another ugly workaround :(
+    file = file + '_svg';
+    format = 'html';
+  }
+  fs.writeFileSync(path + '/' + file + '.' + format, data);
+  console.log('File written to: ' + path + '/' + file + '.' + format);
   next(null, config);
 }
 
@@ -85,10 +101,9 @@ function execute( config ) {
 
 // Sub workflow inside iterator
 // * function parse - identify input format, select appropriate parse
-function parse(config, d, idx){
-  let input = config.input.format;
-  let output = config.output.format;
-  let hdr = '';
+function parse(io, d, idx){
+  let input = io[0];
+  let output = io[1];
 
   if (input === 'csv' && output === 'csv') {
     hdr = retrieveCsvHeaders(d);
