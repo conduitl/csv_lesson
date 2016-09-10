@@ -39,7 +39,6 @@ function readFiles(config, files) {
     let data = fs.readFileSync(path + '/' + file, 'utf8');
     // sub workflow for csv
     reformattedData = parse(config, data, index);   // input: string | output: string if i/o formats both csv
-    console.log(reformattedData);
     return reformattedData;
   });
   // TODO following needs to be in separate function
@@ -51,7 +50,7 @@ function readFiles(config, files) {
   }
   if (config.output.format === 'html'){
     consolidatedData = file_data.join('');
-    consolidatedData = '<html><head></head><body><table>' + consolidatedData + '</table></body></html>';
+    consolidatedData = '<html><head><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"></head><body><table class="table">' + consolidatedData + '</table></body></html>';
   }
   next(null, config, consolidatedData);
 }
@@ -180,12 +179,13 @@ function prepareJson(d) {
 function buildHtmlTable(d) {
   // d: [{}, ...]
   let html = '';
-  for (let i = 0; i < d.length; d++) {
-    html+= '<tr>';
+  for (let i = 0; i < d.length; i++) {
+    let row = '<tr>';
     for (let prop in d[i]) {
-      html+= '<td>' + d[i][prop] + '</td>';
+      row+= '<td>' + d[i][prop] + '</td>';
     }
-    html+= '</tr>';
+    row+= '</tr>';
+    html+=row;
   }
   return html;
 }
